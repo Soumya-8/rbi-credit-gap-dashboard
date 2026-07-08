@@ -1,0 +1,385 @@
+year,state,region,state_code,bank_type,deposits_crore,credit_crore,deposit_credit_ratio
+2017,Maharashtra,West,IN-MH,Public Sector Banks,562.61,439.41,78.1
+2017,Maharashtra,West,IN-MH,Private Sector Banks,659.01,522.99,79.36
+2017,Maharashtra,West,IN-MH,Regional Rural Banks,81.58,63.62,77.98
+2018,Maharashtra,West,IN-MH,Public Sector Banks,587.45,499.03,84.95
+2018,Maharashtra,West,IN-MH,Private Sector Banks,776.83,648.34,83.46
+2018,Maharashtra,West,IN-MH,Regional Rural Banks,84.98,68.07,80.1
+2019,Maharashtra,West,IN-MH,Public Sector Banks,677.32,575.04,84.9
+2019,Maharashtra,West,IN-MH,Private Sector Banks,841.3,727.04,86.42
+2019,Maharashtra,West,IN-MH,Regional Rural Banks,98.71,81.92,82.99
+2020,Maharashtra,West,IN-MH,Public Sector Banks,717.59,618.84,86.24
+2020,Maharashtra,West,IN-MH,Private Sector Banks,875.99,757.9,86.52
+2020,Maharashtra,West,IN-MH,Regional Rural Banks,108.12,89.22,82.51
+2021,Maharashtra,West,IN-MH,Public Sector Banks,800.8,721.84,90.14
+2021,Maharashtra,West,IN-MH,Private Sector Banks,1007.98,886.0,87.9
+2021,Maharashtra,West,IN-MH,Regional Rural Banks,109.93,98.92,89.98
+2022,Maharashtra,West,IN-MH,Public Sector Banks,880.87,756.58,85.89
+2022,Maharashtra,West,IN-MH,Private Sector Banks,1084.45,941.48,86.82
+2022,Maharashtra,West,IN-MH,Regional Rural Banks,126.19,108.81,86.23
+2023,Maharashtra,West,IN-MH,Public Sector Banks,943.87,876.15,92.83
+2023,Maharashtra,West,IN-MH,Private Sector Banks,1205.29,1084.91,90.01
+2023,Maharashtra,West,IN-MH,Regional Rural Banks,141.03,128.78,91.32
+2024,Maharashtra,West,IN-MH,Public Sector Banks,1056.11,962.98,91.18
+2024,Maharashtra,West,IN-MH,Private Sector Banks,1372.34,1288.27,93.87
+2024,Maharashtra,West,IN-MH,Regional Rural Banks,145.58,132.34,90.9
+2017,Tamil Nadu,South,IN-TN,Public Sector Banks,325.38,254.84,78.32
+2017,Tamil Nadu,South,IN-TN,Private Sector Banks,403.88,310.66,76.92
+2017,Tamil Nadu,South,IN-TN,Regional Rural Banks,45.16,33.61,74.43
+2018,Tamil Nadu,South,IN-TN,Public Sector Banks,368.49,281.82,76.48
+2018,Tamil Nadu,South,IN-TN,Private Sector Banks,422.33,329.96,78.13
+2018,Tamil Nadu,South,IN-TN,Regional Rural Banks,52.39,40.63,77.55
+2019,Tamil Nadu,South,IN-TN,Public Sector Banks,399.59,314.06,78.6
+2019,Tamil Nadu,South,IN-TN,Private Sector Banks,485.59,394.86,81.31
+2019,Tamil Nadu,South,IN-TN,Regional Rural Banks,55.13,43.25,78.45
+2020,Tamil Nadu,South,IN-TN,Public Sector Banks,406.98,320.04,78.64
+2020,Tamil Nadu,South,IN-TN,Private Sector Banks,517.97,435.06,83.99
+2020,Tamil Nadu,South,IN-TN,Regional Rural Banks,62.9,50.82,80.79
+2021,Tamil Nadu,South,IN-TN,Public Sector Banks,446.47,376.99,84.44
+2021,Tamil Nadu,South,IN-TN,Private Sector Banks,557.08,475.3,85.32
+2021,Tamil Nadu,South,IN-TN,Regional Rural Banks,63.78,51.6,80.91
+2022,Tamil Nadu,South,IN-TN,Public Sector Banks,512.51,447.19,87.26
+2022,Tamil Nadu,South,IN-TN,Private Sector Banks,645.43,536.92,83.19
+2022,Tamil Nadu,South,IN-TN,Regional Rural Banks,75.76,64.13,84.65
+2023,Tamil Nadu,South,IN-TN,Public Sector Banks,550.31,485.17,88.16
+2023,Tamil Nadu,South,IN-TN,Private Sector Banks,687.95,610.64,88.76
+2023,Tamil Nadu,South,IN-TN,Regional Rural Banks,79.45,68.66,86.42
+2024,Tamil Nadu,South,IN-TN,Public Sector Banks,594.95,503.93,84.7
+2024,Tamil Nadu,South,IN-TN,Private Sector Banks,738.6,622.71,84.31
+2024,Tamil Nadu,South,IN-TN,Regional Rural Banks,89.12,77.86,87.36
+2017,Karnataka,South,IN-KA,Public Sector Banks,283.15,228.97,80.87
+2017,Karnataka,South,IN-KA,Private Sector Banks,376.82,295.84,78.51
+2017,Karnataka,South,IN-KA,Regional Rural Banks,43.14,34.29,79.47
+2018,Karnataka,South,IN-KA,Public Sector Banks,313.1,239.97,76.64
+2018,Karnataka,South,IN-KA,Private Sector Banks,402.94,308.48,76.56
+2018,Karnataka,South,IN-KA,Regional Rural Banks,46.45,37.95,81.71
+2019,Karnataka,South,IN-KA,Public Sector Banks,347.62,286.78,82.5
+2019,Karnataka,South,IN-KA,Private Sector Banks,440.48,353.57,80.27
+2019,Karnataka,South,IN-KA,Regional Rural Banks,47.9,39.19,81.82
+2020,Karnataka,South,IN-KA,Public Sector Banks,379.55,318.93,84.03
+2020,Karnataka,South,IN-KA,Private Sector Banks,481.45,405.47,84.22
+2020,Karnataka,South,IN-KA,Regional Rural Banks,55.65,46.08,82.81
+2021,Karnataka,South,IN-KA,Public Sector Banks,432.49,375.88,86.91
+2021,Karnataka,South,IN-KA,Private Sector Banks,500.81,426.33,85.13
+2021,Karnataka,South,IN-KA,Regional Rural Banks,61.59,51.05,82.9
+2022,Karnataka,South,IN-KA,Public Sector Banks,479.76,413.89,86.27
+2022,Karnataka,South,IN-KA,Private Sector Banks,572.39,488.15,85.28
+2022,Karnataka,South,IN-KA,Regional Rural Banks,64.31,54.77,85.16
+2023,Karnataka,South,IN-KA,Public Sector Banks,497.66,444.72,89.36
+2023,Karnataka,South,IN-KA,Private Sector Banks,639.54,563.62,88.13
+2023,Karnataka,South,IN-KA,Regional Rural Banks,72.65,63.0,86.72
+2024,Karnataka,South,IN-KA,Public Sector Banks,534.45,461.73,86.39
+2024,Karnataka,South,IN-KA,Private Sector Banks,714.21,632.43,88.55
+2024,Karnataka,South,IN-KA,Regional Rural Banks,77.44,70.84,91.47
+2017,Gujarat,West,IN-GJ,Public Sector Banks,355.53,263.81,74.2
+2017,Gujarat,West,IN-GJ,Private Sector Banks,263.54,188.93,71.69
+2017,Gujarat,West,IN-GJ,Regional Rural Banks,70.34,51.22,72.81
+2018,Gujarat,West,IN-GJ,Public Sector Banks,394.13,306.05,77.65
+2018,Gujarat,West,IN-GJ,Private Sector Banks,272.52,206.48,75.77
+2018,Gujarat,West,IN-GJ,Regional Rural Banks,77.91,60.74,77.96
+2019,Gujarat,West,IN-GJ,Public Sector Banks,439.8,328.99,74.8
+2019,Gujarat,West,IN-GJ,Private Sector Banks,317.84,255.76,80.47
+2019,Gujarat,West,IN-GJ,Regional Rural Banks,79.17,63.8,80.59
+2020,Gujarat,West,IN-GJ,Public Sector Banks,478.55,377.57,78.9
+2020,Gujarat,West,IN-GJ,Private Sector Banks,337.21,263.04,78.01
+2020,Gujarat,West,IN-GJ,Regional Rural Banks,90.37,71.21,78.8
+2021,Gujarat,West,IN-GJ,Public Sector Banks,514.11,411.42,80.03
+2021,Gujarat,West,IN-GJ,Private Sector Banks,388.6,311.61,80.19
+2021,Gujarat,West,IN-GJ,Regional Rural Banks,98.95,77.13,77.95
+2022,Gujarat,West,IN-GJ,Public Sector Banks,561.16,452.39,80.62
+2022,Gujarat,West,IN-GJ,Private Sector Banks,423.67,357.82,84.46
+2022,Gujarat,West,IN-GJ,Regional Rural Banks,105.88,87.52,82.66
+2023,Gujarat,West,IN-GJ,Public Sector Banks,611.41,504.0,82.43
+2023,Gujarat,West,IN-GJ,Private Sector Banks,456.84,391.12,85.61
+2023,Gujarat,West,IN-GJ,Regional Rural Banks,119.0,102.34,85.99
+2024,Gujarat,West,IN-GJ,Public Sector Banks,651.26,552.87,84.89
+2024,Gujarat,West,IN-GJ,Private Sector Banks,485.84,407.62,83.9
+2024,Gujarat,West,IN-GJ,Regional Rural Banks,135.0,117.04,86.69
+2017,Uttar Pradesh,North,IN-UP,Public Sector Banks,1037.29,704.68,67.93
+2017,Uttar Pradesh,North,IN-UP,Private Sector Banks,760.35,520.24,68.42
+2017,Uttar Pradesh,North,IN-UP,Regional Rural Banks,198.8,135.16,67.99
+2018,Uttar Pradesh,North,IN-UP,Public Sector Banks,1172.94,772.8,65.89
+2018,Uttar Pradesh,North,IN-UP,Private Sector Banks,901.07,596.32,66.18
+2018,Uttar Pradesh,North,IN-UP,Regional Rural Banks,229.27,154.73,67.49
+2019,Uttar Pradesh,North,IN-UP,Public Sector Banks,1310.36,923.1,70.45
+2019,Uttar Pradesh,North,IN-UP,Private Sector Banks,949.28,669.44,70.52
+2019,Uttar Pradesh,North,IN-UP,Regional Rural Banks,248.73,178.33,71.7
+2020,Uttar Pradesh,North,IN-UP,Public Sector Banks,1360.2,1000.0,73.52
+2020,Uttar Pradesh,North,IN-UP,Private Sector Banks,1017.1,736.37,72.4
+2020,Uttar Pradesh,North,IN-UP,Regional Rural Banks,281.59,191.38,67.96
+2021,Uttar Pradesh,North,IN-UP,Public Sector Banks,1583.26,1182.23,74.67
+2021,Uttar Pradesh,North,IN-UP,Private Sector Banks,1163.38,810.2,69.64
+2021,Uttar Pradesh,North,IN-UP,Regional Rural Banks,293.64,203.79,69.4
+2022,Uttar Pradesh,North,IN-UP,Public Sector Banks,1733.99,1229.5,70.91
+2022,Uttar Pradesh,North,IN-UP,Private Sector Banks,1266.33,927.15,73.22
+2022,Uttar Pradesh,North,IN-UP,Regional Rural Banks,325.04,229.82,70.71
+2023,Uttar Pradesh,North,IN-UP,Public Sector Banks,1753.72,1356.32,77.34
+2023,Uttar Pradesh,North,IN-UP,Private Sector Banks,1376.11,1008.78,73.31
+2023,Uttar Pradesh,North,IN-UP,Regional Rural Banks,361.76,271.67,75.1
+2024,Uttar Pradesh,North,IN-UP,Public Sector Banks,1997.13,1588.24,79.53
+2024,Uttar Pradesh,North,IN-UP,Private Sector Banks,1409.95,1088.68,77.21
+2024,Uttar Pradesh,North,IN-UP,Regional Rural Banks,383.91,296.36,77.2
+2017,West Bengal,East,IN-WB,Public Sector Banks,458.13,266.75,58.23
+2017,West Bengal,East,IN-WB,Private Sector Banks,325.79,204.4,62.74
+2017,West Bengal,East,IN-WB,Regional Rural Banks,89.17,53.85,60.39
+2018,West Bengal,East,IN-WB,Public Sector Banks,523.92,325.58,62.14
+2018,West Bengal,East,IN-WB,Private Sector Banks,363.1,229.46,63.2
+2018,West Bengal,East,IN-WB,Regional Rural Banks,92.6,59.52,64.28
+2019,West Bengal,East,IN-WB,Public Sector Banks,567.69,360.04,63.42
+2019,West Bengal,East,IN-WB,Private Sector Banks,395.83,245.99,62.15
+2019,West Bengal,East,IN-WB,Regional Rural Banks,107.32,66.01,61.51
+2020,West Bengal,East,IN-WB,Public Sector Banks,588.83,386.57,65.65
+2020,West Bengal,East,IN-WB,Private Sector Banks,427.47,265.6,62.13
+2020,West Bengal,East,IN-WB,Regional Rural Banks,115.48,76.98,66.66
+2021,West Bengal,East,IN-WB,Public Sector Banks,660.66,439.12,66.47
+2021,West Bengal,East,IN-WB,Private Sector Banks,493.8,339.33,68.72
+2021,West Bengal,East,IN-WB,Regional Rural Banks,124.38,80.73,64.9
+2022,West Bengal,East,IN-WB,Public Sector Banks,737.59,512.9,69.54
+2022,West Bengal,East,IN-WB,Private Sector Banks,536.84,362.11,67.45
+2022,West Bengal,East,IN-WB,Regional Rural Banks,142.4,97.29,68.32
+2023,West Bengal,East,IN-WB,Public Sector Banks,770.35,529.06,68.68
+2023,West Bengal,East,IN-WB,Private Sector Banks,570.76,395.78,69.34
+2023,West Bengal,East,IN-WB,Regional Rural Banks,145.99,96.56,66.14
+2024,West Bengal,East,IN-WB,Public Sector Banks,851.61,596.94,70.1
+2024,West Bengal,East,IN-WB,Private Sector Banks,642.02,458.71,71.45
+2024,West Bengal,East,IN-WB,Regional Rural Banks,170.19,118.13,69.41
+2017,Rajasthan,North,IN-RJ,Public Sector Banks,372.05,237.3,63.78
+2017,Rajasthan,North,IN-RJ,Private Sector Banks,262.24,173.0,65.97
+2017,Rajasthan,North,IN-RJ,Regional Rural Banks,67.16,42.09,62.66
+2018,Rajasthan,North,IN-RJ,Public Sector Banks,385.2,262.9,68.25
+2018,Rajasthan,North,IN-RJ,Private Sector Banks,284.07,187.32,65.94
+2018,Rajasthan,North,IN-RJ,Regional Rural Banks,73.89,50.64,68.53
+2019,Rajasthan,North,IN-RJ,Public Sector Banks,422.32,288.02,68.2
+2019,Rajasthan,North,IN-RJ,Private Sector Banks,313.44,205.11,65.44
+2019,Rajasthan,North,IN-RJ,Regional Rural Banks,81.62,57.89,70.92
+2020,Rajasthan,North,IN-RJ,Public Sector Banks,486.7,334.4,68.71
+2020,Rajasthan,North,IN-RJ,Private Sector Banks,350.64,248.24,70.79
+2020,Rajasthan,North,IN-RJ,Regional Rural Banks,90.02,63.91,71.0
+2021,Rajasthan,North,IN-RJ,Public Sector Banks,506.94,347.21,68.49
+2021,Rajasthan,North,IN-RJ,Private Sector Banks,375.71,260.49,69.33
+2021,Rajasthan,North,IN-RJ,Regional Rural Banks,102.14,72.9,71.37
+2022,Rajasthan,North,IN-RJ,Public Sector Banks,547.94,405.66,74.03
+2022,Rajasthan,North,IN-RJ,Private Sector Banks,394.25,293.06,74.33
+2022,Rajasthan,North,IN-RJ,Regional Rural Banks,104.88,72.95,69.55
+2023,Rajasthan,North,IN-RJ,Public Sector Banks,620.49,446.83,72.01
+2023,Rajasthan,North,IN-RJ,Private Sector Banks,453.04,346.96,76.59
+2023,Rajasthan,North,IN-RJ,Regional Rural Banks,119.05,84.86,71.28
+2024,Rajasthan,North,IN-RJ,Public Sector Banks,668.57,501.7,75.04
+2024,Rajasthan,North,IN-RJ,Private Sector Banks,504.94,396.03,78.43
+2024,Rajasthan,North,IN-RJ,Regional Rural Banks,128.63,99.49,77.35
+2017,Telangana,South,IN-TG,Public Sector Banks,167.33,132.45,79.16
+2017,Telangana,South,IN-TG,Private Sector Banks,196.84,153.09,77.77
+2017,Telangana,South,IN-TG,Regional Rural Banks,23.07,18.22,78.95
+2018,Telangana,South,IN-TG,Public Sector Banks,183.32,146.63,79.99
+2018,Telangana,South,IN-TG,Private Sector Banks,231.87,182.33,78.64
+2018,Telangana,South,IN-TG,Regional Rural Banks,25.89,19.91,76.89
+2019,Telangana,South,IN-TG,Public Sector Banks,198.03,160.38,80.99
+2019,Telangana,South,IN-TG,Private Sector Banks,252.89,205.0,81.06
+2019,Telangana,South,IN-TG,Regional Rural Banks,27.35,21.07,77.06
+2020,Telangana,South,IN-TG,Public Sector Banks,219.02,177.56,81.07
+2020,Telangana,South,IN-TG,Private Sector Banks,271.73,223.29,82.17
+2020,Telangana,South,IN-TG,Regional Rural Banks,31.13,25.44,81.72
+2021,Telangana,South,IN-TG,Public Sector Banks,236.66,199.32,84.22
+2021,Telangana,South,IN-TG,Private Sector Banks,296.26,240.03,81.02
+2021,Telangana,South,IN-TG,Regional Rural Banks,33.31,27.32,82.02
+2022,Telangana,South,IN-TG,Public Sector Banks,268.1,218.58,81.53
+2022,Telangana,South,IN-TG,Private Sector Banks,315.91,254.75,80.64
+2022,Telangana,South,IN-TG,Regional Rural Banks,38.36,32.5,84.74
+2023,Telangana,South,IN-TG,Public Sector Banks,280.94,237.66,84.59
+2023,Telangana,South,IN-TG,Private Sector Banks,367.47,317.54,86.41
+2023,Telangana,South,IN-TG,Regional Rural Banks,39.53,33.72,85.3
+2024,Telangana,South,IN-TG,Public Sector Banks,311.88,267.04,85.62
+2024,Telangana,South,IN-TG,Private Sector Banks,386.72,340.69,88.1
+2024,Telangana,South,IN-TG,Regional Rural Banks,45.39,39.93,87.96
+2017,Kerala,South,IN-KL,Public Sector Banks,179.94,127.99,71.13
+2017,Kerala,South,IN-KL,Private Sector Banks,125.96,88.35,70.14
+2017,Kerala,South,IN-KL,Regional Rural Banks,35.07,24.7,70.42
+2018,Kerala,South,IN-KL,Public Sector Banks,202.68,149.47,73.75
+2018,Kerala,South,IN-KL,Private Sector Banks,139.6,104.91,75.15
+2018,Kerala,South,IN-KL,Regional Rural Banks,37.08,28.77,77.59
+2019,Kerala,South,IN-KL,Public Sector Banks,222.63,174.21,78.25
+2019,Kerala,South,IN-KL,Private Sector Banks,152.16,116.43,76.52
+2019,Kerala,South,IN-KL,Regional Rural Banks,41.25,31.83,77.17
+2020,Kerala,South,IN-KL,Public Sector Banks,243.11,187.6,77.16
+2020,Kerala,South,IN-KL,Private Sector Banks,177.33,133.18,75.1
+2020,Kerala,South,IN-KL,Regional Rural Banks,43.71,35.19,80.5
+2021,Kerala,South,IN-KL,Public Sector Banks,244.96,195.26,79.71
+2021,Kerala,South,IN-KL,Private Sector Banks,193.12,152.69,79.06
+2021,Kerala,South,IN-KL,Regional Rural Banks,50.56,40.3,79.71
+2022,Kerala,South,IN-KL,Public Sector Banks,284.65,224.08,78.72
+2022,Kerala,South,IN-KL,Private Sector Banks,201.27,165.49,82.22
+2022,Kerala,South,IN-KL,Regional Rural Banks,53.94,44.95,83.34
+2023,Kerala,South,IN-KL,Public Sector Banks,296.8,237.49,80.02
+2023,Kerala,South,IN-KL,Private Sector Banks,218.6,176.25,80.63
+2023,Kerala,South,IN-KL,Regional Rural Banks,56.7,46.82,82.58
+2024,Kerala,South,IN-KL,Public Sector Banks,338.34,274.43,81.11
+2024,Kerala,South,IN-KL,Private Sector Banks,252.17,214.9,85.22
+2024,Kerala,South,IN-KL,Regional Rural Banks,67.44,58.4,86.59
+2017,Madhya Pradesh,Central,IN-MP,Public Sector Banks,383.68,212.99,55.51
+2017,Madhya Pradesh,Central,IN-MP,Private Sector Banks,277.74,158.39,57.03
+2017,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,69.72,38.15,54.72
+2018,Madhya Pradesh,Central,IN-MP,Public Sector Banks,429.62,253.44,58.99
+2018,Madhya Pradesh,Central,IN-MP,Private Sector Banks,291.32,158.76,54.5
+2018,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,82.09,44.86,54.65
+2019,Madhya Pradesh,Central,IN-MP,Public Sector Banks,444.05,256.4,57.74
+2019,Madhya Pradesh,Central,IN-MP,Private Sector Banks,341.95,204.65,59.85
+2019,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,86.14,48.88,56.75
+2020,Madhya Pradesh,Central,IN-MP,Public Sector Banks,510.93,311.34,60.94
+2020,Madhya Pradesh,Central,IN-MP,Private Sector Banks,371.19,214.85,57.88
+2020,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,96.96,60.1,61.99
+2021,Madhya Pradesh,Central,IN-MP,Public Sector Banks,560.01,333.45,59.54
+2021,Madhya Pradesh,Central,IN-MP,Private Sector Banks,402.67,246.65,61.25
+2021,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,103.13,66.25,64.24
+2022,Madhya Pradesh,Central,IN-MP,Public Sector Banks,609.87,390.59,64.04
+2022,Madhya Pradesh,Central,IN-MP,Private Sector Banks,436.08,270.16,61.95
+2022,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,115.12,73.05,63.45
+2023,Madhya Pradesh,Central,IN-MP,Public Sector Banks,650.44,434.16,66.75
+2023,Madhya Pradesh,Central,IN-MP,Private Sector Banks,473.21,312.86,66.11
+2023,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,120.74,82.27,68.13
+2024,Madhya Pradesh,Central,IN-MP,Public Sector Banks,677.49,437.17,64.53
+2024,Madhya Pradesh,Central,IN-MP,Private Sector Banks,533.6,345.5,64.75
+2024,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,135.15,86.02,63.64
+2017,Bihar,East,IN-BR,Public Sector Banks,497.86,255.22,51.26
+2017,Bihar,East,IN-BR,Private Sector Banks,391.89,210.35,53.68
+2017,Bihar,East,IN-BR,Regional Rural Banks,101.24,51.04,50.42
+2018,Bihar,East,IN-BR,Public Sector Banks,576.02,289.39,50.24
+2018,Bihar,East,IN-BR,Private Sector Banks,405.64,220.38,54.33
+2018,Bihar,East,IN-BR,Regional Rural Banks,106.9,59.27,55.45
+2019,Bihar,East,IN-BR,Public Sector Banks,590.89,306.27,51.83
+2019,Bihar,East,IN-BR,Private Sector Banks,442.97,232.93,52.58
+2019,Bihar,East,IN-BR,Regional Rural Banks,113.75,62.24,54.72
+2020,Bihar,East,IN-BR,Public Sector Banks,697.83,391.12,56.05
+2020,Bihar,East,IN-BR,Private Sector Banks,485.56,269.37,55.48
+2020,Bihar,East,IN-BR,Regional Rural Banks,126.44,73.96,58.5
+2021,Bihar,East,IN-BR,Public Sector Banks,760.45,416.08,54.71
+2021,Bihar,East,IN-BR,Private Sector Banks,542.38,309.27,57.02
+2021,Bihar,East,IN-BR,Regional Rural Banks,141.44,81.15,57.38
+2022,Bihar,East,IN-BR,Public Sector Banks,808.92,490.64,60.65
+2022,Bihar,East,IN-BR,Private Sector Banks,596.14,332.71,55.81
+2022,Bihar,East,IN-BR,Regional Rural Banks,156.9,90.48,57.67
+2023,Bihar,East,IN-BR,Public Sector Banks,878.25,501.64,57.12
+2023,Bihar,East,IN-BR,Private Sector Banks,619.77,372.79,60.15
+2023,Bihar,East,IN-BR,Regional Rural Banks,166.71,98.48,59.07
+2024,Bihar,East,IN-BR,Public Sector Banks,929.02,569.39,61.29
+2024,Bihar,East,IN-BR,Private Sector Banks,709.71,419.29,59.08
+2024,Bihar,East,IN-BR,Regional Rural Banks,176.19,109.18,61.97
+2017,Delhi,North,IN-DL,Public Sector Banks,97.81,82.01,83.84
+2017,Delhi,North,IN-DL,Private Sector Banks,115.6,101.99,88.23
+2017,Delhi,North,IN-DL,Regional Rural Banks,13.95,12.07,86.53
+2018,Delhi,North,IN-DL,Public Sector Banks,107.42,90.89,84.61
+2018,Delhi,North,IN-DL,Private Sector Banks,127.38,110.25,86.55
+2018,Delhi,North,IN-DL,Regional Rural Banks,14.7,12.66,86.1
+2019,Delhi,North,IN-DL,Public Sector Banks,116.83,103.72,88.78
+2019,Delhi,North,IN-DL,Private Sector Banks,141.88,123.93,87.35
+2019,Delhi,North,IN-DL,Regional Rural Banks,16.11,14.59,90.6
+2020,Delhi,North,IN-DL,Public Sector Banks,123.67,114.34,92.46
+2020,Delhi,North,IN-DL,Private Sector Banks,165.79,152.7,92.1
+2020,Delhi,North,IN-DL,Regional Rural Banks,17.73,15.67,88.4
+2021,Delhi,North,IN-DL,Public Sector Banks,138.17,124.77,90.3
+2021,Delhi,North,IN-DL,Private Sector Banks,182.05,171.49,94.2
+2021,Delhi,North,IN-DL,Regional Rural Banks,20.1,18.55,92.31
+2022,Delhi,North,IN-DL,Public Sector Banks,151.59,145.75,96.15
+2022,Delhi,North,IN-DL,Private Sector Banks,190.77,180.04,94.38
+2022,Delhi,North,IN-DL,Regional Rural Banks,22.74,20.98,92.26
+2023,Delhi,North,IN-DL,Public Sector Banks,174.17,164.67,94.55
+2023,Delhi,North,IN-DL,Private Sector Banks,203.36,194.79,95.78
+2023,Delhi,North,IN-DL,Regional Rural Banks,23.54,22.16,94.14
+2024,Delhi,North,IN-DL,Public Sector Banks,180.39,170.53,94.53
+2024,Delhi,North,IN-DL,Private Sector Banks,222.06,212.18,95.55
+2024,Delhi,North,IN-DL,Regional Rural Banks,25.77,25.65,99.51
+2017,Punjab,North,IN-PB,Public Sector Banks,144.01,101.83,70.72
+2017,Punjab,North,IN-PB,Private Sector Banks,113.13,79.29,70.08
+2017,Punjab,North,IN-PB,Regional Rural Banks,29.07,21.38,73.55
+2018,Punjab,North,IN-PB,Public Sector Banks,168.38,127.54,75.75
+2018,Punjab,North,IN-PB,Private Sector Banks,123.43,86.89,70.4
+2018,Punjab,North,IN-PB,Regional Rural Banks,29.91,20.93,69.98
+2019,Punjab,North,IN-PB,Public Sector Banks,176.49,133.43,75.6
+2019,Punjab,North,IN-PB,Private Sector Banks,133.55,99.53,74.53
+2019,Punjab,North,IN-PB,Regional Rural Banks,35.26,25.18,71.42
+2020,Punjab,North,IN-PB,Public Sector Banks,187.89,144.94,77.14
+2020,Punjab,North,IN-PB,Private Sector Banks,137.4,106.65,77.62
+2020,Punjab,North,IN-PB,Regional Rural Banks,38.12,29.08,76.29
+2021,Punjab,North,IN-PB,Public Sector Banks,205.2,159.59,77.77
+2021,Punjab,North,IN-PB,Private Sector Banks,153.85,115.41,75.02
+2021,Punjab,North,IN-PB,Regional Rural Banks,40.61,31.97,78.72
+2022,Punjab,North,IN-PB,Public Sector Banks,242.76,198.43,81.74
+2022,Punjab,North,IN-PB,Private Sector Banks,165.51,131.09,79.2
+2022,Punjab,North,IN-PB,Regional Rural Banks,46.36,37.31,80.48
+2023,Punjab,North,IN-PB,Public Sector Banks,264.84,204.05,77.05
+2023,Punjab,North,IN-PB,Private Sector Banks,178.69,149.24,83.52
+2023,Punjab,North,IN-PB,Regional Rural Banks,51.03,39.6,77.59
+2024,Punjab,North,IN-PB,Public Sector Banks,271.87,218.14,80.24
+2024,Punjab,North,IN-PB,Private Sector Banks,198.05,165.59,83.61
+2024,Punjab,North,IN-PB,Regional Rural Banks,52.14,42.0,80.54
+2017,Haryana,North,IN-HR,Public Sector Banks,151.36,108.21,71.49
+2017,Haryana,North,IN-HR,Private Sector Banks,102.87,74.05,71.99
+2017,Haryana,North,IN-HR,Regional Rural Banks,29.09,22.04,75.75
+2018,Haryana,North,IN-HR,Public Sector Banks,165.28,117.35,71.0
+2018,Haryana,North,IN-HR,Private Sector Banks,112.68,83.22,73.86
+2018,Haryana,North,IN-HR,Regional Rural Banks,30.13,21.72,72.08
+2019,Haryana,North,IN-HR,Public Sector Banks,176.72,128.58,72.76
+2019,Haryana,North,IN-HR,Private Sector Banks,131.95,103.97,78.79
+2019,Haryana,North,IN-HR,Regional Rural Banks,32.86,24.46,74.43
+2020,Haryana,North,IN-HR,Public Sector Banks,201.11,161.27,80.19
+2020,Haryana,North,IN-HR,Private Sector Banks,137.13,108.83,79.36
+2020,Haryana,North,IN-HR,Regional Rural Banks,37.67,30.06,79.8
+2021,Haryana,North,IN-HR,Public Sector Banks,217.83,171.12,78.56
+2021,Haryana,North,IN-HR,Private Sector Banks,159.68,122.43,76.67
+2021,Haryana,North,IN-HR,Regional Rural Banks,42.02,33.78,80.39
+2022,Haryana,North,IN-HR,Public Sector Banks,226.38,176.0,77.75
+2022,Haryana,North,IN-HR,Private Sector Banks,171.34,142.04,82.9
+2022,Haryana,North,IN-HR,Regional Rural Banks,45.23,37.55,83.03
+2023,Haryana,North,IN-HR,Public Sector Banks,262.74,209.65,79.8
+2023,Haryana,North,IN-HR,Private Sector Banks,190.64,150.49,78.94
+2023,Haryana,North,IN-HR,Regional Rural Banks,47.44,37.51,79.06
+2024,Haryana,North,IN-HR,Public Sector Banks,277.07,223.1,80.52
+2024,Haryana,North,IN-HR,Private Sector Banks,197.94,162.18,81.93
+2024,Haryana,North,IN-HR,Regional Rural Banks,51.13,42.81,83.72
+2017,Odisha,East,IN-OR,Public Sector Banks,189.4,99.37,52.47
+2017,Odisha,East,IN-OR,Private Sector Banks,137.74,75.55,54.85
+2017,Odisha,East,IN-OR,Regional Rural Banks,36.76,18.85,51.3
+2018,Odisha,East,IN-OR,Public Sector Banks,217.4,115.7,53.22
+2018,Odisha,East,IN-OR,Private Sector Banks,152.77,83.07,54.38
+2018,Odisha,East,IN-OR,Regional Rural Banks,41.54,23.36,56.23
+2019,Odisha,East,IN-OR,Public Sector Banks,233.33,127.5,54.64
+2019,Odisha,East,IN-OR,Private Sector Banks,165.07,97.47,59.05
+2019,Odisha,East,IN-OR,Regional Rural Banks,44.71,27.1,60.61
+2020,Odisha,East,IN-OR,Public Sector Banks,252.79,145.98,57.75
+2020,Odisha,East,IN-OR,Private Sector Banks,185.01,104.71,56.59
+2020,Odisha,East,IN-OR,Regional Rural Banks,49.22,28.48,57.87
+2021,Odisha,East,IN-OR,Public Sector Banks,281.08,173.26,61.64
+2021,Odisha,East,IN-OR,Private Sector Banks,194.69,121.57,62.44
+2021,Odisha,East,IN-OR,Regional Rural Banks,55.81,33.49,60.01
+2022,Odisha,East,IN-OR,Public Sector Banks,310.29,197.24,63.57
+2022,Odisha,East,IN-OR,Private Sector Banks,228.94,147.32,64.35
+2022,Odisha,East,IN-OR,Regional Rural Banks,59.48,35.93,60.41
+2023,Odisha,East,IN-OR,Public Sector Banks,321.84,211.73,65.79
+2023,Odisha,East,IN-OR,Private Sector Banks,239.72,146.68,61.19
+2023,Odisha,East,IN-OR,Regional Rural Banks,60.99,39.77,65.2
+2024,Odisha,East,IN-OR,Public Sector Banks,371.48,236.32,63.62
+2024,Odisha,East,IN-OR,Private Sector Banks,268.44,179.82,66.99
+2024,Odisha,East,IN-OR,Regional Rural Banks,70.22,44.64,63.57
+2017,Assam,North East,IN-AS,Public Sector Banks,146.1,71.27,48.78
+2017,Assam,North East,IN-AS,Private Sector Banks,104.81,54.01,51.53
+2017,Assam,North East,IN-AS,Regional Rural Banks,27.32,13.13,48.07
+2018,Assam,North East,IN-AS,Public Sector Banks,158.57,85.32,53.8
+2018,Assam,North East,IN-AS,Private Sector Banks,109.21,57.62,52.76
+2018,Assam,North East,IN-AS,Regional Rural Banks,28.95,14.55,50.25
+2019,Assam,North East,IN-AS,Public Sector Banks,167.63,93.0,55.48
+2019,Assam,North East,IN-AS,Private Sector Banks,123.26,68.69,55.73
+2019,Assam,North East,IN-AS,Regional Rural Banks,32.62,16.27,49.87
+2020,Assam,North East,IN-AS,Public Sector Banks,184.55,102.35,55.46
+2020,Assam,North East,IN-AS,Private Sector Banks,131.37,74.56,56.76
+2020,Assam,North East,IN-AS,Regional Rural Banks,34.76,19.18,55.17
+2021,Assam,North East,IN-AS,Public Sector Banks,206.0,122.18,59.31
+2021,Assam,North East,IN-AS,Private Sector Banks,141.95,81.71,57.57
+2021,Assam,North East,IN-AS,Regional Rural Banks,39.58,21.57,54.5
+2022,Assam,North East,IN-AS,Public Sector Banks,215.34,122.34,56.81
+2022,Assam,North East,IN-AS,Private Sector Banks,160.86,90.23,56.09
+2022,Assam,North East,IN-AS,Regional Rural Banks,40.25,22.39,55.63
+2023,Assam,North East,IN-AS,Public Sector Banks,236.37,135.18,57.19
+2023,Assam,North East,IN-AS,Private Sector Banks,167.36,94.43,56.43
+2023,Assam,North East,IN-AS,Regional Rural Banks,45.32,25.6,56.49
+2024,Assam,North East,IN-AS,Public Sector Banks,263.63,151.95,57.64
+2024,Assam,North East,IN-AS,Private Sector Banks,181.44,113.65,62.64
+2024,Assam,North East,IN-AS,Regional Rural Banks,50.21,31.39,62.52

@@ -1,0 +1,2305 @@
+year,state,region,state_code,bank_type,sector,priority_classification,credit_crore
+2017,Maharashtra,West,IN-MH,Public Sector Banks,Agriculture,Priority,68.13
+2017,Maharashtra,West,IN-MH,Public Sector Banks,Manufacturing,Non-priority,95.57
+2017,Maharashtra,West,IN-MH,Public Sector Banks,Services,Non-priority,112.93
+2017,Maharashtra,West,IN-MH,Public Sector Banks,Retail Loans,Non-priority,83.52
+2017,Maharashtra,West,IN-MH,Public Sector Banks,MSME,Priority,50.16
+2017,Maharashtra,West,IN-MH,Public Sector Banks,Housing,Priority,34.97
+2017,Maharashtra,West,IN-MH,Private Sector Banks,Agriculture,Priority,78.95
+2017,Maharashtra,West,IN-MH,Private Sector Banks,Manufacturing,Non-priority,106.08
+2017,Maharashtra,West,IN-MH,Private Sector Banks,Services,Non-priority,133.95
+2017,Maharashtra,West,IN-MH,Private Sector Banks,Retail Loans,Non-priority,95.16
+2017,Maharashtra,West,IN-MH,Private Sector Banks,MSME,Priority,60.79
+2017,Maharashtra,West,IN-MH,Private Sector Banks,Housing,Priority,42.53
+2017,Maharashtra,West,IN-MH,Regional Rural Banks,Agriculture,Priority,10.49
+2017,Maharashtra,West,IN-MH,Regional Rural Banks,Manufacturing,Non-priority,13.15
+2017,Maharashtra,West,IN-MH,Regional Rural Banks,Services,Non-priority,15.27
+2017,Maharashtra,West,IN-MH,Regional Rural Banks,Retail Loans,Non-priority,12.19
+2017,Maharashtra,West,IN-MH,Regional Rural Banks,MSME,Priority,7.51
+2017,Maharashtra,West,IN-MH,Regional Rural Banks,Housing,Priority,4.85
+2018,Maharashtra,West,IN-MH,Public Sector Banks,Agriculture,Priority,83.76
+2018,Maharashtra,West,IN-MH,Public Sector Banks,Manufacturing,Non-priority,108.84
+2018,Maharashtra,West,IN-MH,Public Sector Banks,Services,Non-priority,126.54
+2018,Maharashtra,West,IN-MH,Public Sector Banks,Retail Loans,Non-priority,96.32
+2018,Maharashtra,West,IN-MH,Public Sector Banks,MSME,Priority,59.52
+2018,Maharashtra,West,IN-MH,Public Sector Banks,Housing,Priority,40.56
+2018,Maharashtra,West,IN-MH,Private Sector Banks,Agriculture,Priority,105.71
+2018,Maharashtra,West,IN-MH,Private Sector Banks,Manufacturing,Non-priority,140.96
+2018,Maharashtra,West,IN-MH,Private Sector Banks,Services,Non-priority,154.02
+2018,Maharashtra,West,IN-MH,Private Sector Banks,Retail Loans,Non-priority,113.77
+2018,Maharashtra,West,IN-MH,Private Sector Banks,MSME,Priority,76.43
+2018,Maharashtra,West,IN-MH,Private Sector Banks,Housing,Priority,49.5
+2018,Maharashtra,West,IN-MH,Regional Rural Banks,Agriculture,Priority,11.18
+2018,Maharashtra,West,IN-MH,Regional Rural Banks,Manufacturing,Non-priority,14.17
+2018,Maharashtra,West,IN-MH,Regional Rural Banks,Services,Non-priority,16.89
+2018,Maharashtra,West,IN-MH,Regional Rural Banks,Retail Loans,Non-priority,11.91
+2018,Maharashtra,West,IN-MH,Regional Rural Banks,MSME,Priority,8.0
+2018,Maharashtra,West,IN-MH,Regional Rural Banks,Housing,Priority,5.81
+2019,Maharashtra,West,IN-MH,Public Sector Banks,Agriculture,Priority,95.95
+2019,Maharashtra,West,IN-MH,Public Sector Banks,Manufacturing,Non-priority,116.92
+2019,Maharashtra,West,IN-MH,Public Sector Banks,Services,Non-priority,143.51
+2019,Maharashtra,West,IN-MH,Public Sector Banks,Retail Loans,Non-priority,111.81
+2019,Maharashtra,West,IN-MH,Public Sector Banks,MSME,Priority,71.29
+2019,Maharashtra,West,IN-MH,Public Sector Banks,Housing,Priority,46.97
+2019,Maharashtra,West,IN-MH,Private Sector Banks,Agriculture,Priority,113.69
+2019,Maharashtra,West,IN-MH,Private Sector Banks,Manufacturing,Non-priority,145.19
+2019,Maharashtra,West,IN-MH,Private Sector Banks,Services,Non-priority,179.92
+2019,Maharashtra,West,IN-MH,Private Sector Banks,Retail Loans,Non-priority,128.95
+2019,Maharashtra,West,IN-MH,Private Sector Banks,MSME,Priority,85.21
+2019,Maharashtra,West,IN-MH,Private Sector Banks,Housing,Priority,62.32
+2019,Maharashtra,West,IN-MH,Regional Rural Banks,Agriculture,Priority,13.1
+2019,Maharashtra,West,IN-MH,Regional Rural Banks,Manufacturing,Non-priority,18.35
+2019,Maharashtra,West,IN-MH,Regional Rural Banks,Services,Non-priority,20.66
+2019,Maharashtra,West,IN-MH,Regional Rural Banks,Retail Loans,Non-priority,14.52
+2019,Maharashtra,West,IN-MH,Regional Rural Banks,MSME,Priority,9.65
+2019,Maharashtra,West,IN-MH,Regional Rural Banks,Housing,Priority,6.69
+2020,Maharashtra,West,IN-MH,Public Sector Banks,Agriculture,Priority,99.37
+2020,Maharashtra,West,IN-MH,Public Sector Banks,Manufacturing,Non-priority,127.23
+2020,Maharashtra,West,IN-MH,Public Sector Banks,Services,Non-priority,167.74
+2020,Maharashtra,West,IN-MH,Public Sector Banks,Retail Loans,Non-priority,113.91
+2020,Maharashtra,West,IN-MH,Public Sector Banks,MSME,Priority,71.71
+2020,Maharashtra,West,IN-MH,Public Sector Banks,Housing,Priority,47.43
+2020,Maharashtra,West,IN-MH,Private Sector Banks,Agriculture,Priority,122.06
+2020,Maharashtra,West,IN-MH,Private Sector Banks,Manufacturing,Non-priority,152.56
+2020,Maharashtra,West,IN-MH,Private Sector Banks,Services,Non-priority,190.05
+2020,Maharashtra,West,IN-MH,Private Sector Banks,Retail Loans,Non-priority,148.28
+2020,Maharashtra,West,IN-MH,Private Sector Banks,MSME,Priority,93.07
+2020,Maharashtra,West,IN-MH,Private Sector Banks,Housing,Priority,65.47
+2020,Maharashtra,West,IN-MH,Regional Rural Banks,Agriculture,Priority,14.86
+2020,Maharashtra,West,IN-MH,Regional Rural Banks,Manufacturing,Non-priority,19.12
+2020,Maharashtra,West,IN-MH,Regional Rural Banks,Services,Non-priority,22.03
+2020,Maharashtra,West,IN-MH,Regional Rural Banks,Retail Loans,Non-priority,16.7
+2020,Maharashtra,West,IN-MH,Regional Rural Banks,MSME,Priority,10.37
+2020,Maharashtra,West,IN-MH,Regional Rural Banks,Housing,Priority,7.2
+2021,Maharashtra,West,IN-MH,Public Sector Banks,Agriculture,Priority,114.29
+2021,Maharashtra,West,IN-MH,Public Sector Banks,Manufacturing,Non-priority,154.56
+2021,Maharashtra,West,IN-MH,Public Sector Banks,Services,Non-priority,176.97
+2021,Maharashtra,West,IN-MH,Public Sector Banks,Retail Loans,Non-priority,140.55
+2021,Maharashtra,West,IN-MH,Public Sector Banks,MSME,Priority,92.99
+2021,Maharashtra,West,IN-MH,Public Sector Banks,Housing,Priority,57.48
+2021,Maharashtra,West,IN-MH,Private Sector Banks,Agriculture,Priority,149.62
+2021,Maharashtra,West,IN-MH,Private Sector Banks,Manufacturing,Non-priority,190.66
+2021,Maharashtra,West,IN-MH,Private Sector Banks,Services,Non-priority,234.81
+2021,Maharashtra,West,IN-MH,Private Sector Banks,Retail Loans,Non-priority,164.41
+2021,Maharashtra,West,IN-MH,Private Sector Banks,MSME,Priority,101.88
+2021,Maharashtra,West,IN-MH,Private Sector Banks,Housing,Priority,70.79
+2021,Maharashtra,West,IN-MH,Regional Rural Banks,Agriculture,Priority,16.85
+2021,Maharashtra,West,IN-MH,Regional Rural Banks,Manufacturing,Non-priority,20.65
+2021,Maharashtra,West,IN-MH,Regional Rural Banks,Services,Non-priority,23.86
+2021,Maharashtra,West,IN-MH,Regional Rural Banks,Retail Loans,Non-priority,19.18
+2021,Maharashtra,West,IN-MH,Regional Rural Banks,MSME,Priority,12.86
+2021,Maharashtra,West,IN-MH,Regional Rural Banks,Housing,Priority,7.65
+2022,Maharashtra,West,IN-MH,Public Sector Banks,Agriculture,Priority,128.31
+2022,Maharashtra,West,IN-MH,Public Sector Banks,Manufacturing,Non-priority,154.76
+2022,Maharashtra,West,IN-MH,Public Sector Banks,Services,Non-priority,193.78
+2022,Maharashtra,West,IN-MH,Public Sector Banks,Retail Loans,Non-priority,141.51
+2022,Maharashtra,West,IN-MH,Public Sector Banks,MSME,Priority,90.61
+2022,Maharashtra,West,IN-MH,Public Sector Banks,Housing,Priority,65.11
+2022,Maharashtra,West,IN-MH,Private Sector Banks,Agriculture,Priority,158.96
+2022,Maharashtra,West,IN-MH,Private Sector Banks,Manufacturing,Non-priority,194.48
+2022,Maharashtra,West,IN-MH,Private Sector Banks,Services,Non-priority,236.03
+2022,Maharashtra,West,IN-MH,Private Sector Banks,Retail Loans,Non-priority,186.17
+2022,Maharashtra,West,IN-MH,Private Sector Banks,MSME,Priority,118.55
+2022,Maharashtra,West,IN-MH,Private Sector Banks,Housing,Priority,76.68
+2022,Maharashtra,West,IN-MH,Regional Rural Banks,Agriculture,Priority,17.47
+2022,Maharashtra,West,IN-MH,Regional Rural Banks,Manufacturing,Non-priority,23.65
+2022,Maharashtra,West,IN-MH,Regional Rural Banks,Services,Non-priority,26.98
+2022,Maharashtra,West,IN-MH,Regional Rural Banks,Retail Loans,Non-priority,19.49
+2022,Maharashtra,West,IN-MH,Regional Rural Banks,MSME,Priority,12.69
+2022,Maharashtra,West,IN-MH,Regional Rural Banks,Housing,Priority,9.09
+2023,Maharashtra,West,IN-MH,Public Sector Banks,Agriculture,Priority,136.21
+2023,Maharashtra,West,IN-MH,Public Sector Banks,Manufacturing,Non-priority,182.54
+2023,Maharashtra,West,IN-MH,Public Sector Banks,Services,Non-priority,231.09
+2023,Maharashtra,West,IN-MH,Public Sector Banks,Retail Loans,Non-priority,157.65
+2023,Maharashtra,West,IN-MH,Public Sector Banks,MSME,Priority,103.57
+2023,Maharashtra,West,IN-MH,Public Sector Banks,Housing,Priority,76.31
+2023,Maharashtra,West,IN-MH,Private Sector Banks,Agriculture,Priority,185.68
+2023,Maharashtra,West,IN-MH,Private Sector Banks,Manufacturing,Non-priority,224.59
+2023,Maharashtra,West,IN-MH,Private Sector Banks,Services,Non-priority,265.43
+2023,Maharashtra,West,IN-MH,Private Sector Banks,Retail Loans,Non-priority,200.9
+2023,Maharashtra,West,IN-MH,Private Sector Banks,MSME,Priority,133.32
+2023,Maharashtra,West,IN-MH,Private Sector Banks,Housing,Priority,89.07
+2023,Maharashtra,West,IN-MH,Regional Rural Banks,Agriculture,Priority,20.1
+2023,Maharashtra,West,IN-MH,Regional Rural Banks,Manufacturing,Non-priority,27.42
+2023,Maharashtra,West,IN-MH,Regional Rural Banks,Services,Non-priority,32.55
+2023,Maharashtra,West,IN-MH,Regional Rural Banks,Retail Loans,Non-priority,25.19
+2023,Maharashtra,West,IN-MH,Regional Rural Banks,MSME,Priority,15.46
+2023,Maharashtra,West,IN-MH,Regional Rural Banks,Housing,Priority,10.19
+2024,Maharashtra,West,IN-MH,Public Sector Banks,Agriculture,Priority,153.97
+2024,Maharashtra,West,IN-MH,Public Sector Banks,Manufacturing,Non-priority,219.83
+2024,Maharashtra,West,IN-MH,Public Sector Banks,Services,Non-priority,247.84
+2024,Maharashtra,West,IN-MH,Public Sector Banks,Retail Loans,Non-priority,189.35
+2024,Maharashtra,West,IN-MH,Public Sector Banks,MSME,Priority,120.88
+2024,Maharashtra,West,IN-MH,Public Sector Banks,Housing,Priority,75.09
+2024,Maharashtra,West,IN-MH,Private Sector Banks,Agriculture,Priority,224.62
+2024,Maharashtra,West,IN-MH,Private Sector Banks,Manufacturing,Non-priority,291.39
+2024,Maharashtra,West,IN-MH,Private Sector Banks,Services,Non-priority,319.6
+2024,Maharashtra,West,IN-MH,Private Sector Banks,Retail Loans,Non-priority,241.55
+2024,Maharashtra,West,IN-MH,Private Sector Banks,MSME,Priority,154.71
+2024,Maharashtra,West,IN-MH,Private Sector Banks,Housing,Priority,105.3
+2024,Maharashtra,West,IN-MH,Regional Rural Banks,Agriculture,Priority,21.2
+2024,Maharashtra,West,IN-MH,Regional Rural Banks,Manufacturing,Non-priority,29.69
+2024,Maharashtra,West,IN-MH,Regional Rural Banks,Services,Non-priority,34.11
+2024,Maharashtra,West,IN-MH,Regional Rural Banks,Retail Loans,Non-priority,24.61
+2024,Maharashtra,West,IN-MH,Regional Rural Banks,MSME,Priority,17.48
+2024,Maharashtra,West,IN-MH,Regional Rural Banks,Housing,Priority,11.66
+2017,Tamil Nadu,South,IN-TN,Public Sector Banks,Agriculture,Priority,39.9
+2017,Tamil Nadu,South,IN-TN,Public Sector Banks,Manufacturing,Non-priority,57.04
+2017,Tamil Nadu,South,IN-TN,Public Sector Banks,Services,Non-priority,64.68
+2017,Tamil Nadu,South,IN-TN,Public Sector Banks,Retail Loans,Non-priority,46.35
+2017,Tamil Nadu,South,IN-TN,Public Sector Banks,MSME,Priority,31.72
+2017,Tamil Nadu,South,IN-TN,Public Sector Banks,Housing,Priority,19.32
+2017,Tamil Nadu,South,IN-TN,Private Sector Banks,Agriculture,Priority,47.74
+2017,Tamil Nadu,South,IN-TN,Private Sector Banks,Manufacturing,Non-priority,69.47
+2017,Tamil Nadu,South,IN-TN,Private Sector Banks,Services,Non-priority,73.81
+2017,Tamil Nadu,South,IN-TN,Private Sector Banks,Retail Loans,Non-priority,53.91
+2017,Tamil Nadu,South,IN-TN,Private Sector Banks,MSME,Priority,37.93
+2017,Tamil Nadu,South,IN-TN,Private Sector Banks,Housing,Priority,25.54
+2017,Tamil Nadu,South,IN-TN,Regional Rural Banks,Agriculture,Priority,5.23
+2017,Tamil Nadu,South,IN-TN,Regional Rural Banks,Manufacturing,Non-priority,7.18
+2017,Tamil Nadu,South,IN-TN,Regional Rural Banks,Services,Non-priority,8.57
+2017,Tamil Nadu,South,IN-TN,Regional Rural Banks,Retail Loans,Non-priority,6.02
+2017,Tamil Nadu,South,IN-TN,Regional Rural Banks,MSME,Priority,4.1
+2017,Tamil Nadu,South,IN-TN,Regional Rural Banks,Housing,Priority,2.71
+2018,Tamil Nadu,South,IN-TN,Public Sector Banks,Agriculture,Priority,43.96
+2018,Tamil Nadu,South,IN-TN,Public Sector Banks,Manufacturing,Non-priority,58.89
+2018,Tamil Nadu,South,IN-TN,Public Sector Banks,Services,Non-priority,72.7
+2018,Tamil Nadu,South,IN-TN,Public Sector Banks,Retail Loans,Non-priority,49.93
+2018,Tamil Nadu,South,IN-TN,Public Sector Banks,MSME,Priority,33.34
+2018,Tamil Nadu,South,IN-TN,Public Sector Banks,Housing,Priority,23.49
+2018,Tamil Nadu,South,IN-TN,Private Sector Banks,Agriculture,Priority,56.68
+2018,Tamil Nadu,South,IN-TN,Private Sector Banks,Manufacturing,Non-priority,66.03
+2018,Tamil Nadu,South,IN-TN,Private Sector Banks,Services,Non-priority,80.19
+2018,Tamil Nadu,South,IN-TN,Private Sector Banks,Retail Loans,Non-priority,58.19
+2018,Tamil Nadu,South,IN-TN,Private Sector Banks,MSME,Priority,42.22
+2018,Tamil Nadu,South,IN-TN,Private Sector Banks,Housing,Priority,27.95
+2018,Tamil Nadu,South,IN-TN,Regional Rural Banks,Agriculture,Priority,6.84
+2018,Tamil Nadu,South,IN-TN,Regional Rural Banks,Manufacturing,Non-priority,8.83
+2018,Tamil Nadu,South,IN-TN,Regional Rural Banks,Services,Non-priority,10.4
+2018,Tamil Nadu,South,IN-TN,Regional Rural Banks,Retail Loans,Non-priority,7.86
+2018,Tamil Nadu,South,IN-TN,Regional Rural Banks,MSME,Priority,5.02
+2018,Tamil Nadu,South,IN-TN,Regional Rural Banks,Housing,Priority,3.07
+2019,Tamil Nadu,South,IN-TN,Public Sector Banks,Agriculture,Priority,53.79
+2019,Tamil Nadu,South,IN-TN,Public Sector Banks,Manufacturing,Non-priority,63.6
+2019,Tamil Nadu,South,IN-TN,Public Sector Banks,Services,Non-priority,75.66
+2019,Tamil Nadu,South,IN-TN,Public Sector Banks,Retail Loans,Non-priority,54.51
+2019,Tamil Nadu,South,IN-TN,Public Sector Banks,MSME,Priority,38.5
+2019,Tamil Nadu,South,IN-TN,Public Sector Banks,Housing,Priority,24.71
+2019,Tamil Nadu,South,IN-TN,Private Sector Banks,Agriculture,Priority,65.1
+2019,Tamil Nadu,South,IN-TN,Private Sector Banks,Manufacturing,Non-priority,81.37
+2019,Tamil Nadu,South,IN-TN,Private Sector Banks,Services,Non-priority,99.95
+2019,Tamil Nadu,South,IN-TN,Private Sector Banks,Retail Loans,Non-priority,75.99
+2019,Tamil Nadu,South,IN-TN,Private Sector Banks,MSME,Priority,50.23
+2019,Tamil Nadu,South,IN-TN,Private Sector Banks,Housing,Priority,30.33
+2019,Tamil Nadu,South,IN-TN,Regional Rural Banks,Agriculture,Priority,7.25
+2019,Tamil Nadu,South,IN-TN,Regional Rural Banks,Manufacturing,Non-priority,9.36
+2019,Tamil Nadu,South,IN-TN,Regional Rural Banks,Services,Non-priority,10.63
+2019,Tamil Nadu,South,IN-TN,Regional Rural Banks,Retail Loans,Non-priority,8.15
+2019,Tamil Nadu,South,IN-TN,Regional Rural Banks,MSME,Priority,5.3
+2019,Tamil Nadu,South,IN-TN,Regional Rural Banks,Housing,Priority,3.47
+2020,Tamil Nadu,South,IN-TN,Public Sector Banks,Agriculture,Priority,54.79
+2020,Tamil Nadu,South,IN-TN,Public Sector Banks,Manufacturing,Non-priority,68.68
+2020,Tamil Nadu,South,IN-TN,Public Sector Banks,Services,Non-priority,85.03
+2020,Tamil Nadu,South,IN-TN,Public Sector Banks,Retail Loans,Non-priority,59.47
+2020,Tamil Nadu,South,IN-TN,Public Sector Banks,MSME,Priority,37.37
+2020,Tamil Nadu,South,IN-TN,Public Sector Banks,Housing,Priority,24.8
+2020,Tamil Nadu,South,IN-TN,Private Sector Banks,Agriculture,Priority,74.08
+2020,Tamil Nadu,South,IN-TN,Private Sector Banks,Manufacturing,Non-priority,97.6
+2020,Tamil Nadu,South,IN-TN,Private Sector Banks,Services,Non-priority,106.64
+2020,Tamil Nadu,South,IN-TN,Private Sector Banks,Retail Loans,Non-priority,77.39
+2020,Tamil Nadu,South,IN-TN,Private Sector Banks,MSME,Priority,50.49
+2020,Tamil Nadu,South,IN-TN,Private Sector Banks,Housing,Priority,36.7
+2020,Tamil Nadu,South,IN-TN,Regional Rural Banks,Agriculture,Priority,7.9
+2020,Tamil Nadu,South,IN-TN,Regional Rural Banks,Manufacturing,Non-priority,11.44
+2020,Tamil Nadu,South,IN-TN,Regional Rural Banks,Services,Non-priority,13.55
+2020,Tamil Nadu,South,IN-TN,Regional Rural Banks,Retail Loans,Non-priority,9.92
+2020,Tamil Nadu,South,IN-TN,Regional Rural Banks,MSME,Priority,6.47
+2020,Tamil Nadu,South,IN-TN,Regional Rural Banks,Housing,Priority,4.34
+2021,Tamil Nadu,South,IN-TN,Public Sector Banks,Agriculture,Priority,65.0
+2021,Tamil Nadu,South,IN-TN,Public Sector Banks,Manufacturing,Non-priority,83.87
+2021,Tamil Nadu,South,IN-TN,Public Sector Banks,Services,Non-priority,100.98
+2021,Tamil Nadu,South,IN-TN,Public Sector Banks,Retail Loans,Non-priority,72.48
+2021,Tamil Nadu,South,IN-TN,Public Sector Banks,MSME,Priority,44.95
+2021,Tamil Nadu,South,IN-TN,Public Sector Banks,Housing,Priority,31.97
+2021,Tamil Nadu,South,IN-TN,Private Sector Banks,Agriculture,Priority,74.84
+2021,Tamil Nadu,South,IN-TN,Private Sector Banks,Manufacturing,Non-priority,105.93
+2021,Tamil Nadu,South,IN-TN,Private Sector Banks,Services,Non-priority,120.96
+2021,Tamil Nadu,South,IN-TN,Private Sector Banks,Retail Loans,Non-priority,85.64
+2021,Tamil Nadu,South,IN-TN,Private Sector Banks,MSME,Priority,60.66
+2021,Tamil Nadu,South,IN-TN,Private Sector Banks,Housing,Priority,37.49
+2021,Tamil Nadu,South,IN-TN,Regional Rural Banks,Agriculture,Priority,8.82
+2021,Tamil Nadu,South,IN-TN,Regional Rural Banks,Manufacturing,Non-priority,11.71
+2021,Tamil Nadu,South,IN-TN,Regional Rural Banks,Services,Non-priority,12.82
+2021,Tamil Nadu,South,IN-TN,Regional Rural Banks,Retail Loans,Non-priority,9.71
+2021,Tamil Nadu,South,IN-TN,Regional Rural Banks,MSME,Priority,6.26
+2021,Tamil Nadu,South,IN-TN,Regional Rural Banks,Housing,Priority,4.48
+2022,Tamil Nadu,South,IN-TN,Public Sector Banks,Agriculture,Priority,77.78
+2022,Tamil Nadu,South,IN-TN,Public Sector Banks,Manufacturing,Non-priority,92.1
+2022,Tamil Nadu,South,IN-TN,Public Sector Banks,Services,Non-priority,121.78
+2022,Tamil Nadu,South,IN-TN,Public Sector Banks,Retail Loans,Non-priority,80.58
+2022,Tamil Nadu,South,IN-TN,Public Sector Banks,MSME,Priority,52.44
+2022,Tamil Nadu,South,IN-TN,Public Sector Banks,Housing,Priority,36.4
+2022,Tamil Nadu,South,IN-TN,Private Sector Banks,Agriculture,Priority,88.16
+2022,Tamil Nadu,South,IN-TN,Private Sector Banks,Manufacturing,Non-priority,113.66
+2022,Tamil Nadu,South,IN-TN,Private Sector Banks,Services,Non-priority,139.33
+2022,Tamil Nadu,South,IN-TN,Private Sector Banks,Retail Loans,Non-priority,96.61
+2022,Tamil Nadu,South,IN-TN,Private Sector Banks,MSME,Priority,68.11
+2022,Tamil Nadu,South,IN-TN,Private Sector Banks,Housing,Priority,41.24
+2022,Tamil Nadu,South,IN-TN,Regional Rural Banks,Agriculture,Priority,10.84
+2022,Tamil Nadu,South,IN-TN,Regional Rural Banks,Manufacturing,Non-priority,14.08
+2022,Tamil Nadu,South,IN-TN,Regional Rural Banks,Services,Non-priority,16.19
+2022,Tamil Nadu,South,IN-TN,Regional Rural Banks,Retail Loans,Non-priority,11.25
+2022,Tamil Nadu,South,IN-TN,Regional Rural Banks,MSME,Priority,8.09
+2022,Tamil Nadu,South,IN-TN,Regional Rural Banks,Housing,Priority,5.15
+2023,Tamil Nadu,South,IN-TN,Public Sector Banks,Agriculture,Priority,77.8
+2023,Tamil Nadu,South,IN-TN,Public Sector Banks,Manufacturing,Non-priority,102.05
+2023,Tamil Nadu,South,IN-TN,Public Sector Banks,Services,Non-priority,123.74
+2023,Tamil Nadu,South,IN-TN,Public Sector Banks,Retail Loans,Non-priority,89.5
+2023,Tamil Nadu,South,IN-TN,Public Sector Banks,MSME,Priority,58.62
+2023,Tamil Nadu,South,IN-TN,Public Sector Banks,Housing,Priority,38.07
+2023,Tamil Nadu,South,IN-TN,Private Sector Banks,Agriculture,Priority,105.75
+2023,Tamil Nadu,South,IN-TN,Private Sector Banks,Manufacturing,Non-priority,133.65
+2023,Tamil Nadu,South,IN-TN,Private Sector Banks,Services,Non-priority,153.55
+2023,Tamil Nadu,South,IN-TN,Private Sector Banks,Retail Loans,Non-priority,114.8
+2023,Tamil Nadu,South,IN-TN,Private Sector Banks,MSME,Priority,70.89
+2023,Tamil Nadu,South,IN-TN,Private Sector Banks,Housing,Priority,48.96
+2023,Tamil Nadu,South,IN-TN,Regional Rural Banks,Agriculture,Priority,11.25
+2023,Tamil Nadu,South,IN-TN,Regional Rural Banks,Manufacturing,Non-priority,14.7
+2023,Tamil Nadu,South,IN-TN,Regional Rural Banks,Services,Non-priority,17.06
+2023,Tamil Nadu,South,IN-TN,Regional Rural Banks,Retail Loans,Non-priority,12.78
+2023,Tamil Nadu,South,IN-TN,Regional Rural Banks,MSME,Priority,8.96
+2023,Tamil Nadu,South,IN-TN,Regional Rural Banks,Housing,Priority,5.88
+2024,Tamil Nadu,South,IN-TN,Public Sector Banks,Agriculture,Priority,84.7
+2024,Tamil Nadu,South,IN-TN,Public Sector Banks,Manufacturing,Non-priority,106.74
+2024,Tamil Nadu,South,IN-TN,Public Sector Banks,Services,Non-priority,136.04
+2024,Tamil Nadu,South,IN-TN,Public Sector Banks,Retail Loans,Non-priority,97.74
+2024,Tamil Nadu,South,IN-TN,Public Sector Banks,MSME,Priority,64.25
+2024,Tamil Nadu,South,IN-TN,Public Sector Banks,Housing,Priority,40.24
+2024,Tamil Nadu,South,IN-TN,Private Sector Banks,Agriculture,Priority,102.57
+2024,Tamil Nadu,South,IN-TN,Private Sector Banks,Manufacturing,Non-priority,140.87
+2024,Tamil Nadu,South,IN-TN,Private Sector Banks,Services,Non-priority,152.53
+2024,Tamil Nadu,South,IN-TN,Private Sector Banks,Retail Loans,Non-priority,115.68
+2024,Tamil Nadu,South,IN-TN,Private Sector Banks,MSME,Priority,78.96
+2024,Tamil Nadu,South,IN-TN,Private Sector Banks,Housing,Priority,49.52
+2024,Tamil Nadu,South,IN-TN,Regional Rural Banks,Agriculture,Priority,13.13
+2024,Tamil Nadu,South,IN-TN,Regional Rural Banks,Manufacturing,Non-priority,15.77
+2024,Tamil Nadu,South,IN-TN,Regional Rural Banks,Services,Non-priority,20.84
+2024,Tamil Nadu,South,IN-TN,Regional Rural Banks,Retail Loans,Non-priority,15.14
+2024,Tamil Nadu,South,IN-TN,Regional Rural Banks,MSME,Priority,9.22
+2024,Tamil Nadu,South,IN-TN,Regional Rural Banks,Housing,Priority,6.38
+2017,Karnataka,South,IN-KA,Public Sector Banks,Agriculture,Priority,34.68
+2017,Karnataka,South,IN-KA,Public Sector Banks,Manufacturing,Non-priority,46.76
+2017,Karnataka,South,IN-KA,Public Sector Banks,Services,Non-priority,60.12
+2017,Karnataka,South,IN-KA,Public Sector Banks,Retail Loans,Non-priority,41.19
+2017,Karnataka,South,IN-KA,Public Sector Banks,MSME,Priority,28.69
+2017,Karnataka,South,IN-KA,Public Sector Banks,Housing,Priority,18.81
+2017,Karnataka,South,IN-KA,Private Sector Banks,Agriculture,Priority,49.98
+2017,Karnataka,South,IN-KA,Private Sector Banks,Manufacturing,Non-priority,63.35
+2017,Karnataka,South,IN-KA,Private Sector Banks,Services,Non-priority,76.44
+2017,Karnataka,South,IN-KA,Private Sector Banks,Retail Loans,Non-priority,53.55
+2017,Karnataka,South,IN-KA,Private Sector Banks,MSME,Priority,37.2
+2017,Karnataka,South,IN-KA,Private Sector Banks,Housing,Priority,23.93
+2017,Karnataka,South,IN-KA,Regional Rural Banks,Agriculture,Priority,5.34
+2017,Karnataka,South,IN-KA,Regional Rural Banks,Manufacturing,Non-priority,7.0
+2017,Karnataka,South,IN-KA,Regional Rural Banks,Services,Non-priority,8.77
+2017,Karnataka,South,IN-KA,Regional Rural Banks,Retail Loans,Non-priority,6.42
+2017,Karnataka,South,IN-KA,Regional Rural Banks,MSME,Priority,4.15
+2017,Karnataka,South,IN-KA,Regional Rural Banks,Housing,Priority,2.8
+2018,Karnataka,South,IN-KA,Public Sector Banks,Agriculture,Priority,37.59
+2018,Karnataka,South,IN-KA,Public Sector Banks,Manufacturing,Non-priority,49.64
+2018,Karnataka,South,IN-KA,Public Sector Banks,Services,Non-priority,60.88
+2018,Karnataka,South,IN-KA,Public Sector Banks,Retail Loans,Non-priority,41.6
+2018,Karnataka,South,IN-KA,Public Sector Banks,MSME,Priority,28.07
+2018,Karnataka,South,IN-KA,Public Sector Banks,Housing,Priority,19.86
+2018,Karnataka,South,IN-KA,Private Sector Banks,Agriculture,Priority,50.07
+2018,Karnataka,South,IN-KA,Private Sector Banks,Manufacturing,Non-priority,64.63
+2018,Karnataka,South,IN-KA,Private Sector Banks,Services,Non-priority,74.9
+2018,Karnataka,South,IN-KA,Private Sector Banks,Retail Loans,Non-priority,55.53
+2018,Karnataka,South,IN-KA,Private Sector Banks,MSME,Priority,39.34
+2018,Karnataka,South,IN-KA,Private Sector Banks,Housing,Priority,25.18
+2018,Karnataka,South,IN-KA,Regional Rural Banks,Agriculture,Priority,6.03
+2018,Karnataka,South,IN-KA,Regional Rural Banks,Manufacturing,Non-priority,7.52
+2018,Karnataka,South,IN-KA,Regional Rural Banks,Services,Non-priority,9.39
+2018,Karnataka,South,IN-KA,Regional Rural Banks,Retail Loans,Non-priority,7.13
+2018,Karnataka,South,IN-KA,Regional Rural Banks,MSME,Priority,4.81
+2018,Karnataka,South,IN-KA,Regional Rural Banks,Housing,Priority,3.24
+2019,Karnataka,South,IN-KA,Public Sector Banks,Agriculture,Priority,47.1
+2019,Karnataka,South,IN-KA,Public Sector Banks,Manufacturing,Non-priority,58.76
+2019,Karnataka,South,IN-KA,Public Sector Banks,Services,Non-priority,70.07
+2019,Karnataka,South,IN-KA,Public Sector Banks,Retail Loans,Non-priority,52.01
+2019,Karnataka,South,IN-KA,Public Sector Banks,MSME,Priority,32.79
+2019,Karnataka,South,IN-KA,Public Sector Banks,Housing,Priority,22.76
+2019,Karnataka,South,IN-KA,Private Sector Banks,Agriculture,Priority,57.06
+2019,Karnataka,South,IN-KA,Private Sector Banks,Manufacturing,Non-priority,71.54
+2019,Karnataka,South,IN-KA,Private Sector Banks,Services,Non-priority,91.05
+2019,Karnataka,South,IN-KA,Private Sector Banks,Retail Loans,Non-priority,60.7
+2019,Karnataka,South,IN-KA,Private Sector Banks,MSME,Priority,42.46
+2019,Karnataka,South,IN-KA,Private Sector Banks,Housing,Priority,28.9
+2019,Karnataka,South,IN-KA,Regional Rural Banks,Agriculture,Priority,6.32
+2019,Karnataka,South,IN-KA,Regional Rural Banks,Manufacturing,Non-priority,7.85
+2019,Karnataka,South,IN-KA,Regional Rural Banks,Services,Non-priority,9.78
+2019,Karnataka,South,IN-KA,Regional Rural Banks,Retail Loans,Non-priority,6.9
+2019,Karnataka,South,IN-KA,Regional Rural Banks,MSME,Priority,4.67
+2019,Karnataka,South,IN-KA,Regional Rural Banks,Housing,Priority,3.29
+2020,Karnataka,South,IN-KA,Public Sector Banks,Agriculture,Priority,50.22
+2020,Karnataka,South,IN-KA,Public Sector Banks,Manufacturing,Non-priority,64.36
+2020,Karnataka,South,IN-KA,Public Sector Banks,Services,Non-priority,76.17
+2020,Karnataka,South,IN-KA,Public Sector Banks,Retail Loans,Non-priority,58.93
+2020,Karnataka,South,IN-KA,Public Sector Banks,MSME,Priority,41.54
+2020,Karnataka,South,IN-KA,Public Sector Banks,Housing,Priority,25.46
+2020,Karnataka,South,IN-KA,Private Sector Banks,Agriculture,Priority,68.13
+2020,Karnataka,South,IN-KA,Private Sector Banks,Manufacturing,Non-priority,91.53
+2020,Karnataka,South,IN-KA,Private Sector Banks,Services,Non-priority,99.24
+2020,Karnataka,South,IN-KA,Private Sector Banks,Retail Loans,Non-priority,69.92
+2020,Karnataka,South,IN-KA,Private Sector Banks,MSME,Priority,47.38
+2020,Karnataka,South,IN-KA,Private Sector Banks,Housing,Priority,31.42
+2020,Karnataka,South,IN-KA,Regional Rural Banks,Agriculture,Priority,7.69
+2020,Karnataka,South,IN-KA,Regional Rural Banks,Manufacturing,Non-priority,10.17
+2020,Karnataka,South,IN-KA,Regional Rural Banks,Services,Non-priority,11.23
+2020,Karnataka,South,IN-KA,Regional Rural Banks,Retail Loans,Non-priority,8.59
+2020,Karnataka,South,IN-KA,Regional Rural Banks,MSME,Priority,5.82
+2020,Karnataka,South,IN-KA,Regional Rural Banks,Housing,Priority,3.56
+2021,Karnataka,South,IN-KA,Public Sector Banks,Agriculture,Priority,57.62
+2021,Karnataka,South,IN-KA,Public Sector Banks,Manufacturing,Non-priority,78.52
+2021,Karnataka,South,IN-KA,Public Sector Banks,Services,Non-priority,98.36
+2021,Karnataka,South,IN-KA,Public Sector Banks,Retail Loans,Non-priority,73.59
+2021,Karnataka,South,IN-KA,Public Sector Banks,MSME,Priority,45.59
+2021,Karnataka,South,IN-KA,Public Sector Banks,Housing,Priority,31.59
+2021,Karnataka,South,IN-KA,Private Sector Banks,Agriculture,Priority,66.04
+2021,Karnataka,South,IN-KA,Private Sector Banks,Manufacturing,Non-priority,94.5
+2021,Karnataka,South,IN-KA,Private Sector Banks,Services,Non-priority,114.0
+2021,Karnataka,South,IN-KA,Private Sector Banks,Retail Loans,Non-priority,79.83
+2021,Karnataka,South,IN-KA,Private Sector Banks,MSME,Priority,49.84
+2021,Karnataka,South,IN-KA,Private Sector Banks,Housing,Priority,37.04
+2021,Karnataka,South,IN-KA,Regional Rural Banks,Agriculture,Priority,8.2
+2021,Karnataka,South,IN-KA,Regional Rural Banks,Manufacturing,Non-priority,10.94
+2021,Karnataka,South,IN-KA,Regional Rural Banks,Services,Non-priority,12.79
+2021,Karnataka,South,IN-KA,Regional Rural Banks,Retail Loans,Non-priority,9.86
+2021,Karnataka,South,IN-KA,Regional Rural Banks,MSME,Priority,6.54
+2021,Karnataka,South,IN-KA,Regional Rural Banks,Housing,Priority,3.96
+2022,Karnataka,South,IN-KA,Public Sector Banks,Agriculture,Priority,69.68
+2022,Karnataka,South,IN-KA,Public Sector Banks,Manufacturing,Non-priority,88.19
+2022,Karnataka,South,IN-KA,Public Sector Banks,Services,Non-priority,109.57
+2022,Karnataka,South,IN-KA,Public Sector Banks,Retail Loans,Non-priority,81.55
+2022,Karnataka,South,IN-KA,Public Sector Banks,MSME,Priority,49.6
+2022,Karnataka,South,IN-KA,Public Sector Banks,Housing,Priority,35.34
+2022,Karnataka,South,IN-KA,Private Sector Banks,Agriculture,Priority,82.43
+2022,Karnataka,South,IN-KA,Private Sector Banks,Manufacturing,Non-priority,101.75
+2022,Karnataka,South,IN-KA,Private Sector Banks,Services,Non-priority,131.14
+2022,Karnataka,South,IN-KA,Private Sector Banks,Retail Loans,Non-priority,94.6
+2022,Karnataka,South,IN-KA,Private Sector Banks,MSME,Priority,57.07
+2022,Karnataka,South,IN-KA,Private Sector Banks,Housing,Priority,42.06
+2022,Karnataka,South,IN-KA,Regional Rural Banks,Agriculture,Priority,8.84
+2022,Karnataka,South,IN-KA,Regional Rural Banks,Manufacturing,Non-priority,11.05
+2022,Karnataka,South,IN-KA,Regional Rural Banks,Services,Non-priority,14.71
+2022,Karnataka,South,IN-KA,Regional Rural Banks,Retail Loans,Non-priority,9.76
+2022,Karnataka,South,IN-KA,Regional Rural Banks,MSME,Priority,6.51
+2022,Karnataka,South,IN-KA,Regional Rural Banks,Housing,Priority,4.67
+2023,Karnataka,South,IN-KA,Public Sector Banks,Agriculture,Priority,71.08
+2023,Karnataka,South,IN-KA,Public Sector Banks,Manufacturing,Non-priority,89.83
+2023,Karnataka,South,IN-KA,Public Sector Banks,Services,Non-priority,121.44
+2023,Karnataka,South,IN-KA,Public Sector Banks,Retail Loans,Non-priority,78.64
+2023,Karnataka,South,IN-KA,Public Sector Banks,MSME,Priority,56.77
+2023,Karnataka,South,IN-KA,Public Sector Banks,Housing,Priority,36.61
+2023,Karnataka,South,IN-KA,Private Sector Banks,Agriculture,Priority,92.66
+2023,Karnataka,South,IN-KA,Private Sector Banks,Manufacturing,Non-priority,126.15
+2023,Karnataka,South,IN-KA,Private Sector Banks,Services,Non-priority,137.82
+2023,Karnataka,South,IN-KA,Private Sector Banks,Retail Loans,Non-priority,101.52
+2023,Karnataka,South,IN-KA,Private Sector Banks,MSME,Priority,71.69
+2023,Karnataka,South,IN-KA,Private Sector Banks,Housing,Priority,45.3
+2023,Karnataka,South,IN-KA,Regional Rural Banks,Agriculture,Priority,10.27
+2023,Karnataka,South,IN-KA,Regional Rural Banks,Manufacturing,Non-priority,14.02
+2023,Karnataka,South,IN-KA,Regional Rural Banks,Services,Non-priority,15.91
+2023,Karnataka,South,IN-KA,Regional Rural Banks,Retail Loans,Non-priority,12.08
+2023,Karnataka,South,IN-KA,Regional Rural Banks,MSME,Priority,7.59
+2023,Karnataka,South,IN-KA,Regional Rural Banks,Housing,Priority,5.03
+2024,Karnataka,South,IN-KA,Public Sector Banks,Agriculture,Priority,76.65
+2024,Karnataka,South,IN-KA,Public Sector Banks,Manufacturing,Non-priority,103.32
+2024,Karnataka,South,IN-KA,Public Sector Banks,Services,Non-priority,114.84
+2024,Karnataka,South,IN-KA,Public Sector Banks,Retail Loans,Non-priority,83.55
+2024,Karnataka,South,IN-KA,Public Sector Banks,MSME,Priority,57.46
+2024,Karnataka,South,IN-KA,Public Sector Banks,Housing,Priority,39.34
+2024,Karnataka,South,IN-KA,Private Sector Banks,Agriculture,Priority,99.1
+2024,Karnataka,South,IN-KA,Private Sector Banks,Manufacturing,Non-priority,131.46
+2024,Karnataka,South,IN-KA,Private Sector Banks,Services,Non-priority,158.19
+2024,Karnataka,South,IN-KA,Private Sector Banks,Retail Loans,Non-priority,113.88
+2024,Karnataka,South,IN-KA,Private Sector Banks,MSME,Priority,73.91
+2024,Karnataka,South,IN-KA,Private Sector Banks,Housing,Priority,52.59
+2024,Karnataka,South,IN-KA,Regional Rural Banks,Agriculture,Priority,12.0
+2024,Karnataka,South,IN-KA,Regional Rural Banks,Manufacturing,Non-priority,14.59
+2024,Karnataka,South,IN-KA,Regional Rural Banks,Services,Non-priority,19.24
+2024,Karnataka,South,IN-KA,Regional Rural Banks,Retail Loans,Non-priority,13.29
+2024,Karnataka,South,IN-KA,Regional Rural Banks,MSME,Priority,9.26
+2024,Karnataka,South,IN-KA,Regional Rural Banks,Housing,Priority,5.92
+2017,Gujarat,West,IN-GJ,Public Sector Banks,Agriculture,Priority,39.96
+2017,Gujarat,West,IN-GJ,Public Sector Banks,Manufacturing,Non-priority,58.85
+2017,Gujarat,West,IN-GJ,Public Sector Banks,Services,Non-priority,66.09
+2017,Gujarat,West,IN-GJ,Public Sector Banks,Retail Loans,Non-priority,49.71
+2017,Gujarat,West,IN-GJ,Public Sector Banks,MSME,Priority,31.41
+2017,Gujarat,West,IN-GJ,Public Sector Banks,Housing,Priority,20.04
+2017,Gujarat,West,IN-GJ,Private Sector Banks,Agriculture,Priority,30.63
+2017,Gujarat,West,IN-GJ,Private Sector Banks,Manufacturing,Non-priority,38.86
+2017,Gujarat,West,IN-GJ,Private Sector Banks,Services,Non-priority,50.5
+2017,Gujarat,West,IN-GJ,Private Sector Banks,Retail Loans,Non-priority,32.49
+2017,Gujarat,West,IN-GJ,Private Sector Banks,MSME,Priority,23.56
+2017,Gujarat,West,IN-GJ,Private Sector Banks,Housing,Priority,15.4
+2017,Gujarat,West,IN-GJ,Regional Rural Banks,Agriculture,Priority,8.18
+2017,Gujarat,West,IN-GJ,Regional Rural Banks,Manufacturing,Non-priority,10.73
+2017,Gujarat,West,IN-GJ,Regional Rural Banks,Services,Non-priority,13.47
+2017,Gujarat,West,IN-GJ,Regional Rural Banks,Retail Loans,Non-priority,9.85
+2017,Gujarat,West,IN-GJ,Regional Rural Banks,MSME,Priority,6.02
+2017,Gujarat,West,IN-GJ,Regional Rural Banks,Housing,Priority,4.18
+2018,Gujarat,West,IN-GJ,Public Sector Banks,Agriculture,Priority,47.54
+2018,Gujarat,West,IN-GJ,Public Sector Banks,Manufacturing,Non-priority,62.4
+2018,Gujarat,West,IN-GJ,Public Sector Banks,Services,Non-priority,78.84
+2018,Gujarat,West,IN-GJ,Public Sector Banks,Retail Loans,Non-priority,53.19
+2018,Gujarat,West,IN-GJ,Public Sector Banks,MSME,Priority,35.52
+2018,Gujarat,West,IN-GJ,Public Sector Banks,Housing,Priority,23.35
+2018,Gujarat,West,IN-GJ,Private Sector Banks,Agriculture,Priority,32.43
+2018,Gujarat,West,IN-GJ,Private Sector Banks,Manufacturing,Non-priority,42.22
+2018,Gujarat,West,IN-GJ,Private Sector Banks,Services,Non-priority,53.51
+2018,Gujarat,West,IN-GJ,Private Sector Banks,Retail Loans,Non-priority,38.54
+2018,Gujarat,West,IN-GJ,Private Sector Banks,MSME,Priority,24.87
+2018,Gujarat,West,IN-GJ,Private Sector Banks,Housing,Priority,17.07
+2018,Gujarat,West,IN-GJ,Regional Rural Banks,Agriculture,Priority,10.01
+2018,Gujarat,West,IN-GJ,Regional Rural Banks,Manufacturing,Non-priority,13.59
+2018,Gujarat,West,IN-GJ,Regional Rural Banks,Services,Non-priority,15.18
+2018,Gujarat,West,IN-GJ,Regional Rural Banks,Retail Loans,Non-priority,11.11
+2018,Gujarat,West,IN-GJ,Regional Rural Banks,MSME,Priority,7.5
+2018,Gujarat,West,IN-GJ,Regional Rural Banks,Housing,Priority,5.16
+2019,Gujarat,West,IN-GJ,Public Sector Banks,Agriculture,Priority,51.99
+2019,Gujarat,West,IN-GJ,Public Sector Banks,Manufacturing,Non-priority,72.19
+2019,Gujarat,West,IN-GJ,Public Sector Banks,Services,Non-priority,84.15
+2019,Gujarat,West,IN-GJ,Public Sector Banks,Retail Loans,Non-priority,58.51
+2019,Gujarat,West,IN-GJ,Public Sector Banks,MSME,Priority,38.11
+2019,Gujarat,West,IN-GJ,Public Sector Banks,Housing,Priority,27.32
+2019,Gujarat,West,IN-GJ,Private Sector Banks,Agriculture,Priority,41.41
+2019,Gujarat,West,IN-GJ,Private Sector Banks,Manufacturing,Non-priority,51.42
+2019,Gujarat,West,IN-GJ,Private Sector Banks,Services,Non-priority,60.98
+2019,Gujarat,West,IN-GJ,Private Sector Banks,Retail Loans,Non-priority,46.36
+2019,Gujarat,West,IN-GJ,Private Sector Banks,MSME,Priority,30.43
+2019,Gujarat,West,IN-GJ,Private Sector Banks,Housing,Priority,20.07
+2019,Gujarat,West,IN-GJ,Regional Rural Banks,Agriculture,Priority,10.44
+2019,Gujarat,West,IN-GJ,Regional Rural Banks,Manufacturing,Non-priority,14.35
+2019,Gujarat,West,IN-GJ,Regional Rural Banks,Services,Non-priority,17.22
+2019,Gujarat,West,IN-GJ,Regional Rural Banks,Retail Loans,Non-priority,11.93
+2019,Gujarat,West,IN-GJ,Regional Rural Banks,MSME,Priority,7.54
+2019,Gujarat,West,IN-GJ,Regional Rural Banks,Housing,Priority,4.87
+2020,Gujarat,West,IN-GJ,Public Sector Banks,Agriculture,Priority,64.73
+2020,Gujarat,West,IN-GJ,Public Sector Banks,Manufacturing,Non-priority,77.23
+2020,Gujarat,West,IN-GJ,Public Sector Banks,Services,Non-priority,97.21
+2020,Gujarat,West,IN-GJ,Public Sector Banks,Retail Loans,Non-priority,70.62
+2020,Gujarat,West,IN-GJ,Public Sector Banks,MSME,Priority,46.14
+2020,Gujarat,West,IN-GJ,Public Sector Banks,Housing,Priority,29.11
+2020,Gujarat,West,IN-GJ,Private Sector Banks,Agriculture,Priority,44.77
+2020,Gujarat,West,IN-GJ,Private Sector Banks,Manufacturing,Non-priority,54.88
+2020,Gujarat,West,IN-GJ,Private Sector Banks,Services,Non-priority,68.66
+2020,Gujarat,West,IN-GJ,Private Sector Banks,Retail Loans,Non-priority,47.03
+2020,Gujarat,West,IN-GJ,Private Sector Banks,MSME,Priority,34.04
+2020,Gujarat,West,IN-GJ,Private Sector Banks,Housing,Priority,22.28
+2020,Gujarat,West,IN-GJ,Regional Rural Banks,Agriculture,Priority,11.32
+2020,Gujarat,West,IN-GJ,Regional Rural Banks,Manufacturing,Non-priority,16.11
+2020,Gujarat,West,IN-GJ,Regional Rural Banks,Services,Non-priority,17.91
+2020,Gujarat,West,IN-GJ,Regional Rural Banks,Retail Loans,Non-priority,13.12
+2020,Gujarat,West,IN-GJ,Regional Rural Banks,MSME,Priority,9.26
+2020,Gujarat,West,IN-GJ,Regional Rural Banks,Housing,Priority,5.92
+2021,Gujarat,West,IN-GJ,Public Sector Banks,Agriculture,Priority,65.99
+2021,Gujarat,West,IN-GJ,Public Sector Banks,Manufacturing,Non-priority,91.01
+2021,Gujarat,West,IN-GJ,Public Sector Banks,Services,Non-priority,106.95
+2021,Gujarat,West,IN-GJ,Public Sector Banks,Retail Loans,Non-priority,78.6
+2021,Gujarat,West,IN-GJ,Public Sector Banks,MSME,Priority,48.64
+2021,Gujarat,West,IN-GJ,Public Sector Banks,Housing,Priority,33.85
+2021,Gujarat,West,IN-GJ,Private Sector Banks,Agriculture,Priority,48.4
+2021,Gujarat,West,IN-GJ,Private Sector Banks,Manufacturing,Non-priority,70.8
+2021,Gujarat,West,IN-GJ,Private Sector Banks,Services,Non-priority,80.83
+2021,Gujarat,West,IN-GJ,Private Sector Banks,Retail Loans,Non-priority,55.66
+2021,Gujarat,West,IN-GJ,Private Sector Banks,MSME,Priority,36.61
+2021,Gujarat,West,IN-GJ,Private Sector Banks,Housing,Priority,25.64
+2021,Gujarat,West,IN-GJ,Regional Rural Banks,Agriculture,Priority,13.27
+2021,Gujarat,West,IN-GJ,Regional Rural Banks,Manufacturing,Non-priority,16.43
+2021,Gujarat,West,IN-GJ,Regional Rural Banks,Services,Non-priority,18.75
+2021,Gujarat,West,IN-GJ,Regional Rural Banks,Retail Loans,Non-priority,14.87
+2021,Gujarat,West,IN-GJ,Regional Rural Banks,MSME,Priority,9.48
+2021,Gujarat,West,IN-GJ,Regional Rural Banks,Housing,Priority,6.48
+2022,Gujarat,West,IN-GJ,Public Sector Banks,Agriculture,Priority,78.78
+2022,Gujarat,West,IN-GJ,Public Sector Banks,Manufacturing,Non-priority,93.99
+2022,Gujarat,West,IN-GJ,Public Sector Banks,Services,Non-priority,117.01
+2022,Gujarat,West,IN-GJ,Public Sector Banks,Retail Loans,Non-priority,82.8
+2022,Gujarat,West,IN-GJ,Public Sector Banks,MSME,Priority,58.93
+2022,Gujarat,West,IN-GJ,Public Sector Banks,Housing,Priority,37.18
+2022,Gujarat,West,IN-GJ,Private Sector Banks,Agriculture,Priority,60.87
+2022,Gujarat,West,IN-GJ,Private Sector Banks,Manufacturing,Non-priority,76.04
+2022,Gujarat,West,IN-GJ,Private Sector Banks,Services,Non-priority,97.11
+2022,Gujarat,West,IN-GJ,Private Sector Banks,Retail Loans,Non-priority,66.56
+2022,Gujarat,West,IN-GJ,Private Sector Banks,MSME,Priority,46.03
+2022,Gujarat,West,IN-GJ,Private Sector Banks,Housing,Priority,28.55
+2022,Gujarat,West,IN-GJ,Regional Rural Banks,Agriculture,Priority,14.33
+2022,Gujarat,West,IN-GJ,Regional Rural Banks,Manufacturing,Non-priority,17.95
+2022,Gujarat,West,IN-GJ,Regional Rural Banks,Services,Non-priority,22.6
+2022,Gujarat,West,IN-GJ,Regional Rural Banks,Retail Loans,Non-priority,15.94
+2022,Gujarat,West,IN-GJ,Regional Rural Banks,MSME,Priority,10.88
+2022,Gujarat,West,IN-GJ,Regional Rural Banks,Housing,Priority,7.23
+2023,Gujarat,West,IN-GJ,Public Sector Banks,Agriculture,Priority,85.08
+2023,Gujarat,West,IN-GJ,Public Sector Banks,Manufacturing,Non-priority,109.7
+2023,Gujarat,West,IN-GJ,Public Sector Banks,Services,Non-priority,125.6
+2023,Gujarat,West,IN-GJ,Public Sector Banks,Retail Loans,Non-priority,97.52
+2023,Gujarat,West,IN-GJ,Public Sector Banks,MSME,Priority,58.86
+2023,Gujarat,West,IN-GJ,Public Sector Banks,Housing,Priority,42.87
+2023,Gujarat,West,IN-GJ,Private Sector Banks,Agriculture,Priority,65.74
+2023,Gujarat,West,IN-GJ,Private Sector Banks,Manufacturing,Non-priority,87.84
+2023,Gujarat,West,IN-GJ,Private Sector Banks,Services,Non-priority,107.23
+2023,Gujarat,West,IN-GJ,Private Sector Banks,Retail Loans,Non-priority,73.03
+2023,Gujarat,West,IN-GJ,Private Sector Banks,MSME,Priority,45.64
+2023,Gujarat,West,IN-GJ,Private Sector Banks,Housing,Priority,32.26
+2023,Gujarat,West,IN-GJ,Regional Rural Banks,Agriculture,Priority,16.71
+2023,Gujarat,West,IN-GJ,Regional Rural Banks,Manufacturing,Non-priority,22.14
+2023,Gujarat,West,IN-GJ,Regional Rural Banks,Services,Non-priority,26.27
+2023,Gujarat,West,IN-GJ,Regional Rural Banks,Retail Loans,Non-priority,19.67
+2023,Gujarat,West,IN-GJ,Regional Rural Banks,MSME,Priority,12.55
+2023,Gujarat,West,IN-GJ,Regional Rural Banks,Housing,Priority,8.61
+2024,Gujarat,West,IN-GJ,Public Sector Banks,Agriculture,Priority,89.45
+2024,Gujarat,West,IN-GJ,Public Sector Banks,Manufacturing,Non-priority,122.64
+2024,Gujarat,West,IN-GJ,Public Sector Banks,Services,Non-priority,146.12
+2024,Gujarat,West,IN-GJ,Public Sector Banks,Retail Loans,Non-priority,108.58
+2024,Gujarat,West,IN-GJ,Public Sector Banks,MSME,Priority,72.09
+2024,Gujarat,West,IN-GJ,Public Sector Banks,Housing,Priority,47.9
+2024,Gujarat,West,IN-GJ,Private Sector Banks,Agriculture,Priority,69.62
+2024,Gujarat,West,IN-GJ,Private Sector Banks,Manufacturing,Non-priority,92.47
+2024,Gujarat,West,IN-GJ,Private Sector Banks,Services,Non-priority,99.34
+2024,Gujarat,West,IN-GJ,Private Sector Banks,Retail Loans,Non-priority,72.3
+2024,Gujarat,West,IN-GJ,Private Sector Banks,MSME,Priority,51.7
+2024,Gujarat,West,IN-GJ,Private Sector Banks,Housing,Priority,35.59
+2024,Gujarat,West,IN-GJ,Regional Rural Banks,Agriculture,Priority,18.33
+2024,Gujarat,West,IN-GJ,Regional Rural Banks,Manufacturing,Non-priority,25.77
+2024,Gujarat,West,IN-GJ,Regional Rural Banks,Services,Non-priority,31.81
+2024,Gujarat,West,IN-GJ,Regional Rural Banks,Retail Loans,Non-priority,21.83
+2024,Gujarat,West,IN-GJ,Regional Rural Banks,MSME,Priority,14.96
+2024,Gujarat,West,IN-GJ,Regional Rural Banks,Housing,Priority,10.2
+2017,Uttar Pradesh,North,IN-UP,Public Sector Banks,Agriculture,Priority,111.48
+2017,Uttar Pradesh,North,IN-UP,Public Sector Banks,Manufacturing,Non-priority,141.9
+2017,Uttar Pradesh,North,IN-UP,Public Sector Banks,Services,Non-priority,177.77
+2017,Uttar Pradesh,North,IN-UP,Public Sector Banks,Retail Loans,Non-priority,128.56
+2017,Uttar Pradesh,North,IN-UP,Public Sector Banks,MSME,Priority,88.2
+2017,Uttar Pradesh,North,IN-UP,Public Sector Banks,Housing,Priority,54.24
+2017,Uttar Pradesh,North,IN-UP,Private Sector Banks,Agriculture,Priority,80.85
+2017,Uttar Pradesh,North,IN-UP,Private Sector Banks,Manufacturing,Non-priority,115.66
+2017,Uttar Pradesh,North,IN-UP,Private Sector Banks,Services,Non-priority,124.68
+2017,Uttar Pradesh,North,IN-UP,Private Sector Banks,Retail Loans,Non-priority,93.64
+2017,Uttar Pradesh,North,IN-UP,Private Sector Banks,MSME,Priority,60.74
+2017,Uttar Pradesh,North,IN-UP,Private Sector Banks,Housing,Priority,40.5
+2017,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Agriculture,Priority,22.23
+2017,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Manufacturing,Non-priority,27.26
+2017,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Services,Non-priority,33.7
+2017,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Retail Loans,Non-priority,23.96
+2017,Uttar Pradesh,North,IN-UP,Regional Rural Banks,MSME,Priority,16.49
+2017,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Housing,Priority,11.06
+2018,Uttar Pradesh,North,IN-UP,Public Sector Banks,Agriculture,Priority,119.9
+2018,Uttar Pradesh,North,IN-UP,Public Sector Banks,Manufacturing,Non-priority,161.24
+2018,Uttar Pradesh,North,IN-UP,Public Sector Banks,Services,Non-priority,194.62
+2018,Uttar Pradesh,North,IN-UP,Public Sector Banks,Retail Loans,Non-priority,135.78
+2018,Uttar Pradesh,North,IN-UP,Public Sector Banks,MSME,Priority,94.52
+2018,Uttar Pradesh,North,IN-UP,Public Sector Banks,Housing,Priority,63.0
+2018,Uttar Pradesh,North,IN-UP,Private Sector Banks,Agriculture,Priority,98.23
+2018,Uttar Pradesh,North,IN-UP,Private Sector Banks,Manufacturing,Non-priority,122.62
+2018,Uttar Pradesh,North,IN-UP,Private Sector Banks,Services,Non-priority,151.78
+2018,Uttar Pradesh,North,IN-UP,Private Sector Banks,Retail Loans,Non-priority,111.06
+2018,Uttar Pradesh,North,IN-UP,Private Sector Banks,MSME,Priority,74.55
+2018,Uttar Pradesh,North,IN-UP,Private Sector Banks,Housing,Priority,45.34
+2018,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Agriculture,Priority,24.29
+2018,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Manufacturing,Non-priority,34.04
+2018,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Services,Non-priority,39.59
+2018,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Retail Loans,Non-priority,27.6
+2018,Uttar Pradesh,North,IN-UP,Regional Rural Banks,MSME,Priority,19.08
+2018,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Housing,Priority,12.69
+2019,Uttar Pradesh,North,IN-UP,Public Sector Banks,Agriculture,Priority,156.14
+2019,Uttar Pradesh,North,IN-UP,Public Sector Banks,Manufacturing,Non-priority,199.48
+2019,Uttar Pradesh,North,IN-UP,Public Sector Banks,Services,Non-priority,246.23
+2019,Uttar Pradesh,North,IN-UP,Public Sector Banks,Retail Loans,Non-priority,171.99
+2019,Uttar Pradesh,North,IN-UP,Public Sector Banks,MSME,Priority,109.62
+2019,Uttar Pradesh,North,IN-UP,Public Sector Banks,Housing,Priority,74.27
+2019,Uttar Pradesh,North,IN-UP,Private Sector Banks,Agriculture,Priority,105.61
+2019,Uttar Pradesh,North,IN-UP,Private Sector Banks,Manufacturing,Non-priority,146.86
+2019,Uttar Pradesh,North,IN-UP,Private Sector Banks,Services,Non-priority,162.59
+2019,Uttar Pradesh,North,IN-UP,Private Sector Banks,Retail Loans,Non-priority,116.59
+2019,Uttar Pradesh,North,IN-UP,Private Sector Banks,MSME,Priority,81.93
+2019,Uttar Pradesh,North,IN-UP,Private Sector Banks,Housing,Priority,57.59
+2019,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Agriculture,Priority,27.99
+2019,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Manufacturing,Non-priority,39.5
+2019,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Services,Non-priority,45.1
+2019,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Retail Loans,Non-priority,33.9
+2019,Uttar Pradesh,North,IN-UP,Regional Rural Banks,MSME,Priority,22.41
+2019,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Housing,Priority,14.16
+2020,Uttar Pradesh,North,IN-UP,Public Sector Banks,Agriculture,Priority,172.51
+2020,Uttar Pradesh,North,IN-UP,Public Sector Banks,Manufacturing,Non-priority,223.28
+2020,Uttar Pradesh,North,IN-UP,Public Sector Banks,Services,Non-priority,262.04
+2020,Uttar Pradesh,North,IN-UP,Public Sector Banks,Retail Loans,Non-priority,195.26
+2020,Uttar Pradesh,North,IN-UP,Public Sector Banks,MSME,Priority,129.74
+2020,Uttar Pradesh,North,IN-UP,Public Sector Banks,Housing,Priority,84.63
+2020,Uttar Pradesh,North,IN-UP,Private Sector Banks,Agriculture,Priority,120.37
+2020,Uttar Pradesh,North,IN-UP,Private Sector Banks,Manufacturing,Non-priority,156.18
+2020,Uttar Pradesh,North,IN-UP,Private Sector Banks,Services,Non-priority,191.71
+2020,Uttar Pradesh,North,IN-UP,Private Sector Banks,Retail Loans,Non-priority,138.4
+2020,Uttar Pradesh,North,IN-UP,Private Sector Banks,MSME,Priority,91.08
+2020,Uttar Pradesh,North,IN-UP,Private Sector Banks,Housing,Priority,62.45
+2020,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Agriculture,Priority,29.22
+2020,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Manufacturing,Non-priority,42.86
+2020,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Services,Non-priority,49.12
+2020,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Retail Loans,Non-priority,37.08
+2020,Uttar Pradesh,North,IN-UP,Regional Rural Banks,MSME,Priority,22.57
+2020,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Housing,Priority,14.7
+2021,Uttar Pradesh,North,IN-UP,Public Sector Banks,Agriculture,Priority,190.8
+2021,Uttar Pradesh,North,IN-UP,Public Sector Banks,Manufacturing,Non-priority,241.33
+2021,Uttar Pradesh,North,IN-UP,Public Sector Banks,Services,Non-priority,319.88
+2021,Uttar Pradesh,North,IN-UP,Public Sector Banks,Retail Loans,Non-priority,212.99
+2021,Uttar Pradesh,North,IN-UP,Public Sector Banks,MSME,Priority,145.2
+2021,Uttar Pradesh,North,IN-UP,Public Sector Banks,Housing,Priority,91.62
+2021,Uttar Pradesh,North,IN-UP,Private Sector Banks,Agriculture,Priority,135.24
+2021,Uttar Pradesh,North,IN-UP,Private Sector Banks,Manufacturing,Non-priority,178.92
+2021,Uttar Pradesh,North,IN-UP,Private Sector Banks,Services,Non-priority,219.21
+2021,Uttar Pradesh,North,IN-UP,Private Sector Banks,Retail Loans,Non-priority,148.19
+2021,Uttar Pradesh,North,IN-UP,Private Sector Banks,MSME,Priority,102.72
+2021,Uttar Pradesh,North,IN-UP,Private Sector Banks,Housing,Priority,63.28
+2021,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Agriculture,Priority,32.89
+2021,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Manufacturing,Non-priority,46.18
+2021,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Services,Non-priority,48.98
+2021,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Retail Loans,Non-priority,37.04
+2021,Uttar Pradesh,North,IN-UP,Regional Rural Banks,MSME,Priority,24.87
+2021,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Housing,Priority,17.63
+2022,Uttar Pradesh,North,IN-UP,Public Sector Banks,Agriculture,Priority,202.75
+2022,Uttar Pradesh,North,IN-UP,Public Sector Banks,Manufacturing,Non-priority,280.52
+2022,Uttar Pradesh,North,IN-UP,Public Sector Banks,Services,Non-priority,310.15
+2022,Uttar Pradesh,North,IN-UP,Public Sector Banks,Retail Loans,Non-priority,225.48
+2022,Uttar Pradesh,North,IN-UP,Public Sector Banks,MSME,Priority,145.78
+2022,Uttar Pradesh,North,IN-UP,Public Sector Banks,Housing,Priority,96.01
+2022,Uttar Pradesh,North,IN-UP,Private Sector Banks,Agriculture,Priority,154.8
+2022,Uttar Pradesh,North,IN-UP,Private Sector Banks,Manufacturing,Non-priority,201.73
+2022,Uttar Pradesh,North,IN-UP,Private Sector Banks,Services,Non-priority,223.49
+2022,Uttar Pradesh,North,IN-UP,Private Sector Banks,Retail Loans,Non-priority,178.69
+2022,Uttar Pradesh,North,IN-UP,Private Sector Banks,MSME,Priority,110.73
+2022,Uttar Pradesh,North,IN-UP,Private Sector Banks,Housing,Priority,72.44
+2022,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Agriculture,Priority,36.25
+2022,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Manufacturing,Non-priority,47.57
+2022,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Services,Non-priority,61.88
+2022,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Retail Loans,Non-priority,41.76
+2022,Uttar Pradesh,North,IN-UP,Regional Rural Banks,MSME,Priority,27.09
+2022,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Housing,Priority,19.85
+2023,Uttar Pradesh,North,IN-UP,Public Sector Banks,Agriculture,Priority,212.56
+2023,Uttar Pradesh,North,IN-UP,Public Sector Banks,Manufacturing,Non-priority,283.06
+2023,Uttar Pradesh,North,IN-UP,Public Sector Banks,Services,Non-priority,335.34
+2023,Uttar Pradesh,North,IN-UP,Public Sector Banks,Retail Loans,Non-priority,258.7
+2023,Uttar Pradesh,North,IN-UP,Public Sector Banks,MSME,Priority,158.01
+2023,Uttar Pradesh,North,IN-UP,Public Sector Banks,Housing,Priority,104.81
+2023,Uttar Pradesh,North,IN-UP,Private Sector Banks,Agriculture,Priority,159.05
+2023,Uttar Pradesh,North,IN-UP,Private Sector Banks,Manufacturing,Non-priority,204.95
+2023,Uttar Pradesh,North,IN-UP,Private Sector Banks,Services,Non-priority,268.52
+2023,Uttar Pradesh,North,IN-UP,Private Sector Banks,Retail Loans,Non-priority,189.12
+2023,Uttar Pradesh,North,IN-UP,Private Sector Banks,MSME,Priority,129.18
+2023,Uttar Pradesh,North,IN-UP,Private Sector Banks,Housing,Priority,82.92
+2023,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Agriculture,Priority,44.74
+2023,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Manufacturing,Non-priority,61.96
+2023,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Services,Non-priority,65.98
+2023,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Retail Loans,Non-priority,52.62
+2023,Uttar Pradesh,North,IN-UP,Regional Rural Banks,MSME,Priority,35.32
+2023,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Housing,Priority,22.46
+2024,Uttar Pradesh,North,IN-UP,Public Sector Banks,Agriculture,Priority,261.73
+2024,Uttar Pradesh,North,IN-UP,Public Sector Banks,Manufacturing,Non-priority,339.36
+2024,Uttar Pradesh,North,IN-UP,Public Sector Banks,Services,Non-priority,421.7
+2024,Uttar Pradesh,North,IN-UP,Public Sector Banks,Retail Loans,Non-priority,297.98
+2024,Uttar Pradesh,North,IN-UP,Public Sector Banks,MSME,Priority,208.57
+2024,Uttar Pradesh,North,IN-UP,Public Sector Banks,Housing,Priority,124.24
+2024,Uttar Pradesh,North,IN-UP,Private Sector Banks,Agriculture,Priority,174.66
+2024,Uttar Pradesh,North,IN-UP,Private Sector Banks,Manufacturing,Non-priority,239.67
+2024,Uttar Pradesh,North,IN-UP,Private Sector Banks,Services,Non-priority,284.03
+2024,Uttar Pradesh,North,IN-UP,Private Sector Banks,Retail Loans,Non-priority,199.88
+2024,Uttar Pradesh,North,IN-UP,Private Sector Banks,MSME,Priority,144.46
+2024,Uttar Pradesh,North,IN-UP,Private Sector Banks,Housing,Priority,90.49
+2024,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Agriculture,Priority,50.25
+2024,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Manufacturing,Non-priority,67.07
+2024,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Services,Non-priority,78.34
+2024,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Retail Loans,Non-priority,57.61
+2024,Uttar Pradesh,North,IN-UP,Regional Rural Banks,MSME,Priority,38.02
+2024,Uttar Pradesh,North,IN-UP,Regional Rural Banks,Housing,Priority,23.63
+2017,West Bengal,East,IN-WB,Public Sector Banks,Agriculture,Priority,44.34
+2017,West Bengal,East,IN-WB,Public Sector Banks,Manufacturing,Non-priority,55.69
+2017,West Bengal,East,IN-WB,Public Sector Banks,Services,Non-priority,63.51
+2017,West Bengal,East,IN-WB,Public Sector Banks,Retail Loans,Non-priority,47.8
+2017,West Bengal,East,IN-WB,Public Sector Banks,MSME,Priority,32.86
+2017,West Bengal,East,IN-WB,Public Sector Banks,Housing,Priority,21.1
+2017,West Bengal,East,IN-WB,Private Sector Banks,Agriculture,Priority,35.65
+2017,West Bengal,East,IN-WB,Private Sector Banks,Manufacturing,Non-priority,40.87
+2017,West Bengal,East,IN-WB,Private Sector Banks,Services,Non-priority,48.68
+2017,West Bengal,East,IN-WB,Private Sector Banks,Retail Loans,Non-priority,38.12
+2017,West Bengal,East,IN-WB,Private Sector Banks,MSME,Priority,25.64
+2017,West Bengal,East,IN-WB,Private Sector Banks,Housing,Priority,16.55
+2017,West Bengal,East,IN-WB,Regional Rural Banks,Agriculture,Priority,8.57
+2017,West Bengal,East,IN-WB,Regional Rural Banks,Manufacturing,Non-priority,11.15
+2017,West Bengal,East,IN-WB,Regional Rural Banks,Services,Non-priority,13.82
+2017,West Bengal,East,IN-WB,Regional Rural Banks,Retail Loans,Non-priority,10.06
+2017,West Bengal,East,IN-WB,Regional Rural Banks,MSME,Priority,6.8
+2017,West Bengal,East,IN-WB,Regional Rural Banks,Housing,Priority,4.45
+2018,West Bengal,East,IN-WB,Public Sector Banks,Agriculture,Priority,55.21
+2018,West Bengal,East,IN-WB,Public Sector Banks,Manufacturing,Non-priority,66.4
+2018,West Bengal,East,IN-WB,Public Sector Banks,Services,Non-priority,83.84
+2018,West Bengal,East,IN-WB,Public Sector Banks,Retail Loans,Non-priority,57.1
+2018,West Bengal,East,IN-WB,Public Sector Banks,MSME,Priority,37.45
+2018,West Bengal,East,IN-WB,Public Sector Banks,Housing,Priority,27.46
+2018,West Bengal,East,IN-WB,Private Sector Banks,Agriculture,Priority,40.05
+2018,West Bengal,East,IN-WB,Private Sector Banks,Manufacturing,Non-priority,50.77
+2018,West Bengal,East,IN-WB,Private Sector Banks,Services,Non-priority,61.47
+2018,West Bengal,East,IN-WB,Private Sector Banks,Retail Loans,Non-priority,43.45
+2018,West Bengal,East,IN-WB,Private Sector Banks,MSME,Priority,28.21
+2018,West Bengal,East,IN-WB,Private Sector Banks,Housing,Priority,18.87
+2018,West Bengal,East,IN-WB,Regional Rural Banks,Agriculture,Priority,9.69
+2018,West Bengal,East,IN-WB,Regional Rural Banks,Manufacturing,Non-priority,12.09
+2018,West Bengal,East,IN-WB,Regional Rural Banks,Services,Non-priority,15.42
+2018,West Bengal,East,IN-WB,Regional Rural Banks,Retail Loans,Non-priority,10.56
+2018,West Bengal,East,IN-WB,Regional Rural Banks,MSME,Priority,7.06
+2018,West Bengal,East,IN-WB,Regional Rural Banks,Housing,Priority,4.5
+2019,West Bengal,East,IN-WB,Public Sector Banks,Agriculture,Priority,57.87
+2019,West Bengal,East,IN-WB,Public Sector Banks,Manufacturing,Non-priority,77.85
+2019,West Bengal,East,IN-WB,Public Sector Banks,Services,Non-priority,85.73
+2019,West Bengal,East,IN-WB,Public Sector Banks,Retail Loans,Non-priority,67.93
+2019,West Bengal,East,IN-WB,Public Sector Banks,MSME,Priority,42.22
+2019,West Bengal,East,IN-WB,Public Sector Banks,Housing,Priority,28.89
+2019,West Bengal,East,IN-WB,Private Sector Banks,Agriculture,Priority,42.94
+2019,West Bengal,East,IN-WB,Private Sector Banks,Manufacturing,Non-priority,52.75
+2019,West Bengal,East,IN-WB,Private Sector Banks,Services,Non-priority,59.01
+2019,West Bengal,East,IN-WB,Private Sector Banks,Retail Loans,Non-priority,42.38
+2019,West Bengal,East,IN-WB,Private Sector Banks,MSME,Priority,28.62
+2019,West Bengal,East,IN-WB,Private Sector Banks,Housing,Priority,20.25
+2019,West Bengal,East,IN-WB,Regional Rural Banks,Agriculture,Priority,11.1
+2019,West Bengal,East,IN-WB,Regional Rural Banks,Manufacturing,Non-priority,13.93
+2019,West Bengal,East,IN-WB,Regional Rural Banks,Services,Non-priority,16.24
+2019,West Bengal,East,IN-WB,Regional Rural Banks,Retail Loans,Non-priority,12.47
+2019,West Bengal,East,IN-WB,Regional Rural Banks,MSME,Priority,7.64
+2019,West Bengal,East,IN-WB,Regional Rural Banks,Housing,Priority,5.3
+2020,West Bengal,East,IN-WB,Public Sector Banks,Agriculture,Priority,66.82
+2020,West Bengal,East,IN-WB,Public Sector Banks,Manufacturing,Non-priority,77.62
+2020,West Bengal,East,IN-WB,Public Sector Banks,Services,Non-priority,97.11
+2020,West Bengal,East,IN-WB,Public Sector Banks,Retail Loans,Non-priority,71.98
+2020,West Bengal,East,IN-WB,Public Sector Banks,MSME,Priority,44.28
+2020,West Bengal,East,IN-WB,Public Sector Banks,Housing,Priority,30.66
+2020,West Bengal,East,IN-WB,Private Sector Banks,Agriculture,Priority,43.94
+2020,West Bengal,East,IN-WB,Private Sector Banks,Manufacturing,Non-priority,53.05
+2020,West Bengal,East,IN-WB,Private Sector Banks,Services,Non-priority,69.8
+2020,West Bengal,East,IN-WB,Private Sector Banks,Retail Loans,Non-priority,46.78
+2020,West Bengal,East,IN-WB,Private Sector Banks,MSME,Priority,31.99
+2020,West Bengal,East,IN-WB,Private Sector Banks,Housing,Priority,22.19
+2020,West Bengal,East,IN-WB,Regional Rural Banks,Agriculture,Priority,12.3
+2020,West Bengal,East,IN-WB,Regional Rural Banks,Manufacturing,Non-priority,17.19
+2020,West Bengal,East,IN-WB,Regional Rural Banks,Services,Non-priority,18.44
+2020,West Bengal,East,IN-WB,Regional Rural Banks,Retail Loans,Non-priority,13.27
+2020,West Bengal,East,IN-WB,Regional Rural Banks,MSME,Priority,9.93
+2020,West Bengal,East,IN-WB,Regional Rural Banks,Housing,Priority,6.56
+2021,West Bengal,East,IN-WB,Public Sector Banks,Agriculture,Priority,73.79
+2021,West Bengal,East,IN-WB,Public Sector Banks,Manufacturing,Non-priority,89.34
+2021,West Bengal,East,IN-WB,Public Sector Banks,Services,Non-priority,105.37
+2021,West Bengal,East,IN-WB,Public Sector Banks,Retail Loans,Non-priority,79.33
+2021,West Bengal,East,IN-WB,Public Sector Banks,MSME,Priority,56.09
+2021,West Bengal,East,IN-WB,Public Sector Banks,Housing,Priority,36.45
+2021,West Bengal,East,IN-WB,Private Sector Banks,Agriculture,Priority,60.21
+2021,West Bengal,East,IN-WB,Private Sector Banks,Manufacturing,Non-priority,70.24
+2021,West Bengal,East,IN-WB,Private Sector Banks,Services,Non-priority,87.8
+2021,West Bengal,East,IN-WB,Private Sector Banks,Retail Loans,Non-priority,62.92
+2021,West Bengal,East,IN-WB,Private Sector Banks,MSME,Priority,41.15
+2021,West Bengal,East,IN-WB,Private Sector Banks,Housing,Priority,27.06
+2021,West Bengal,East,IN-WB,Regional Rural Banks,Agriculture,Priority,13.73
+2021,West Bengal,East,IN-WB,Regional Rural Banks,Manufacturing,Non-priority,16.42
+2021,West Bengal,East,IN-WB,Regional Rural Banks,Services,Non-priority,20.68
+2021,West Bengal,East,IN-WB,Regional Rural Banks,Retail Loans,Non-priority,15.71
+2021,West Bengal,East,IN-WB,Regional Rural Banks,MSME,Priority,9.73
+2021,West Bengal,East,IN-WB,Regional Rural Banks,Housing,Priority,6.79
+2022,West Bengal,East,IN-WB,Public Sector Banks,Agriculture,Priority,83.46
+2022,West Bengal,East,IN-WB,Public Sector Banks,Manufacturing,Non-priority,105.9
+2022,West Bengal,East,IN-WB,Public Sector Banks,Services,Non-priority,133.54
+2022,West Bengal,East,IN-WB,Public Sector Banks,Retail Loans,Non-priority,98.52
+2022,West Bengal,East,IN-WB,Public Sector Banks,MSME,Priority,64.63
+2022,West Bengal,East,IN-WB,Public Sector Banks,Housing,Priority,40.35
+2022,West Bengal,East,IN-WB,Private Sector Banks,Agriculture,Priority,63.82
+2022,West Bengal,East,IN-WB,Private Sector Banks,Manufacturing,Non-priority,77.29
+2022,West Bengal,East,IN-WB,Private Sector Banks,Services,Non-priority,98.15
+2022,West Bengal,East,IN-WB,Private Sector Banks,Retail Loans,Non-priority,67.86
+2022,West Bengal,East,IN-WB,Private Sector Banks,MSME,Priority,45.51
+2022,West Bengal,East,IN-WB,Private Sector Banks,Housing,Priority,30.21
+2022,West Bengal,East,IN-WB,Regional Rural Banks,Agriculture,Priority,15.66
+2022,West Bengal,East,IN-WB,Regional Rural Banks,Manufacturing,Non-priority,20.75
+2022,West Bengal,East,IN-WB,Regional Rural Banks,Services,Non-priority,24.36
+2022,West Bengal,East,IN-WB,Regional Rural Banks,Retail Loans,Non-priority,17.55
+2022,West Bengal,East,IN-WB,Regional Rural Banks,MSME,Priority,11.33
+2022,West Bengal,East,IN-WB,Regional Rural Banks,Housing,Priority,8.0
+2023,West Bengal,East,IN-WB,Public Sector Banks,Agriculture,Priority,94.45
+2023,West Bengal,East,IN-WB,Public Sector Banks,Manufacturing,Non-priority,107.84
+2023,West Bengal,East,IN-WB,Public Sector Banks,Services,Non-priority,142.99
+2023,West Bengal,East,IN-WB,Public Sector Banks,Retail Loans,Non-priority,103.39
+2023,West Bengal,East,IN-WB,Public Sector Banks,MSME,Priority,66.64
+2023,West Bengal,East,IN-WB,Public Sector Banks,Housing,Priority,43.66
+2023,West Bengal,East,IN-WB,Private Sector Banks,Agriculture,Priority,71.22
+2023,West Bengal,East,IN-WB,Private Sector Banks,Manufacturing,Non-priority,84.8
+2023,West Bengal,East,IN-WB,Private Sector Banks,Services,Non-priority,106.25
+2023,West Bengal,East,IN-WB,Private Sector Banks,Retail Loans,Non-priority,75.4
+2023,West Bengal,East,IN-WB,Private Sector Banks,MSME,Priority,47.99
+2023,West Bengal,East,IN-WB,Private Sector Banks,Housing,Priority,32.53
+2023,West Bengal,East,IN-WB,Regional Rural Banks,Agriculture,Priority,17.38
+2023,West Bengal,East,IN-WB,Regional Rural Banks,Manufacturing,Non-priority,20.4
+2023,West Bengal,East,IN-WB,Regional Rural Banks,Services,Non-priority,25.61
+2023,West Bengal,East,IN-WB,Regional Rural Banks,Retail Loans,Non-priority,18.05
+2023,West Bengal,East,IN-WB,Regional Rural Banks,MSME,Priority,11.48
+2023,West Bengal,East,IN-WB,Regional Rural Banks,Housing,Priority,7.7
+2024,West Bengal,East,IN-WB,Public Sector Banks,Agriculture,Priority,98.06
+2024,West Bengal,East,IN-WB,Public Sector Banks,Manufacturing,Non-priority,127.07
+2024,West Bengal,East,IN-WB,Public Sector Banks,Services,Non-priority,150.42
+2024,West Bengal,East,IN-WB,Public Sector Banks,Retail Loans,Non-priority,110.81
+2024,West Bengal,East,IN-WB,Public Sector Banks,MSME,Priority,72.89
+2024,West Bengal,East,IN-WB,Public Sector Banks,Housing,Priority,50.05
+2024,West Bengal,East,IN-WB,Private Sector Banks,Agriculture,Priority,74.7
+2024,West Bengal,East,IN-WB,Private Sector Banks,Manufacturing,Non-priority,101.57
+2024,West Bengal,East,IN-WB,Private Sector Banks,Services,Non-priority,115.61
+2024,West Bengal,East,IN-WB,Private Sector Banks,Retail Loans,Non-priority,88.66
+2024,West Bengal,East,IN-WB,Private Sector Banks,MSME,Priority,58.36
+2024,West Bengal,East,IN-WB,Private Sector Banks,Housing,Priority,39.97
+2024,West Bengal,East,IN-WB,Regional Rural Banks,Agriculture,Priority,19.36
+2024,West Bengal,East,IN-WB,Regional Rural Banks,Manufacturing,Non-priority,25.07
+2024,West Bengal,East,IN-WB,Regional Rural Banks,Services,Non-priority,32.48
+2024,West Bengal,East,IN-WB,Regional Rural Banks,Retail Loans,Non-priority,22.76
+2024,West Bengal,East,IN-WB,Regional Rural Banks,MSME,Priority,14.53
+2024,West Bengal,East,IN-WB,Regional Rural Banks,Housing,Priority,9.9
+2017,Rajasthan,North,IN-RJ,Public Sector Banks,Agriculture,Priority,39.6
+2017,Rajasthan,North,IN-RJ,Public Sector Banks,Manufacturing,Non-priority,52.11
+2017,Rajasthan,North,IN-RJ,Public Sector Banks,Services,Non-priority,60.93
+2017,Rajasthan,North,IN-RJ,Public Sector Banks,Retail Loans,Non-priority,44.76
+2017,Rajasthan,North,IN-RJ,Public Sector Banks,MSME,Priority,29.5
+2017,Rajasthan,North,IN-RJ,Public Sector Banks,Housing,Priority,19.54
+2017,Rajasthan,North,IN-RJ,Private Sector Banks,Agriculture,Priority,27.32
+2017,Rajasthan,North,IN-RJ,Private Sector Banks,Manufacturing,Non-priority,35.86
+2017,Rajasthan,North,IN-RJ,Private Sector Banks,Services,Non-priority,41.67
+2017,Rajasthan,North,IN-RJ,Private Sector Banks,Retail Loans,Non-priority,30.14
+2017,Rajasthan,North,IN-RJ,Private Sector Banks,MSME,Priority,22.07
+2017,Rajasthan,North,IN-RJ,Private Sector Banks,Housing,Priority,13.88
+2017,Rajasthan,North,IN-RJ,Regional Rural Banks,Agriculture,Priority,7.07
+2017,Rajasthan,North,IN-RJ,Regional Rural Banks,Manufacturing,Non-priority,8.42
+2017,Rajasthan,North,IN-RJ,Regional Rural Banks,Services,Non-priority,10.94
+2017,Rajasthan,North,IN-RJ,Regional Rural Banks,Retail Loans,Non-priority,7.94
+2017,Rajasthan,North,IN-RJ,Regional Rural Banks,MSME,Priority,5.33
+2017,Rajasthan,North,IN-RJ,Regional Rural Banks,Housing,Priority,3.18
+2018,Rajasthan,North,IN-RJ,Public Sector Banks,Agriculture,Priority,41.76
+2018,Rajasthan,North,IN-RJ,Public Sector Banks,Manufacturing,Non-priority,53.25
+2018,Rajasthan,North,IN-RJ,Public Sector Banks,Services,Non-priority,69.2
+2018,Rajasthan,North,IN-RJ,Public Sector Banks,Retail Loans,Non-priority,49.49
+2018,Rajasthan,North,IN-RJ,Public Sector Banks,MSME,Priority,33.13
+2018,Rajasthan,North,IN-RJ,Public Sector Banks,Housing,Priority,20.31
+2018,Rajasthan,North,IN-RJ,Private Sector Banks,Agriculture,Priority,29.21
+2018,Rajasthan,North,IN-RJ,Private Sector Banks,Manufacturing,Non-priority,39.39
+2018,Rajasthan,North,IN-RJ,Private Sector Banks,Services,Non-priority,45.96
+2018,Rajasthan,North,IN-RJ,Private Sector Banks,Retail Loans,Non-priority,35.16
+2018,Rajasthan,North,IN-RJ,Private Sector Banks,MSME,Priority,22.55
+2018,Rajasthan,North,IN-RJ,Private Sector Banks,Housing,Priority,15.19
+2018,Rajasthan,North,IN-RJ,Regional Rural Banks,Agriculture,Priority,8.53
+2018,Rajasthan,North,IN-RJ,Regional Rural Banks,Manufacturing,Non-priority,10.54
+2018,Rajasthan,North,IN-RJ,Regional Rural Banks,Services,Non-priority,13.52
+2018,Rajasthan,North,IN-RJ,Regional Rural Banks,Retail Loans,Non-priority,9.79
+2018,Rajasthan,North,IN-RJ,Regional Rural Banks,MSME,Priority,6.11
+2018,Rajasthan,North,IN-RJ,Regional Rural Banks,Housing,Priority,3.97
+2019,Rajasthan,North,IN-RJ,Public Sector Banks,Agriculture,Priority,48.59
+2019,Rajasthan,North,IN-RJ,Public Sector Banks,Manufacturing,Non-priority,63.61
+2019,Rajasthan,North,IN-RJ,Public Sector Banks,Services,Non-priority,69.6
+2019,Rajasthan,North,IN-RJ,Public Sector Banks,Retail Loans,Non-priority,50.96
+2019,Rajasthan,North,IN-RJ,Public Sector Banks,MSME,Priority,35.71
+2019,Rajasthan,North,IN-RJ,Public Sector Banks,Housing,Priority,24.48
+2019,Rajasthan,North,IN-RJ,Private Sector Banks,Agriculture,Priority,34.75
+2019,Rajasthan,North,IN-RJ,Private Sector Banks,Manufacturing,Non-priority,42.39
+2019,Rajasthan,North,IN-RJ,Private Sector Banks,Services,Non-priority,53.77
+2019,Rajasthan,North,IN-RJ,Private Sector Banks,Retail Loans,Non-priority,36.4
+2019,Rajasthan,North,IN-RJ,Private Sector Banks,MSME,Priority,26.28
+2019,Rajasthan,North,IN-RJ,Private Sector Banks,Housing,Priority,15.87
+2019,Rajasthan,North,IN-RJ,Regional Rural Banks,Agriculture,Priority,9.32
+2019,Rajasthan,North,IN-RJ,Regional Rural Banks,Manufacturing,Non-priority,12.07
+2019,Rajasthan,North,IN-RJ,Regional Rural Banks,Services,Non-priority,13.78
+2019,Rajasthan,North,IN-RJ,Regional Rural Banks,Retail Loans,Non-priority,9.97
+2019,Rajasthan,North,IN-RJ,Regional Rural Banks,MSME,Priority,7.05
+2019,Rajasthan,North,IN-RJ,Regional Rural Banks,Housing,Priority,4.53
+2020,Rajasthan,North,IN-RJ,Public Sector Banks,Agriculture,Priority,57.43
+2020,Rajasthan,North,IN-RJ,Public Sector Banks,Manufacturing,Non-priority,74.47
+2020,Rajasthan,North,IN-RJ,Public Sector Banks,Services,Non-priority,86.81
+2020,Rajasthan,North,IN-RJ,Public Sector Banks,Retail Loans,Non-priority,63.8
+2020,Rajasthan,North,IN-RJ,Public Sector Banks,MSME,Priority,38.99
+2020,Rajasthan,North,IN-RJ,Public Sector Banks,Housing,Priority,26.48
+2020,Rajasthan,North,IN-RJ,Private Sector Banks,Agriculture,Priority,41.46
+2020,Rajasthan,North,IN-RJ,Private Sector Banks,Manufacturing,Non-priority,52.61
+2020,Rajasthan,North,IN-RJ,Private Sector Banks,Services,Non-priority,59.17
+2020,Rajasthan,North,IN-RJ,Private Sector Banks,Retail Loans,Non-priority,43.15
+2020,Rajasthan,North,IN-RJ,Private Sector Banks,MSME,Priority,29.41
+2020,Rajasthan,North,IN-RJ,Private Sector Banks,Housing,Priority,21.09
+2020,Rajasthan,North,IN-RJ,Regional Rural Banks,Agriculture,Priority,9.87
+2020,Rajasthan,North,IN-RJ,Regional Rural Banks,Manufacturing,Non-priority,13.26
+2020,Rajasthan,North,IN-RJ,Regional Rural Banks,Services,Non-priority,15.86
+2020,Rajasthan,North,IN-RJ,Regional Rural Banks,Retail Loans,Non-priority,11.06
+2020,Rajasthan,North,IN-RJ,Regional Rural Banks,MSME,Priority,7.74
+2020,Rajasthan,North,IN-RJ,Regional Rural Banks,Housing,Priority,5.4
+2021,Rajasthan,North,IN-RJ,Public Sector Banks,Agriculture,Priority,57.42
+2021,Rajasthan,North,IN-RJ,Public Sector Banks,Manufacturing,Non-priority,69.69
+2021,Rajasthan,North,IN-RJ,Public Sector Banks,Services,Non-priority,88.99
+2021,Rajasthan,North,IN-RJ,Public Sector Banks,Retail Loans,Non-priority,62.04
+2021,Rajasthan,North,IN-RJ,Public Sector Banks,MSME,Priority,40.71
+2021,Rajasthan,North,IN-RJ,Public Sector Banks,Housing,Priority,28.13
+2021,Rajasthan,North,IN-RJ,Private Sector Banks,Agriculture,Priority,43.45
+2021,Rajasthan,North,IN-RJ,Private Sector Banks,Manufacturing,Non-priority,52.78
+2021,Rajasthan,North,IN-RJ,Private Sector Banks,Services,Non-priority,70.73
+2021,Rajasthan,North,IN-RJ,Private Sector Banks,Retail Loans,Non-priority,45.46
+2021,Rajasthan,North,IN-RJ,Private Sector Banks,MSME,Priority,32.13
+2021,Rajasthan,North,IN-RJ,Private Sector Banks,Housing,Priority,21.32
+2021,Rajasthan,North,IN-RJ,Regional Rural Banks,Agriculture,Priority,11.86
+2021,Rajasthan,North,IN-RJ,Regional Rural Banks,Manufacturing,Non-priority,15.88
+2021,Rajasthan,North,IN-RJ,Regional Rural Banks,Services,Non-priority,19.81
+2021,Rajasthan,North,IN-RJ,Regional Rural Banks,Retail Loans,Non-priority,13.05
+2021,Rajasthan,North,IN-RJ,Regional Rural Banks,MSME,Priority,8.4
+2021,Rajasthan,North,IN-RJ,Regional Rural Banks,Housing,Priority,6.18
+2022,Rajasthan,North,IN-RJ,Public Sector Banks,Agriculture,Priority,68.85
+2022,Rajasthan,North,IN-RJ,Public Sector Banks,Manufacturing,Non-priority,89.82
+2022,Rajasthan,North,IN-RJ,Public Sector Banks,Services,Non-priority,101.98
+2022,Rajasthan,North,IN-RJ,Public Sector Banks,Retail Loans,Non-priority,70.94
+2022,Rajasthan,North,IN-RJ,Public Sector Banks,MSME,Priority,50.41
+2022,Rajasthan,North,IN-RJ,Public Sector Banks,Housing,Priority,34.66
+2022,Rajasthan,North,IN-RJ,Private Sector Banks,Agriculture,Priority,49.26
+2022,Rajasthan,North,IN-RJ,Private Sector Banks,Manufacturing,Non-priority,64.04
+2022,Rajasthan,North,IN-RJ,Private Sector Banks,Services,Non-priority,78.34
+2022,Rajasthan,North,IN-RJ,Private Sector Banks,Retail Loans,Non-priority,51.38
+2022,Rajasthan,North,IN-RJ,Private Sector Banks,MSME,Priority,37.49
+2022,Rajasthan,North,IN-RJ,Private Sector Banks,Housing,Priority,23.93
+2022,Rajasthan,North,IN-RJ,Regional Rural Banks,Agriculture,Priority,11.25
+2022,Rajasthan,North,IN-RJ,Regional Rural Banks,Manufacturing,Non-priority,16.55
+2022,Rajasthan,North,IN-RJ,Regional Rural Banks,Services,Non-priority,18.78
+2022,Rajasthan,North,IN-RJ,Regional Rural Banks,Retail Loans,Non-priority,14.41
+2022,Rajasthan,North,IN-RJ,Regional Rural Banks,MSME,Priority,9.06
+2022,Rajasthan,North,IN-RJ,Regional Rural Banks,Housing,Priority,5.8
+2023,Rajasthan,North,IN-RJ,Public Sector Banks,Agriculture,Priority,76.22
+2023,Rajasthan,North,IN-RJ,Public Sector Banks,Manufacturing,Non-priority,100.92
+2023,Rajasthan,North,IN-RJ,Public Sector Banks,Services,Non-priority,112.82
+2023,Rajasthan,North,IN-RJ,Public Sector Banks,Retail Loans,Non-priority,79.43
+2023,Rajasthan,North,IN-RJ,Public Sector Banks,MSME,Priority,54.51
+2023,Rajasthan,North,IN-RJ,Public Sector Banks,Housing,Priority,38.7
+2023,Rajasthan,North,IN-RJ,Private Sector Banks,Agriculture,Priority,60.61
+2023,Rajasthan,North,IN-RJ,Private Sector Banks,Manufacturing,Non-priority,74.79
+2023,Rajasthan,North,IN-RJ,Private Sector Banks,Services,Non-priority,89.53
+2023,Rajasthan,North,IN-RJ,Private Sector Banks,Retail Loans,Non-priority,68.38
+2023,Rajasthan,North,IN-RJ,Private Sector Banks,MSME,Priority,43.17
+2023,Rajasthan,North,IN-RJ,Private Sector Banks,Housing,Priority,29.72
+2023,Rajasthan,North,IN-RJ,Regional Rural Banks,Agriculture,Priority,14.55
+2023,Rajasthan,North,IN-RJ,Regional Rural Banks,Manufacturing,Non-priority,18.41
+2023,Rajasthan,North,IN-RJ,Regional Rural Banks,Services,Non-priority,21.4
+2023,Rajasthan,North,IN-RJ,Regional Rural Banks,Retail Loans,Non-priority,14.99
+2023,Rajasthan,North,IN-RJ,Regional Rural Banks,MSME,Priority,10.75
+2023,Rajasthan,North,IN-RJ,Regional Rural Banks,Housing,Priority,6.82
+2024,Rajasthan,North,IN-RJ,Public Sector Banks,Agriculture,Priority,81.31
+2024,Rajasthan,North,IN-RJ,Public Sector Banks,Manufacturing,Non-priority,102.15
+2024,Rajasthan,North,IN-RJ,Public Sector Banks,Services,Non-priority,136.3
+2024,Rajasthan,North,IN-RJ,Public Sector Banks,Retail Loans,Non-priority,92.45
+2024,Rajasthan,North,IN-RJ,Public Sector Banks,MSME,Priority,66.6
+2024,Rajasthan,North,IN-RJ,Public Sector Banks,Housing,Priority,40.33
+2024,Rajasthan,North,IN-RJ,Private Sector Banks,Agriculture,Priority,66.6
+2024,Rajasthan,North,IN-RJ,Private Sector Banks,Manufacturing,Non-priority,84.2
+2024,Rajasthan,North,IN-RJ,Private Sector Banks,Services,Non-priority,106.68
+2024,Rajasthan,North,IN-RJ,Private Sector Banks,Retail Loans,Non-priority,76.12
+2024,Rajasthan,North,IN-RJ,Private Sector Banks,MSME,Priority,52.28
+2024,Rajasthan,North,IN-RJ,Private Sector Banks,Housing,Priority,31.27
+2024,Rajasthan,North,IN-RJ,Regional Rural Banks,Agriculture,Priority,15.52
+2024,Rajasthan,North,IN-RJ,Regional Rural Banks,Manufacturing,Non-priority,22.31
+2024,Rajasthan,North,IN-RJ,Regional Rural Banks,Services,Non-priority,25.35
+2024,Rajasthan,North,IN-RJ,Regional Rural Banks,Retail Loans,Non-priority,18.41
+2024,Rajasthan,North,IN-RJ,Regional Rural Banks,MSME,Priority,12.52
+2024,Rajasthan,North,IN-RJ,Regional Rural Banks,Housing,Priority,8.35
+2017,Telangana,South,IN-TG,Public Sector Banks,Agriculture,Priority,22.02
+2017,Telangana,South,IN-TG,Public Sector Banks,Manufacturing,Non-priority,28.22
+2017,Telangana,South,IN-TG,Public Sector Banks,Services,Non-priority,33.41
+2017,Telangana,South,IN-TG,Public Sector Banks,Retail Loans,Non-priority,23.64
+2017,Telangana,South,IN-TG,Public Sector Banks,MSME,Priority,16.28
+2017,Telangana,South,IN-TG,Public Sector Banks,Housing,Priority,10.3
+2017,Telangana,South,IN-TG,Private Sector Banks,Agriculture,Priority,24.26
+2017,Telangana,South,IN-TG,Private Sector Banks,Manufacturing,Non-priority,32.57
+2017,Telangana,South,IN-TG,Private Sector Banks,Services,Non-priority,37.28
+2017,Telangana,South,IN-TG,Private Sector Banks,Retail Loans,Non-priority,26.83
+2017,Telangana,South,IN-TG,Private Sector Banks,MSME,Priority,18.33
+2017,Telangana,South,IN-TG,Private Sector Banks,Housing,Priority,13.1
+2017,Telangana,South,IN-TG,Regional Rural Banks,Agriculture,Priority,2.79
+2017,Telangana,South,IN-TG,Regional Rural Banks,Manufacturing,Non-priority,4.02
+2017,Telangana,South,IN-TG,Regional Rural Banks,Services,Non-priority,4.55
+2017,Telangana,South,IN-TG,Regional Rural Banks,Retail Loans,Non-priority,3.47
+2017,Telangana,South,IN-TG,Regional Rural Banks,MSME,Priority,2.18
+2017,Telangana,South,IN-TG,Regional Rural Banks,Housing,Priority,1.39
+2018,Telangana,South,IN-TG,Public Sector Banks,Agriculture,Priority,23.2
+2018,Telangana,South,IN-TG,Public Sector Banks,Manufacturing,Non-priority,29.31
+2018,Telangana,South,IN-TG,Public Sector Banks,Services,Non-priority,37.21
+2018,Telangana,South,IN-TG,Public Sector Banks,Retail Loans,Non-priority,28.02
+2018,Telangana,South,IN-TG,Public Sector Banks,MSME,Priority,18.58
+2018,Telangana,South,IN-TG,Public Sector Banks,Housing,Priority,12.16
+2018,Telangana,South,IN-TG,Private Sector Banks,Agriculture,Priority,29.47
+2018,Telangana,South,IN-TG,Private Sector Banks,Manufacturing,Non-priority,36.73
+2018,Telangana,South,IN-TG,Private Sector Banks,Services,Non-priority,44.24
+2018,Telangana,South,IN-TG,Private Sector Banks,Retail Loans,Non-priority,31.61
+2018,Telangana,South,IN-TG,Private Sector Banks,MSME,Priority,22.93
+2018,Telangana,South,IN-TG,Private Sector Banks,Housing,Priority,13.82
+2018,Telangana,South,IN-TG,Regional Rural Banks,Agriculture,Priority,3.24
+2018,Telangana,South,IN-TG,Regional Rural Banks,Manufacturing,Non-priority,4.28
+2018,Telangana,South,IN-TG,Regional Rural Banks,Services,Non-priority,4.76
+2018,Telangana,South,IN-TG,Regional Rural Banks,Retail Loans,Non-priority,3.53
+2018,Telangana,South,IN-TG,Regional Rural Banks,MSME,Priority,2.57
+2018,Telangana,South,IN-TG,Regional Rural Banks,Housing,Priority,1.65
+2019,Telangana,South,IN-TG,Public Sector Banks,Agriculture,Priority,24.56
+2019,Telangana,South,IN-TG,Public Sector Banks,Manufacturing,Non-priority,36.18
+2019,Telangana,South,IN-TG,Public Sector Banks,Services,Non-priority,41.41
+2019,Telangana,South,IN-TG,Public Sector Banks,Retail Loans,Non-priority,29.14
+2019,Telangana,South,IN-TG,Public Sector Banks,MSME,Priority,19.98
+2019,Telangana,South,IN-TG,Public Sector Banks,Housing,Priority,12.74
+2019,Telangana,South,IN-TG,Private Sector Banks,Agriculture,Priority,31.85
+2019,Telangana,South,IN-TG,Private Sector Banks,Manufacturing,Non-priority,46.21
+2019,Telangana,South,IN-TG,Private Sector Banks,Services,Non-priority,51.52
+2019,Telangana,South,IN-TG,Private Sector Banks,Retail Loans,Non-priority,39.48
+2019,Telangana,South,IN-TG,Private Sector Banks,MSME,Priority,23.53
+2019,Telangana,South,IN-TG,Private Sector Banks,Housing,Priority,15.81
+2019,Telangana,South,IN-TG,Regional Rural Banks,Agriculture,Priority,3.51
+2019,Telangana,South,IN-TG,Regional Rural Banks,Manufacturing,Non-priority,4.39
+2019,Telangana,South,IN-TG,Regional Rural Banks,Services,Non-priority,5.65
+2019,Telangana,South,IN-TG,Regional Rural Banks,Retail Loans,Non-priority,4.05
+2019,Telangana,South,IN-TG,Regional Rural Banks,MSME,Priority,2.68
+2019,Telangana,South,IN-TG,Regional Rural Banks,Housing,Priority,1.65
+2020,Telangana,South,IN-TG,Public Sector Banks,Agriculture,Priority,28.15
+2020,Telangana,South,IN-TG,Public Sector Banks,Manufacturing,Non-priority,38.04
+2020,Telangana,South,IN-TG,Public Sector Banks,Services,Non-priority,45.23
+2020,Telangana,South,IN-TG,Public Sector Banks,Retail Loans,Non-priority,31.24
+2020,Telangana,South,IN-TG,Public Sector Banks,MSME,Priority,22.96
+2020,Telangana,South,IN-TG,Public Sector Banks,Housing,Priority,13.81
+2020,Telangana,South,IN-TG,Private Sector Banks,Agriculture,Priority,37.94
+2020,Telangana,South,IN-TG,Private Sector Banks,Manufacturing,Non-priority,48.03
+2020,Telangana,South,IN-TG,Private Sector Banks,Services,Non-priority,59.26
+2020,Telangana,South,IN-TG,Private Sector Banks,Retail Loans,Non-priority,38.55
+2020,Telangana,South,IN-TG,Private Sector Banks,MSME,Priority,25.71
+2020,Telangana,South,IN-TG,Private Sector Banks,Housing,Priority,18.51
+2020,Telangana,South,IN-TG,Regional Rural Banks,Agriculture,Priority,4.09
+2020,Telangana,South,IN-TG,Regional Rural Banks,Manufacturing,Non-priority,5.52
+2020,Telangana,South,IN-TG,Regional Rural Banks,Services,Non-priority,6.48
+2020,Telangana,South,IN-TG,Regional Rural Banks,Retail Loans,Non-priority,4.75
+2020,Telangana,South,IN-TG,Regional Rural Banks,MSME,Priority,3.03
+2020,Telangana,South,IN-TG,Regional Rural Banks,Housing,Priority,2.19
+2021,Telangana,South,IN-TG,Public Sector Banks,Agriculture,Priority,31.7
+2021,Telangana,South,IN-TG,Public Sector Banks,Manufacturing,Non-priority,40.32
+2021,Telangana,South,IN-TG,Public Sector Banks,Services,Non-priority,48.08
+2021,Telangana,South,IN-TG,Public Sector Banks,Retail Loans,Non-priority,36.55
+2021,Telangana,South,IN-TG,Public Sector Banks,MSME,Priority,24.45
+2021,Telangana,South,IN-TG,Public Sector Banks,Housing,Priority,15.67
+2021,Telangana,South,IN-TG,Private Sector Banks,Agriculture,Priority,40.39
+2021,Telangana,South,IN-TG,Private Sector Banks,Manufacturing,Non-priority,53.79
+2021,Telangana,South,IN-TG,Private Sector Banks,Services,Non-priority,65.18
+2021,Telangana,South,IN-TG,Private Sector Banks,Retail Loans,Non-priority,42.25
+2021,Telangana,South,IN-TG,Private Sector Banks,MSME,Priority,29.01
+2021,Telangana,South,IN-TG,Private Sector Banks,Housing,Priority,19.78
+2021,Telangana,South,IN-TG,Regional Rural Banks,Agriculture,Priority,4.32
+2021,Telangana,South,IN-TG,Regional Rural Banks,Manufacturing,Non-priority,5.54
+2021,Telangana,South,IN-TG,Regional Rural Banks,Services,Non-priority,6.8
+2021,Telangana,South,IN-TG,Regional Rural Banks,Retail Loans,Non-priority,4.97
+2021,Telangana,South,IN-TG,Regional Rural Banks,MSME,Priority,3.41
+2021,Telangana,South,IN-TG,Regional Rural Banks,Housing,Priority,2.16
+2022,Telangana,South,IN-TG,Public Sector Banks,Agriculture,Priority,36.2
+2022,Telangana,South,IN-TG,Public Sector Banks,Manufacturing,Non-priority,45.83
+2022,Telangana,South,IN-TG,Public Sector Banks,Services,Non-priority,58.08
+2022,Telangana,South,IN-TG,Public Sector Banks,Retail Loans,Non-priority,40.61
+2022,Telangana,South,IN-TG,Public Sector Banks,MSME,Priority,27.05
+2022,Telangana,South,IN-TG,Public Sector Banks,Housing,Priority,17.94
+2022,Telangana,South,IN-TG,Private Sector Banks,Agriculture,Priority,41.8
+2022,Telangana,South,IN-TG,Private Sector Banks,Manufacturing,Non-priority,58.04
+2022,Telangana,South,IN-TG,Private Sector Banks,Services,Non-priority,63.05
+2022,Telangana,South,IN-TG,Private Sector Banks,Retail Loans,Non-priority,46.44
+2022,Telangana,South,IN-TG,Private Sector Banks,MSME,Priority,29.64
+2022,Telangana,South,IN-TG,Private Sector Banks,Housing,Priority,20.9
+2022,Telangana,South,IN-TG,Regional Rural Banks,Agriculture,Priority,5.35
+2022,Telangana,South,IN-TG,Regional Rural Banks,Manufacturing,Non-priority,7.3
+2022,Telangana,South,IN-TG,Regional Rural Banks,Services,Non-priority,8.28
+2022,Telangana,South,IN-TG,Regional Rural Banks,Retail Loans,Non-priority,6.34
+2022,Telangana,South,IN-TG,Regional Rural Banks,MSME,Priority,4.13
+2022,Telangana,South,IN-TG,Regional Rural Banks,Housing,Priority,2.76
+2023,Telangana,South,IN-TG,Public Sector Banks,Agriculture,Priority,37.57
+2023,Telangana,South,IN-TG,Public Sector Banks,Manufacturing,Non-priority,51.6
+2023,Telangana,South,IN-TG,Public Sector Banks,Services,Non-priority,57.96
+2023,Telangana,South,IN-TG,Public Sector Banks,Retail Loans,Non-priority,44.43
+2023,Telangana,South,IN-TG,Public Sector Banks,MSME,Priority,30.51
+2023,Telangana,South,IN-TG,Public Sector Banks,Housing,Priority,19.04
+2023,Telangana,South,IN-TG,Private Sector Banks,Agriculture,Priority,55.48
+2023,Telangana,South,IN-TG,Private Sector Banks,Manufacturing,Non-priority,67.54
+2023,Telangana,South,IN-TG,Private Sector Banks,Services,Non-priority,85.09
+2023,Telangana,South,IN-TG,Private Sector Banks,Retail Loans,Non-priority,58.1
+2023,Telangana,South,IN-TG,Private Sector Banks,MSME,Priority,41.65
+2023,Telangana,South,IN-TG,Private Sector Banks,Housing,Priority,27.04
+2023,Telangana,South,IN-TG,Regional Rural Banks,Agriculture,Priority,5.22
+2023,Telangana,South,IN-TG,Regional Rural Banks,Manufacturing,Non-priority,6.93
+2023,Telangana,South,IN-TG,Regional Rural Banks,Services,Non-priority,8.51
+2023,Telangana,South,IN-TG,Regional Rural Banks,Retail Loans,Non-priority,6.28
+2023,Telangana,South,IN-TG,Regional Rural Banks,MSME,Priority,4.16
+2023,Telangana,South,IN-TG,Regional Rural Banks,Housing,Priority,2.82
+2024,Telangana,South,IN-TG,Public Sector Banks,Agriculture,Priority,42.2
+2024,Telangana,South,IN-TG,Public Sector Banks,Manufacturing,Non-priority,61.46
+2024,Telangana,South,IN-TG,Public Sector Banks,Services,Non-priority,71.38
+2024,Telangana,South,IN-TG,Public Sector Banks,Retail Loans,Non-priority,48.86
+2024,Telangana,South,IN-TG,Public Sector Banks,MSME,Priority,32.6
+2024,Telangana,South,IN-TG,Public Sector Banks,Housing,Priority,23.05
+2024,Telangana,South,IN-TG,Private Sector Banks,Agriculture,Priority,58.6
+2024,Telangana,South,IN-TG,Private Sector Banks,Manufacturing,Non-priority,72.48
+2024,Telangana,South,IN-TG,Private Sector Banks,Services,Non-priority,90.32
+2024,Telangana,South,IN-TG,Private Sector Banks,Retail Loans,Non-priority,67.97
+2024,Telangana,South,IN-TG,Private Sector Banks,MSME,Priority,42.95
+2024,Telangana,South,IN-TG,Private Sector Banks,Housing,Priority,29.29
+2024,Telangana,South,IN-TG,Regional Rural Banks,Agriculture,Priority,6.58
+2024,Telangana,South,IN-TG,Regional Rural Banks,Manufacturing,Non-priority,9.16
+2024,Telangana,South,IN-TG,Regional Rural Banks,Services,Non-priority,10.73
+2024,Telangana,South,IN-TG,Regional Rural Banks,Retail Loans,Non-priority,7.77
+2024,Telangana,South,IN-TG,Regional Rural Banks,MSME,Priority,5.03
+2024,Telangana,South,IN-TG,Regional Rural Banks,Housing,Priority,3.4
+2017,Kerala,South,IN-KL,Public Sector Banks,Agriculture,Priority,20.9
+2017,Kerala,South,IN-KL,Public Sector Banks,Manufacturing,Non-priority,28.2
+2017,Kerala,South,IN-KL,Public Sector Banks,Services,Non-priority,30.69
+2017,Kerala,South,IN-KL,Public Sector Banks,Retail Loans,Non-priority,23.69
+2017,Kerala,South,IN-KL,Public Sector Banks,MSME,Priority,14.5
+2017,Kerala,South,IN-KL,Public Sector Banks,Housing,Priority,10.89
+2017,Kerala,South,IN-KL,Private Sector Banks,Agriculture,Priority,13.57
+2017,Kerala,South,IN-KL,Private Sector Banks,Manufacturing,Non-priority,19.11
+2017,Kerala,South,IN-KL,Private Sector Banks,Services,Non-priority,21.94
+2017,Kerala,South,IN-KL,Private Sector Banks,Retail Loans,Non-priority,16.55
+2017,Kerala,South,IN-KL,Private Sector Banks,MSME,Priority,11.24
+2017,Kerala,South,IN-KL,Private Sector Banks,Housing,Priority,7.45
+2017,Kerala,South,IN-KL,Regional Rural Banks,Agriculture,Priority,3.82
+2017,Kerala,South,IN-KL,Regional Rural Banks,Manufacturing,Non-priority,5.09
+2017,Kerala,South,IN-KL,Regional Rural Banks,Services,Non-priority,6.34
+2017,Kerala,South,IN-KL,Regional Rural Banks,Retail Loans,Non-priority,4.48
+2017,Kerala,South,IN-KL,Regional Rural Banks,MSME,Priority,2.91
+2017,Kerala,South,IN-KL,Regional Rural Banks,Housing,Priority,1.9
+2018,Kerala,South,IN-KL,Public Sector Banks,Agriculture,Priority,24.98
+2018,Kerala,South,IN-KL,Public Sector Banks,Manufacturing,Non-priority,32.56
+2018,Kerala,South,IN-KL,Public Sector Banks,Services,Non-priority,38.42
+2018,Kerala,South,IN-KL,Public Sector Banks,Retail Loans,Non-priority,27.86
+2018,Kerala,South,IN-KL,Public Sector Banks,MSME,Priority,18.37
+2018,Kerala,South,IN-KL,Public Sector Banks,Housing,Priority,11.59
+2018,Kerala,South,IN-KL,Private Sector Banks,Agriculture,Priority,17.97
+2018,Kerala,South,IN-KL,Private Sector Banks,Manufacturing,Non-priority,21.64
+2018,Kerala,South,IN-KL,Private Sector Banks,Services,Non-priority,25.75
+2018,Kerala,South,IN-KL,Private Sector Banks,Retail Loans,Non-priority,18.36
+2018,Kerala,South,IN-KL,Private Sector Banks,MSME,Priority,13.05
+2018,Kerala,South,IN-KL,Private Sector Banks,Housing,Priority,8.27
+2018,Kerala,South,IN-KL,Regional Rural Banks,Agriculture,Priority,4.51
+2018,Kerala,South,IN-KL,Regional Rural Banks,Manufacturing,Non-priority,5.8
+2018,Kerala,South,IN-KL,Regional Rural Banks,Services,Non-priority,7.43
+2018,Kerala,South,IN-KL,Regional Rural Banks,Retail Loans,Non-priority,5.15
+2018,Kerala,South,IN-KL,Regional Rural Banks,MSME,Priority,3.7
+2018,Kerala,South,IN-KL,Regional Rural Banks,Housing,Priority,2.42
+2019,Kerala,South,IN-KL,Public Sector Banks,Agriculture,Priority,27.46
+2019,Kerala,South,IN-KL,Public Sector Banks,Manufacturing,Non-priority,38.06
+2019,Kerala,South,IN-KL,Public Sector Banks,Services,Non-priority,43.29
+2019,Kerala,South,IN-KL,Public Sector Banks,Retail Loans,Non-priority,31.62
+2019,Kerala,South,IN-KL,Public Sector Banks,MSME,Priority,20.54
+2019,Kerala,South,IN-KL,Public Sector Banks,Housing,Priority,14.09
+2019,Kerala,South,IN-KL,Private Sector Banks,Agriculture,Priority,19.35
+2019,Kerala,South,IN-KL,Private Sector Banks,Manufacturing,Non-priority,23.59
+2019,Kerala,South,IN-KL,Private Sector Banks,Services,Non-priority,29.96
+2019,Kerala,South,IN-KL,Private Sector Banks,Retail Loans,Non-priority,21.53
+2019,Kerala,South,IN-KL,Private Sector Banks,MSME,Priority,13.7
+2019,Kerala,South,IN-KL,Private Sector Banks,Housing,Priority,9.65
+2019,Kerala,South,IN-KL,Regional Rural Banks,Agriculture,Priority,5.1
+2019,Kerala,South,IN-KL,Regional Rural Banks,Manufacturing,Non-priority,6.96
+2019,Kerala,South,IN-KL,Regional Rural Banks,Services,Non-priority,7.65
+2019,Kerala,South,IN-KL,Regional Rural Banks,Retail Loans,Non-priority,6.02
+2019,Kerala,South,IN-KL,Regional Rural Banks,MSME,Priority,3.63
+2019,Kerala,South,IN-KL,Regional Rural Banks,Housing,Priority,2.6
+2020,Kerala,South,IN-KL,Public Sector Banks,Agriculture,Priority,32.01
+2020,Kerala,South,IN-KL,Public Sector Banks,Manufacturing,Non-priority,39.9
+2020,Kerala,South,IN-KL,Public Sector Banks,Services,Non-priority,45.92
+2020,Kerala,South,IN-KL,Public Sector Banks,Retail Loans,Non-priority,36.56
+2020,Kerala,South,IN-KL,Public Sector Banks,MSME,Priority,22.42
+2020,Kerala,South,IN-KL,Public Sector Banks,Housing,Priority,15.56
+2020,Kerala,South,IN-KL,Private Sector Banks,Agriculture,Priority,21.77
+2020,Kerala,South,IN-KL,Private Sector Banks,Manufacturing,Non-priority,29.23
+2020,Kerala,South,IN-KL,Private Sector Banks,Services,Non-priority,35.83
+2020,Kerala,South,IN-KL,Private Sector Banks,Retail Loans,Non-priority,25.79
+2020,Kerala,South,IN-KL,Private Sector Banks,MSME,Priority,15.61
+2020,Kerala,South,IN-KL,Private Sector Banks,Housing,Priority,11.38
+2020,Kerala,South,IN-KL,Regional Rural Banks,Agriculture,Priority,5.65
+2020,Kerala,South,IN-KL,Regional Rural Banks,Manufacturing,Non-priority,7.5
+2020,Kerala,South,IN-KL,Regional Rural Banks,Services,Non-priority,9.47
+2020,Kerala,South,IN-KL,Regional Rural Banks,Retail Loans,Non-priority,6.86
+2020,Kerala,South,IN-KL,Regional Rural Banks,MSME,Priority,4.54
+2020,Kerala,South,IN-KL,Regional Rural Banks,Housing,Priority,3.0
+2021,Kerala,South,IN-KL,Public Sector Banks,Agriculture,Priority,33.88
+2021,Kerala,South,IN-KL,Public Sector Banks,Manufacturing,Non-priority,40.64
+2021,Kerala,South,IN-KL,Public Sector Banks,Services,Non-priority,53.11
+2021,Kerala,South,IN-KL,Public Sector Banks,Retail Loans,Non-priority,36.29
+2021,Kerala,South,IN-KL,Public Sector Banks,MSME,Priority,23.98
+2021,Kerala,South,IN-KL,Public Sector Banks,Housing,Priority,16.87
+2021,Kerala,South,IN-KL,Private Sector Banks,Agriculture,Priority,23.69
+2021,Kerala,South,IN-KL,Private Sector Banks,Manufacturing,Non-priority,31.26
+2021,Kerala,South,IN-KL,Private Sector Banks,Services,Non-priority,38.85
+2021,Kerala,South,IN-KL,Private Sector Banks,Retail Loans,Non-priority,27.34
+2021,Kerala,South,IN-KL,Private Sector Banks,MSME,Priority,18.01
+2021,Kerala,South,IN-KL,Private Sector Banks,Housing,Priority,12.87
+2021,Kerala,South,IN-KL,Regional Rural Banks,Agriculture,Priority,6.31
+2021,Kerala,South,IN-KL,Regional Rural Banks,Manufacturing,Non-priority,9.03
+2021,Kerala,South,IN-KL,Regional Rural Banks,Services,Non-priority,10.84
+2021,Kerala,South,IN-KL,Regional Rural Banks,Retail Loans,Non-priority,7.76
+2021,Kerala,South,IN-KL,Regional Rural Banks,MSME,Priority,4.96
+2021,Kerala,South,IN-KL,Regional Rural Banks,Housing,Priority,3.12
+2022,Kerala,South,IN-KL,Public Sector Banks,Agriculture,Priority,35.9
+2022,Kerala,South,IN-KL,Public Sector Banks,Manufacturing,Non-priority,46.58
+2022,Kerala,South,IN-KL,Public Sector Banks,Services,Non-priority,55.8
+2022,Kerala,South,IN-KL,Public Sector Banks,Retail Loans,Non-priority,40.22
+2022,Kerala,South,IN-KL,Public Sector Banks,MSME,Priority,28.59
+2022,Kerala,South,IN-KL,Public Sector Banks,Housing,Priority,19.48
+2022,Kerala,South,IN-KL,Private Sector Banks,Agriculture,Priority,27.67
+2022,Kerala,South,IN-KL,Private Sector Banks,Manufacturing,Non-priority,36.45
+2022,Kerala,South,IN-KL,Private Sector Banks,Services,Non-priority,40.11
+2022,Kerala,South,IN-KL,Private Sector Banks,Retail Loans,Non-priority,29.23
+2022,Kerala,South,IN-KL,Private Sector Banks,MSME,Priority,19.93
+2022,Kerala,South,IN-KL,Private Sector Banks,Housing,Priority,13.42
+2022,Kerala,South,IN-KL,Regional Rural Banks,Agriculture,Priority,7.19
+2022,Kerala,South,IN-KL,Regional Rural Banks,Manufacturing,Non-priority,9.18
+2022,Kerala,South,IN-KL,Regional Rural Banks,Services,Non-priority,12.17
+2022,Kerala,South,IN-KL,Regional Rural Banks,Retail Loans,Non-priority,8.13
+2022,Kerala,South,IN-KL,Regional Rural Banks,MSME,Priority,5.63
+2022,Kerala,South,IN-KL,Regional Rural Banks,Housing,Priority,3.56
+2023,Kerala,South,IN-KL,Public Sector Banks,Agriculture,Priority,39.63
+2023,Kerala,South,IN-KL,Public Sector Banks,Manufacturing,Non-priority,50.66
+2023,Kerala,South,IN-KL,Public Sector Banks,Services,Non-priority,61.69
+2023,Kerala,South,IN-KL,Public Sector Banks,Retail Loans,Non-priority,44.21
+2023,Kerala,South,IN-KL,Public Sector Banks,MSME,Priority,29.62
+2023,Kerala,South,IN-KL,Public Sector Banks,Housing,Priority,20.0
+2023,Kerala,South,IN-KL,Private Sector Banks,Agriculture,Priority,30.41
+2023,Kerala,South,IN-KL,Private Sector Banks,Manufacturing,Non-priority,35.95
+2023,Kerala,South,IN-KL,Private Sector Banks,Services,Non-priority,45.18
+2023,Kerala,South,IN-KL,Private Sector Banks,Retail Loans,Non-priority,33.8
+2023,Kerala,South,IN-KL,Private Sector Banks,MSME,Priority,20.68
+2023,Kerala,South,IN-KL,Private Sector Banks,Housing,Priority,14.65
+2023,Kerala,South,IN-KL,Regional Rural Banks,Agriculture,Priority,7.78
+2023,Kerala,South,IN-KL,Regional Rural Banks,Manufacturing,Non-priority,9.64
+2023,Kerala,South,IN-KL,Regional Rural Banks,Services,Non-priority,11.82
+2023,Kerala,South,IN-KL,Regional Rural Banks,Retail Loans,Non-priority,8.77
+2023,Kerala,South,IN-KL,Regional Rural Banks,MSME,Priority,5.52
+2023,Kerala,South,IN-KL,Regional Rural Banks,Housing,Priority,3.71
+2024,Kerala,South,IN-KL,Public Sector Banks,Agriculture,Priority,47.16
+2024,Kerala,South,IN-KL,Public Sector Banks,Manufacturing,Non-priority,59.04
+2024,Kerala,South,IN-KL,Public Sector Banks,Services,Non-priority,71.27
+2024,Kerala,South,IN-KL,Public Sector Banks,Retail Loans,Non-priority,51.26
+2024,Kerala,South,IN-KL,Public Sector Banks,MSME,Priority,32.27
+2024,Kerala,South,IN-KL,Public Sector Banks,Housing,Priority,22.61
+2024,Kerala,South,IN-KL,Private Sector Banks,Agriculture,Priority,36.96
+2024,Kerala,South,IN-KL,Private Sector Banks,Manufacturing,Non-priority,47.99
+2024,Kerala,South,IN-KL,Private Sector Banks,Services,Non-priority,56.28
+2024,Kerala,South,IN-KL,Private Sector Banks,Retail Loans,Non-priority,37.99
+2024,Kerala,South,IN-KL,Private Sector Banks,MSME,Priority,26.26
+2024,Kerala,South,IN-KL,Private Sector Banks,Housing,Priority,16.79
+2024,Kerala,South,IN-KL,Regional Rural Banks,Agriculture,Priority,10.19
+2024,Kerala,South,IN-KL,Regional Rural Banks,Manufacturing,Non-priority,11.87
+2024,Kerala,South,IN-KL,Regional Rural Banks,Services,Non-priority,14.96
+2024,Kerala,South,IN-KL,Regional Rural Banks,Retail Loans,Non-priority,11.35
+2024,Kerala,South,IN-KL,Regional Rural Banks,MSME,Priority,7.53
+2024,Kerala,South,IN-KL,Regional Rural Banks,Housing,Priority,5.13
+2017,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Agriculture,Priority,35.08
+2017,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Manufacturing,Non-priority,47.1
+2017,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Services,Non-priority,56.33
+2017,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Retail Loans,Non-priority,37.91
+2017,Madhya Pradesh,Central,IN-MP,Public Sector Banks,MSME,Priority,26.29
+2017,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Housing,Priority,17.48
+2017,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Agriculture,Priority,25.39
+2017,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Manufacturing,Non-priority,33.59
+2017,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Services,Non-priority,39.94
+2017,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Retail Loans,Non-priority,29.5
+2017,Madhya Pradesh,Central,IN-MP,Private Sector Banks,MSME,Priority,18.42
+2017,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Housing,Priority,11.92
+2017,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Agriculture,Priority,6.42
+2017,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Manufacturing,Non-priority,8.08
+2017,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Services,Non-priority,9.99
+2017,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Retail Loans,Non-priority,6.68
+2017,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,MSME,Priority,4.51
+2017,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Housing,Priority,2.98
+2018,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Agriculture,Priority,44.25
+2018,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Manufacturing,Non-priority,53.12
+2018,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Services,Non-priority,66.17
+2018,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Retail Loans,Non-priority,48.38
+2018,Madhya Pradesh,Central,IN-MP,Public Sector Banks,MSME,Priority,28.79
+2018,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Housing,Priority,19.68
+2018,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Agriculture,Priority,27.35
+2018,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Manufacturing,Non-priority,31.66
+2018,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Services,Non-priority,41.32
+2018,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Retail Loans,Non-priority,28.51
+2018,Madhya Pradesh,Central,IN-MP,Private Sector Banks,MSME,Priority,18.58
+2018,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Housing,Priority,12.35
+2018,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Agriculture,Priority,7.33
+2018,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Manufacturing,Non-priority,9.89
+2018,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Services,Non-priority,11.66
+2018,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Retail Loans,Non-priority,7.97
+2018,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,MSME,Priority,5.51
+2018,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Housing,Priority,3.7
+2019,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Agriculture,Priority,44.11
+2019,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Manufacturing,Non-priority,52.54
+2019,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Services,Non-priority,63.32
+2019,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Retail Loans,Non-priority,44.22
+2019,Madhya Pradesh,Central,IN-MP,Public Sector Banks,MSME,Priority,33.03
+2019,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Housing,Priority,21.81
+2019,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Agriculture,Priority,34.47
+2019,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Manufacturing,Non-priority,46.16
+2019,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Services,Non-priority,54.85
+2019,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Retail Loans,Non-priority,38.25
+2019,Madhya Pradesh,Central,IN-MP,Private Sector Banks,MSME,Priority,25.84
+2019,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Housing,Priority,16.2
+2019,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Agriculture,Priority,8.51
+2019,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Manufacturing,Non-priority,10.36
+2019,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Services,Non-priority,12.95
+2019,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Retail Loans,Non-priority,8.71
+2019,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,MSME,Priority,6.11
+2019,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Housing,Priority,4.12
+2020,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Agriculture,Priority,53.07
+2020,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Manufacturing,Non-priority,63.28
+2020,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Services,Non-priority,76.65
+2020,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Retail Loans,Non-priority,55.04
+2020,Madhya Pradesh,Central,IN-MP,Public Sector Banks,MSME,Priority,38.81
+2020,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Housing,Priority,26.73
+2020,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Agriculture,Priority,34.9
+2020,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Manufacturing,Non-priority,44.46
+2020,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Services,Non-priority,55.94
+2020,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Retail Loans,Non-priority,40.03
+2020,Madhya Pradesh,Central,IN-MP,Private Sector Banks,MSME,Priority,27.56
+2020,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Housing,Priority,16.79
+2020,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Agriculture,Priority,10.14
+2020,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Manufacturing,Non-priority,13.43
+2020,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Services,Non-priority,14.97
+2020,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Retail Loans,Non-priority,11.7
+2020,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,MSME,Priority,6.89
+2020,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Housing,Priority,5.17
+2021,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Agriculture,Priority,56.48
+2021,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Manufacturing,Non-priority,69.02
+2021,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Services,Non-priority,86.45
+2021,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Retail Loans,Non-priority,59.28
+2021,Madhya Pradesh,Central,IN-MP,Public Sector Banks,MSME,Priority,43.19
+2021,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Housing,Priority,27.45
+2021,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Agriculture,Priority,41.13
+2021,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Manufacturing,Non-priority,51.18
+2021,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Services,Non-priority,63.2
+2021,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Retail Loans,Non-priority,45.58
+2021,Madhya Pradesh,Central,IN-MP,Private Sector Banks,MSME,Priority,28.75
+2021,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Housing,Priority,21.42
+2021,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Agriculture,Priority,11.06
+2021,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Manufacturing,Non-priority,14.03
+2021,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Services,Non-priority,17.08
+2021,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Retail Loans,Non-priority,11.8
+2021,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,MSME,Priority,7.77
+2021,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Housing,Priority,5.25
+2022,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Agriculture,Priority,63.61
+2022,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Manufacturing,Non-priority,82.08
+2022,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Services,Non-priority,98.8
+2022,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Retail Loans,Non-priority,75.72
+2022,Madhya Pradesh,Central,IN-MP,Public Sector Banks,MSME,Priority,48.24
+2022,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Housing,Priority,32.71
+2022,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Agriculture,Priority,48.85
+2022,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Manufacturing,Non-priority,59.12
+2022,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Services,Non-priority,69.33
+2022,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Retail Loans,Non-priority,48.05
+2022,Madhya Pradesh,Central,IN-MP,Private Sector Banks,MSME,Priority,34.64
+2022,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Housing,Priority,21.23
+2022,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Agriculture,Priority,12.52
+2022,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Manufacturing,Non-priority,15.98
+2022,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Services,Non-priority,17.7
+2022,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Retail Loans,Non-priority,12.76
+2022,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,MSME,Priority,9.43
+2022,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Housing,Priority,6.34
+2023,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Agriculture,Priority,77.61
+2023,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Manufacturing,Non-priority,90.37
+2023,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Services,Non-priority,115.06
+2023,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Retail Loans,Non-priority,75.97
+2023,Madhya Pradesh,Central,IN-MP,Public Sector Banks,MSME,Priority,53.93
+2023,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Housing,Priority,35.21
+2023,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Agriculture,Priority,53.44
+2023,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Manufacturing,Non-priority,67.36
+2023,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Services,Non-priority,75.6
+2023,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Retail Loans,Non-priority,58.85
+2023,Madhya Pradesh,Central,IN-MP,Private Sector Banks,MSME,Priority,36.38
+2023,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Housing,Priority,25.89
+2023,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Agriculture,Priority,14.65
+2023,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Manufacturing,Non-priority,18.14
+2023,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Services,Non-priority,22.07
+2023,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Retail Loans,Non-priority,16.19
+2023,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,MSME,Priority,9.69
+2023,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Housing,Priority,6.43
+2024,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Agriculture,Priority,78.19
+2024,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Manufacturing,Non-priority,91.77
+2024,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Services,Non-priority,111.83
+2024,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Retail Loans,Non-priority,80.77
+2024,Madhya Pradesh,Central,IN-MP,Public Sector Banks,MSME,Priority,53.86
+2024,Madhya Pradesh,Central,IN-MP,Public Sector Banks,Housing,Priority,36.5
+2024,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Agriculture,Priority,62.05
+2024,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Manufacturing,Non-priority,76.26
+2024,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Services,Non-priority,93.73
+2024,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Retail Loans,Non-priority,67.08
+2024,Madhya Pradesh,Central,IN-MP,Private Sector Banks,MSME,Priority,40.82
+2024,Madhya Pradesh,Central,IN-MP,Private Sector Banks,Housing,Priority,28.16
+2024,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Agriculture,Priority,14.15
+2024,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Manufacturing,Non-priority,18.62
+2024,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Services,Non-priority,22.11
+2024,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Retail Loans,Non-priority,16.75
+2024,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,MSME,Priority,10.82
+2024,Madhya Pradesh,Central,IN-MP,Regional Rural Banks,Housing,Priority,7.45
+2017,Bihar,East,IN-BR,Public Sector Banks,Agriculture,Priority,41.09
+2017,Bihar,East,IN-BR,Public Sector Banks,Manufacturing,Non-priority,56.43
+2017,Bihar,East,IN-BR,Public Sector Banks,Services,Non-priority,67.34
+2017,Bihar,East,IN-BR,Public Sector Banks,Retail Loans,Non-priority,46.02
+2017,Bihar,East,IN-BR,Public Sector Banks,MSME,Priority,28.97
+2017,Bihar,East,IN-BR,Public Sector Banks,Housing,Priority,19.39
+2017,Bihar,East,IN-BR,Private Sector Banks,Agriculture,Priority,33.05
+2017,Bihar,East,IN-BR,Private Sector Banks,Manufacturing,Non-priority,46.86
+2017,Bihar,East,IN-BR,Private Sector Banks,Services,Non-priority,51.58
+2017,Bihar,East,IN-BR,Private Sector Banks,Retail Loans,Non-priority,40.32
+2017,Bihar,East,IN-BR,Private Sector Banks,MSME,Priority,25.65
+2017,Bihar,East,IN-BR,Private Sector Banks,Housing,Priority,17.46
+2017,Bihar,East,IN-BR,Regional Rural Banks,Agriculture,Priority,8.16
+2017,Bihar,East,IN-BR,Regional Rural Banks,Manufacturing,Non-priority,10.41
+2017,Bihar,East,IN-BR,Regional Rural Banks,Services,Non-priority,13.38
+2017,Bihar,East,IN-BR,Regional Rural Banks,Retail Loans,Non-priority,9.1
+2017,Bihar,East,IN-BR,Regional Rural Banks,MSME,Priority,6.47
+2017,Bihar,East,IN-BR,Regional Rural Banks,Housing,Priority,4.01
+2018,Bihar,East,IN-BR,Public Sector Banks,Agriculture,Priority,49.99
+2018,Bihar,East,IN-BR,Public Sector Banks,Manufacturing,Non-priority,61.3
+2018,Bihar,East,IN-BR,Public Sector Banks,Services,Non-priority,77.52
+2018,Bihar,East,IN-BR,Public Sector Banks,Retail Loans,Non-priority,49.59
+2018,Bihar,East,IN-BR,Public Sector Banks,MSME,Priority,34.78
+2018,Bihar,East,IN-BR,Public Sector Banks,Housing,Priority,24.39
+2018,Bihar,East,IN-BR,Private Sector Banks,Agriculture,Priority,36.5
+2018,Bihar,East,IN-BR,Private Sector Banks,Manufacturing,Non-priority,48.33
+2018,Bihar,East,IN-BR,Private Sector Banks,Services,Non-priority,52.24
+2018,Bihar,East,IN-BR,Private Sector Banks,Retail Loans,Non-priority,38.91
+2018,Bihar,East,IN-BR,Private Sector Banks,MSME,Priority,28.41
+2018,Bihar,East,IN-BR,Private Sector Banks,Housing,Priority,17.77
+2018,Bihar,East,IN-BR,Regional Rural Banks,Agriculture,Priority,10.18
+2018,Bihar,East,IN-BR,Regional Rural Banks,Manufacturing,Non-priority,12.82
+2018,Bihar,East,IN-BR,Regional Rural Banks,Services,Non-priority,14.16
+2018,Bihar,East,IN-BR,Regional Rural Banks,Retail Loans,Non-priority,10.95
+2018,Bihar,East,IN-BR,Regional Rural Banks,MSME,Priority,7.46
+2018,Bihar,East,IN-BR,Regional Rural Banks,Housing,Priority,4.92
+2019,Bihar,East,IN-BR,Public Sector Banks,Agriculture,Priority,52.51
+2019,Bihar,East,IN-BR,Public Sector Banks,Manufacturing,Non-priority,67.12
+2019,Bihar,East,IN-BR,Public Sector Banks,Services,Non-priority,75.8
+2019,Bihar,East,IN-BR,Public Sector Banks,Retail Loans,Non-priority,53.15
+2019,Bihar,East,IN-BR,Public Sector Banks,MSME,Priority,34.9
+2019,Bihar,East,IN-BR,Public Sector Banks,Housing,Priority,24.22
+2019,Bihar,East,IN-BR,Private Sector Banks,Agriculture,Priority,37.67
+2019,Bihar,East,IN-BR,Private Sector Banks,Manufacturing,Non-priority,49.19
+2019,Bihar,East,IN-BR,Private Sector Banks,Services,Non-priority,59.47
+2019,Bihar,East,IN-BR,Private Sector Banks,Retail Loans,Non-priority,42.09
+2019,Bihar,East,IN-BR,Private Sector Banks,MSME,Priority,26.62
+2019,Bihar,East,IN-BR,Private Sector Banks,Housing,Priority,18.53
+2019,Bihar,East,IN-BR,Regional Rural Banks,Agriculture,Priority,10.33
+2019,Bihar,East,IN-BR,Regional Rural Banks,Manufacturing,Non-priority,12.87
+2019,Bihar,East,IN-BR,Regional Rural Banks,Services,Non-priority,15.55
+2019,Bihar,East,IN-BR,Regional Rural Banks,Retail Loans,Non-priority,10.77
+2019,Bihar,East,IN-BR,Regional Rural Banks,MSME,Priority,7.97
+2019,Bihar,East,IN-BR,Regional Rural Banks,Housing,Priority,5.31
+2020,Bihar,East,IN-BR,Public Sector Banks,Agriculture,Priority,65.15
+2020,Bihar,East,IN-BR,Public Sector Banks,Manufacturing,Non-priority,79.54
+2020,Bihar,East,IN-BR,Public Sector Banks,Services,Non-priority,97.04
+2020,Bihar,East,IN-BR,Public Sector Banks,Retail Loans,Non-priority,71.84
+2020,Bihar,East,IN-BR,Public Sector Banks,MSME,Priority,45.15
+2020,Bihar,East,IN-BR,Public Sector Banks,Housing,Priority,31.57
+2020,Bihar,East,IN-BR,Private Sector Banks,Agriculture,Priority,44.11
+2020,Bihar,East,IN-BR,Private Sector Banks,Manufacturing,Non-priority,55.58
+2020,Bihar,East,IN-BR,Private Sector Banks,Services,Non-priority,69.71
+2020,Bihar,East,IN-BR,Private Sector Banks,Retail Loans,Non-priority,50.12
+2020,Bihar,East,IN-BR,Private Sector Banks,MSME,Priority,31.66
+2020,Bihar,East,IN-BR,Private Sector Banks,Housing,Priority,20.82
+2020,Bihar,East,IN-BR,Regional Rural Banks,Agriculture,Priority,12.71
+2020,Bihar,East,IN-BR,Regional Rural Banks,Manufacturing,Non-priority,16.4
+2020,Bihar,East,IN-BR,Regional Rural Banks,Services,Non-priority,18.42
+2020,Bihar,East,IN-BR,Regional Rural Banks,Retail Loans,Non-priority,13.31
+2020,Bihar,East,IN-BR,Regional Rural Banks,MSME,Priority,9.42
+2020,Bihar,East,IN-BR,Regional Rural Banks,Housing,Priority,6.3
+2021,Bihar,East,IN-BR,Public Sector Banks,Agriculture,Priority,74.76
+2021,Bihar,East,IN-BR,Public Sector Banks,Manufacturing,Non-priority,85.64
+2021,Bihar,East,IN-BR,Public Sector Banks,Services,Non-priority,103.88
+2021,Bihar,East,IN-BR,Public Sector Banks,Retail Loans,Non-priority,81.53
+2021,Bihar,East,IN-BR,Public Sector Banks,MSME,Priority,54.25
+2021,Bihar,East,IN-BR,Public Sector Banks,Housing,Priority,33.1
+2021,Bihar,East,IN-BR,Private Sector Banks,Agriculture,Priority,50.78
+2021,Bihar,East,IN-BR,Private Sector Banks,Manufacturing,Non-priority,65.16
+2021,Bihar,East,IN-BR,Private Sector Banks,Services,Non-priority,82.35
+2021,Bihar,East,IN-BR,Private Sector Banks,Retail Loans,Non-priority,56.37
+2021,Bihar,East,IN-BR,Private Sector Banks,MSME,Priority,36.12
+2021,Bihar,East,IN-BR,Private Sector Banks,Housing,Priority,25.49
+2021,Bihar,East,IN-BR,Regional Rural Banks,Agriculture,Priority,13.87
+2021,Bihar,East,IN-BR,Regional Rural Banks,Manufacturing,Non-priority,18.39
+2021,Bihar,East,IN-BR,Regional Rural Banks,Services,Non-priority,20.66
+2021,Bihar,East,IN-BR,Regional Rural Banks,Retail Loans,Non-priority,15.4
+2021,Bihar,East,IN-BR,Regional Rural Banks,MSME,Priority,9.9
+2021,Bihar,East,IN-BR,Regional Rural Banks,Housing,Priority,6.46
+2022,Bihar,East,IN-BR,Public Sector Banks,Agriculture,Priority,82.68
+2022,Bihar,East,IN-BR,Public Sector Banks,Manufacturing,Non-priority,105.42
+2022,Bihar,East,IN-BR,Public Sector Banks,Services,Non-priority,128.25
+2022,Bihar,East,IN-BR,Public Sector Banks,Retail Loans,Non-priority,88.14
+2022,Bihar,East,IN-BR,Public Sector Banks,MSME,Priority,61.85
+2022,Bihar,East,IN-BR,Public Sector Banks,Housing,Priority,41.4
+2022,Bihar,East,IN-BR,Private Sector Banks,Agriculture,Priority,56.58
+2022,Bihar,East,IN-BR,Private Sector Banks,Manufacturing,Non-priority,70.57
+2022,Bihar,East,IN-BR,Private Sector Banks,Services,Non-priority,85.57
+2022,Bihar,East,IN-BR,Private Sector Banks,Retail Loans,Non-priority,65.19
+2022,Bihar,East,IN-BR,Private Sector Banks,MSME,Priority,42.12
+2022,Bihar,East,IN-BR,Private Sector Banks,Housing,Priority,27.47
+2022,Bihar,East,IN-BR,Regional Rural Banks,Agriculture,Priority,15.5
+2022,Bihar,East,IN-BR,Regional Rural Banks,Manufacturing,Non-priority,19.79
+2022,Bihar,East,IN-BR,Regional Rural Banks,Services,Non-priority,22.0
+2022,Bihar,East,IN-BR,Regional Rural Banks,Retail Loans,Non-priority,17.4
+2022,Bihar,East,IN-BR,Regional Rural Banks,MSME,Priority,11.4
+2022,Bihar,East,IN-BR,Regional Rural Banks,Housing,Priority,7.29
+2023,Bihar,East,IN-BR,Public Sector Banks,Agriculture,Priority,87.84
+2023,Bihar,East,IN-BR,Public Sector Banks,Manufacturing,Non-priority,106.77
+2023,Bihar,East,IN-BR,Public Sector Banks,Services,Non-priority,133.71
+2023,Bihar,East,IN-BR,Public Sector Banks,Retail Loans,Non-priority,99.37
+2023,Bihar,East,IN-BR,Public Sector Banks,MSME,Priority,61.7
+2023,Bihar,East,IN-BR,Public Sector Banks,Housing,Priority,38.74
+2023,Bihar,East,IN-BR,Private Sector Banks,Agriculture,Priority,64.48
+2023,Bihar,East,IN-BR,Private Sector Banks,Manufacturing,Non-priority,81.17
+2023,Bihar,East,IN-BR,Private Sector Banks,Services,Non-priority,95.55
+2023,Bihar,East,IN-BR,Private Sector Banks,Retail Loans,Non-priority,68.67
+2023,Bihar,East,IN-BR,Private Sector Banks,MSME,Priority,47.9
+2023,Bihar,East,IN-BR,Private Sector Banks,Housing,Priority,31.09
+2023,Bihar,East,IN-BR,Regional Rural Banks,Agriculture,Priority,16.0
+2023,Bihar,East,IN-BR,Regional Rural Banks,Manufacturing,Non-priority,21.01
+2023,Bihar,East,IN-BR,Regional Rural Banks,Services,Non-priority,26.94
+2023,Bihar,East,IN-BR,Regional Rural Banks,Retail Loans,Non-priority,17.49
+2023,Bihar,East,IN-BR,Regional Rural Banks,MSME,Priority,12.92
+2023,Bihar,East,IN-BR,Regional Rural Banks,Housing,Priority,7.74
+2024,Bihar,East,IN-BR,Public Sector Banks,Agriculture,Priority,97.64
+2024,Bihar,East,IN-BR,Public Sector Banks,Manufacturing,Non-priority,122.85
+2024,Bihar,East,IN-BR,Public Sector Banks,Services,Non-priority,146.45
+2024,Bihar,East,IN-BR,Public Sector Banks,Retail Loans,Non-priority,109.68
+2024,Bihar,East,IN-BR,Public Sector Banks,MSME,Priority,69.35
+2024,Bihar,East,IN-BR,Public Sector Banks,Housing,Priority,45.92
+2024,Bihar,East,IN-BR,Private Sector Banks,Agriculture,Priority,73.43
+2024,Bihar,East,IN-BR,Private Sector Banks,Manufacturing,Non-priority,92.82
+2024,Bihar,East,IN-BR,Private Sector Banks,Services,Non-priority,103.99
+2024,Bihar,East,IN-BR,Private Sector Banks,Retail Loans,Non-priority,83.69
+2024,Bihar,East,IN-BR,Private Sector Banks,MSME,Priority,50.56
+2024,Bihar,East,IN-BR,Private Sector Banks,Housing,Priority,33.25
+2024,Bihar,East,IN-BR,Regional Rural Banks,Agriculture,Priority,18.11
+2024,Bihar,East,IN-BR,Regional Rural Banks,Manufacturing,Non-priority,23.34
+2024,Bihar,East,IN-BR,Regional Rural Banks,Services,Non-priority,27.15
+2024,Bihar,East,IN-BR,Regional Rural Banks,Retail Loans,Non-priority,20.88
+2024,Bihar,East,IN-BR,Regional Rural Banks,MSME,Priority,13.5
+2024,Bihar,East,IN-BR,Regional Rural Banks,Housing,Priority,8.49
+2017,Delhi,North,IN-DL,Public Sector Banks,Agriculture,Priority,13.0
+2017,Delhi,North,IN-DL,Public Sector Banks,Manufacturing,Non-priority,17.77
+2017,Delhi,North,IN-DL,Public Sector Banks,Services,Non-priority,19.82
+2017,Delhi,North,IN-DL,Public Sector Banks,Retail Loans,Non-priority,15.32
+2017,Delhi,North,IN-DL,Public Sector Banks,MSME,Priority,10.29
+2017,Delhi,North,IN-DL,Public Sector Banks,Housing,Priority,6.22
+2017,Delhi,North,IN-DL,Private Sector Banks,Agriculture,Priority,16.03
+2017,Delhi,North,IN-DL,Private Sector Banks,Manufacturing,Non-priority,21.41
+2017,Delhi,North,IN-DL,Private Sector Banks,Services,Non-priority,24.84
+2017,Delhi,North,IN-DL,Private Sector Banks,Retail Loans,Non-priority,19.32
+2017,Delhi,North,IN-DL,Private Sector Banks,MSME,Priority,12.34
+2017,Delhi,North,IN-DL,Private Sector Banks,Housing,Priority,8.35
+2017,Delhi,North,IN-DL,Regional Rural Banks,Agriculture,Priority,1.9
+2017,Delhi,North,IN-DL,Regional Rural Banks,Manufacturing,Non-priority,2.66
+2017,Delhi,North,IN-DL,Regional Rural Banks,Services,Non-priority,3.08
+2017,Delhi,North,IN-DL,Regional Rural Banks,Retail Loans,Non-priority,2.27
+2017,Delhi,North,IN-DL,Regional Rural Banks,MSME,Priority,1.49
+2017,Delhi,North,IN-DL,Regional Rural Banks,Housing,Priority,0.95
+2018,Delhi,North,IN-DL,Public Sector Banks,Agriculture,Priority,13.95
+2018,Delhi,North,IN-DL,Public Sector Banks,Manufacturing,Non-priority,18.77
+2018,Delhi,North,IN-DL,Public Sector Banks,Services,Non-priority,22.0
+2018,Delhi,North,IN-DL,Public Sector Banks,Retail Loans,Non-priority,16.94
+2018,Delhi,North,IN-DL,Public Sector Banks,MSME,Priority,11.03
+2018,Delhi,North,IN-DL,Public Sector Banks,Housing,Priority,7.26
+2018,Delhi,North,IN-DL,Private Sector Banks,Agriculture,Priority,18.11
+2018,Delhi,North,IN-DL,Private Sector Banks,Manufacturing,Non-priority,23.94
+2018,Delhi,North,IN-DL,Private Sector Banks,Services,Non-priority,28.35
+2018,Delhi,North,IN-DL,Private Sector Banks,Retail Loans,Non-priority,21.35
+2018,Delhi,North,IN-DL,Private Sector Banks,MSME,Priority,13.45
+2018,Delhi,North,IN-DL,Private Sector Banks,Housing,Priority,8.89
+2018,Delhi,North,IN-DL,Regional Rural Banks,Agriculture,Priority,1.93
+2018,Delhi,North,IN-DL,Regional Rural Banks,Manufacturing,Non-priority,2.63
+2018,Delhi,North,IN-DL,Regional Rural Banks,Services,Non-priority,2.99
+2018,Delhi,North,IN-DL,Regional Rural Banks,Retail Loans,Non-priority,2.19
+2018,Delhi,North,IN-DL,Regional Rural Banks,MSME,Priority,1.6
+2018,Delhi,North,IN-DL,Regional Rural Banks,Housing,Priority,1.08
+2019,Delhi,North,IN-DL,Public Sector Banks,Agriculture,Priority,16.62
+2019,Delhi,North,IN-DL,Public Sector Banks,Manufacturing,Non-priority,23.02
+2019,Delhi,North,IN-DL,Public Sector Banks,Services,Non-priority,26.26
+2019,Delhi,North,IN-DL,Public Sector Banks,Retail Loans,Non-priority,17.94
+2019,Delhi,North,IN-DL,Public Sector Banks,MSME,Priority,11.86
+2019,Delhi,North,IN-DL,Public Sector Banks,Housing,Priority,8.69
+2019,Delhi,North,IN-DL,Private Sector Banks,Agriculture,Priority,19.22
+2019,Delhi,North,IN-DL,Private Sector Banks,Manufacturing,Non-priority,26.2
+2019,Delhi,North,IN-DL,Private Sector Banks,Services,Non-priority,32.4
+2019,Delhi,North,IN-DL,Private Sector Banks,Retail Loans,Non-priority,23.44
+2019,Delhi,North,IN-DL,Private Sector Banks,MSME,Priority,15.19
+2019,Delhi,North,IN-DL,Private Sector Banks,Housing,Priority,9.55
+2019,Delhi,North,IN-DL,Regional Rural Banks,Agriculture,Priority,2.32
+2019,Delhi,North,IN-DL,Regional Rural Banks,Manufacturing,Non-priority,3.23
+2019,Delhi,North,IN-DL,Regional Rural Banks,Services,Non-priority,3.48
+2019,Delhi,North,IN-DL,Regional Rural Banks,Retail Loans,Non-priority,2.74
+2019,Delhi,North,IN-DL,Regional Rural Banks,MSME,Priority,1.79
+2019,Delhi,North,IN-DL,Regional Rural Banks,Housing,Priority,1.26
+2020,Delhi,North,IN-DL,Public Sector Banks,Agriculture,Priority,18.12
+2020,Delhi,North,IN-DL,Public Sector Banks,Manufacturing,Non-priority,25.97
+2020,Delhi,North,IN-DL,Public Sector Banks,Services,Non-priority,28.93
+2020,Delhi,North,IN-DL,Public Sector Banks,Retail Loans,Non-priority,20.61
+2020,Delhi,North,IN-DL,Public Sector Banks,MSME,Priority,14.56
+2020,Delhi,North,IN-DL,Public Sector Banks,Housing,Priority,9.24
+2020,Delhi,North,IN-DL,Private Sector Banks,Agriculture,Priority,25.84
+2020,Delhi,North,IN-DL,Private Sector Banks,Manufacturing,Non-priority,32.95
+2020,Delhi,North,IN-DL,Private Sector Banks,Services,Non-priority,38.13
+2020,Delhi,North,IN-DL,Private Sector Banks,Retail Loans,Non-priority,28.84
+2020,Delhi,North,IN-DL,Private Sector Banks,MSME,Priority,19.0
+2020,Delhi,North,IN-DL,Private Sector Banks,Housing,Priority,11.9
+2020,Delhi,North,IN-DL,Regional Rural Banks,Agriculture,Priority,2.4
+2020,Delhi,North,IN-DL,Regional Rural Banks,Manufacturing,Non-priority,3.28
+2020,Delhi,North,IN-DL,Regional Rural Banks,Services,Non-priority,3.88
+2020,Delhi,North,IN-DL,Regional Rural Banks,Retail Loans,Non-priority,2.9
+2020,Delhi,North,IN-DL,Regional Rural Banks,MSME,Priority,1.87
+2020,Delhi,North,IN-DL,Regional Rural Banks,Housing,Priority,1.31
+2021,Delhi,North,IN-DL,Public Sector Banks,Agriculture,Priority,21.66
+2021,Delhi,North,IN-DL,Public Sector Banks,Manufacturing,Non-priority,27.33
+2021,Delhi,North,IN-DL,Public Sector Banks,Services,Non-priority,30.24
+2021,Delhi,North,IN-DL,Public Sector Banks,Retail Loans,Non-priority,24.44
+2021,Delhi,North,IN-DL,Public Sector Banks,MSME,Priority,15.9
+2021,Delhi,North,IN-DL,Public Sector Banks,Housing,Priority,10.75
+2021,Delhi,North,IN-DL,Private Sector Banks,Agriculture,Priority,29.33
+2021,Delhi,North,IN-DL,Private Sector Banks,Manufacturing,Non-priority,35.53
+2021,Delhi,North,IN-DL,Private Sector Banks,Services,Non-priority,45.07
+2021,Delhi,North,IN-DL,Private Sector Banks,Retail Loans,Non-priority,33.04
+2021,Delhi,North,IN-DL,Private Sector Banks,MSME,Priority,21.79
+2021,Delhi,North,IN-DL,Private Sector Banks,Housing,Priority,14.34
+2021,Delhi,North,IN-DL,Regional Rural Banks,Agriculture,Priority,3.0
+2021,Delhi,North,IN-DL,Regional Rural Banks,Manufacturing,Non-priority,3.95
+2021,Delhi,North,IN-DL,Regional Rural Banks,Services,Non-priority,4.83
+2021,Delhi,North,IN-DL,Regional Rural Banks,Retail Loans,Non-priority,3.6
+2021,Delhi,North,IN-DL,Regional Rural Banks,MSME,Priority,2.16
+2021,Delhi,North,IN-DL,Regional Rural Banks,Housing,Priority,1.52
+2022,Delhi,North,IN-DL,Public Sector Banks,Agriculture,Priority,25.29
+2022,Delhi,North,IN-DL,Public Sector Banks,Manufacturing,Non-priority,30.62
+2022,Delhi,North,IN-DL,Public Sector Banks,Services,Non-priority,35.04
+2022,Delhi,North,IN-DL,Public Sector Banks,Retail Loans,Non-priority,28.05
+2022,Delhi,North,IN-DL,Public Sector Banks,MSME,Priority,18.54
+2022,Delhi,North,IN-DL,Public Sector Banks,Housing,Priority,12.32
+2022,Delhi,North,IN-DL,Private Sector Banks,Agriculture,Priority,27.85
+2022,Delhi,North,IN-DL,Private Sector Banks,Manufacturing,Non-priority,38.86
+2022,Delhi,North,IN-DL,Private Sector Banks,Services,Non-priority,44.57
+2022,Delhi,North,IN-DL,Private Sector Banks,Retail Loans,Non-priority,33.15
+2022,Delhi,North,IN-DL,Private Sector Banks,MSME,Priority,21.41
+2022,Delhi,North,IN-DL,Private Sector Banks,Housing,Priority,14.34
+2022,Delhi,North,IN-DL,Regional Rural Banks,Agriculture,Priority,3.47
+2022,Delhi,North,IN-DL,Regional Rural Banks,Manufacturing,Non-priority,4.5
+2022,Delhi,North,IN-DL,Regional Rural Banks,Services,Non-priority,5.28
+2022,Delhi,North,IN-DL,Regional Rural Banks,Retail Loans,Non-priority,3.99
+2022,Delhi,North,IN-DL,Regional Rural Banks,MSME,Priority,2.44
+2022,Delhi,North,IN-DL,Regional Rural Banks,Housing,Priority,1.63
+2023,Delhi,North,IN-DL,Public Sector Banks,Agriculture,Priority,28.36
+2023,Delhi,North,IN-DL,Public Sector Banks,Manufacturing,Non-priority,35.24
+2023,Delhi,North,IN-DL,Public Sector Banks,Services,Non-priority,39.76
+2023,Delhi,North,IN-DL,Public Sector Banks,Retail Loans,Non-priority,32.59
+2023,Delhi,North,IN-DL,Public Sector Banks,MSME,Priority,19.65
+2023,Delhi,North,IN-DL,Public Sector Banks,Housing,Priority,13.91
+2023,Delhi,North,IN-DL,Private Sector Banks,Agriculture,Priority,33.86
+2023,Delhi,North,IN-DL,Private Sector Banks,Manufacturing,Non-priority,40.78
+2023,Delhi,North,IN-DL,Private Sector Banks,Services,Non-priority,51.28
+2023,Delhi,North,IN-DL,Private Sector Banks,Retail Loans,Non-priority,35.22
+2023,Delhi,North,IN-DL,Private Sector Banks,MSME,Priority,23.78
+2023,Delhi,North,IN-DL,Private Sector Banks,Housing,Priority,16.9
+2023,Delhi,North,IN-DL,Regional Rural Banks,Agriculture,Priority,3.74
+2023,Delhi,North,IN-DL,Regional Rural Banks,Manufacturing,Non-priority,4.61
+2023,Delhi,North,IN-DL,Regional Rural Banks,Services,Non-priority,5.83
+2023,Delhi,North,IN-DL,Regional Rural Banks,Retail Loans,Non-priority,4.25
+2023,Delhi,North,IN-DL,Regional Rural Banks,MSME,Priority,2.57
+2023,Delhi,North,IN-DL,Regional Rural Banks,Housing,Priority,1.82
+2024,Delhi,North,IN-DL,Public Sector Banks,Agriculture,Priority,26.39
+2024,Delhi,North,IN-DL,Public Sector Banks,Manufacturing,Non-priority,37.84
+2024,Delhi,North,IN-DL,Public Sector Banks,Services,Non-priority,46.03
+2024,Delhi,North,IN-DL,Public Sector Banks,Retail Loans,Non-priority,34.06
+2024,Delhi,North,IN-DL,Public Sector Banks,MSME,Priority,21.05
+2024,Delhi,North,IN-DL,Public Sector Banks,Housing,Priority,13.45
+2024,Delhi,North,IN-DL,Private Sector Banks,Agriculture,Priority,33.26
+2024,Delhi,North,IN-DL,Private Sector Banks,Manufacturing,Non-priority,44.81
+2024,Delhi,North,IN-DL,Private Sector Banks,Services,Non-priority,57.72
+2024,Delhi,North,IN-DL,Private Sector Banks,Retail Loans,Non-priority,37.99
+2024,Delhi,North,IN-DL,Private Sector Banks,MSME,Priority,27.4
+2024,Delhi,North,IN-DL,Private Sector Banks,Housing,Priority,18.14
+2024,Delhi,North,IN-DL,Regional Rural Banks,Agriculture,Priority,4.25
+2024,Delhi,North,IN-DL,Regional Rural Banks,Manufacturing,Non-priority,5.2
+2024,Delhi,North,IN-DL,Regional Rural Banks,Services,Non-priority,6.78
+2024,Delhi,North,IN-DL,Regional Rural Banks,Retail Loans,Non-priority,4.78
+2024,Delhi,North,IN-DL,Regional Rural Banks,MSME,Priority,3.29
+2024,Delhi,North,IN-DL,Regional Rural Banks,Housing,Priority,2.16
+2017,Punjab,North,IN-PB,Public Sector Banks,Agriculture,Priority,17.14
+2017,Punjab,North,IN-PB,Public Sector Banks,Manufacturing,Non-priority,20.34
+2017,Punjab,North,IN-PB,Public Sector Banks,Services,Non-priority,24.26
+2017,Punjab,North,IN-PB,Public Sector Banks,Retail Loans,Non-priority,19.02
+2017,Punjab,North,IN-PB,Public Sector Banks,MSME,Priority,12.42
+2017,Punjab,North,IN-PB,Public Sector Banks,Housing,Priority,8.06
+2017,Punjab,North,IN-PB,Private Sector Banks,Agriculture,Priority,12.38
+2017,Punjab,North,IN-PB,Private Sector Banks,Manufacturing,Non-priority,15.83
+2017,Punjab,North,IN-PB,Private Sector Banks,Services,Non-priority,20.06
+2017,Punjab,North,IN-PB,Private Sector Banks,Retail Loans,Non-priority,14.53
+2017,Punjab,North,IN-PB,Private Sector Banks,MSME,Priority,9.7
+2017,Punjab,North,IN-PB,Private Sector Banks,Housing,Priority,6.6
+2017,Punjab,North,IN-PB,Regional Rural Banks,Agriculture,Priority,3.35
+2017,Punjab,North,IN-PB,Regional Rural Banks,Manufacturing,Non-priority,4.52
+2017,Punjab,North,IN-PB,Regional Rural Banks,Services,Non-priority,5.38
+2017,Punjab,North,IN-PB,Regional Rural Banks,Retail Loans,Non-priority,3.99
+2017,Punjab,North,IN-PB,Regional Rural Banks,MSME,Priority,2.51
+2017,Punjab,North,IN-PB,Regional Rural Banks,Housing,Priority,1.62
+2018,Punjab,North,IN-PB,Public Sector Banks,Agriculture,Priority,19.56
+2018,Punjab,North,IN-PB,Public Sector Banks,Manufacturing,Non-priority,27.01
+2018,Punjab,North,IN-PB,Public Sector Banks,Services,Non-priority,32.58
+2018,Punjab,North,IN-PB,Public Sector Banks,Retail Loans,Non-priority,23.28
+2018,Punjab,North,IN-PB,Public Sector Banks,MSME,Priority,16.41
+2018,Punjab,North,IN-PB,Public Sector Banks,Housing,Priority,10.95
+2018,Punjab,North,IN-PB,Private Sector Banks,Agriculture,Priority,14.15
+2018,Punjab,North,IN-PB,Private Sector Banks,Manufacturing,Non-priority,18.08
+2018,Punjab,North,IN-PB,Private Sector Banks,Services,Non-priority,22.45
+2018,Punjab,North,IN-PB,Private Sector Banks,Retail Loans,Non-priority,16.34
+2018,Punjab,North,IN-PB,Private Sector Banks,MSME,Priority,11.15
+2018,Punjab,North,IN-PB,Private Sector Banks,Housing,Priority,7.26
+2018,Punjab,North,IN-PB,Regional Rural Banks,Agriculture,Priority,3.18
+2018,Punjab,North,IN-PB,Regional Rural Banks,Manufacturing,Non-priority,4.18
+2018,Punjab,North,IN-PB,Regional Rural Banks,Services,Non-priority,5.48
+2018,Punjab,North,IN-PB,Regional Rural Banks,Retail Loans,Non-priority,3.81
+2018,Punjab,North,IN-PB,Regional Rural Banks,MSME,Priority,2.58
+2018,Punjab,North,IN-PB,Regional Rural Banks,Housing,Priority,1.69
+2019,Punjab,North,IN-PB,Public Sector Banks,Agriculture,Priority,21.73
+2019,Punjab,North,IN-PB,Public Sector Banks,Manufacturing,Non-priority,28.79
+2019,Punjab,North,IN-PB,Public Sector Banks,Services,Non-priority,32.85
+2019,Punjab,North,IN-PB,Public Sector Banks,Retail Loans,Non-priority,23.8
+2019,Punjab,North,IN-PB,Public Sector Banks,MSME,Priority,16.27
+2019,Punjab,North,IN-PB,Public Sector Banks,Housing,Priority,10.4
+2019,Punjab,North,IN-PB,Private Sector Banks,Agriculture,Priority,16.41
+2019,Punjab,North,IN-PB,Private Sector Banks,Manufacturing,Non-priority,22.07
+2019,Punjab,North,IN-PB,Private Sector Banks,Services,Non-priority,25.82
+2019,Punjab,North,IN-PB,Private Sector Banks,Retail Loans,Non-priority,17.18
+2019,Punjab,North,IN-PB,Private Sector Banks,MSME,Priority,12.43
+2019,Punjab,North,IN-PB,Private Sector Banks,Housing,Priority,8.31
+2019,Punjab,North,IN-PB,Regional Rural Banks,Agriculture,Priority,4.05
+2019,Punjab,North,IN-PB,Regional Rural Banks,Manufacturing,Non-priority,5.32
+2019,Punjab,North,IN-PB,Regional Rural Banks,Services,Non-priority,6.47
+2019,Punjab,North,IN-PB,Regional Rural Banks,Retail Loans,Non-priority,4.49
+2019,Punjab,North,IN-PB,Regional Rural Banks,MSME,Priority,3.16
+2019,Punjab,North,IN-PB,Regional Rural Banks,Housing,Priority,2.11
+2020,Punjab,North,IN-PB,Public Sector Banks,Agriculture,Priority,22.56
+2020,Punjab,North,IN-PB,Public Sector Banks,Manufacturing,Non-priority,32.73
+2020,Punjab,North,IN-PB,Public Sector Banks,Services,Non-priority,37.02
+2020,Punjab,North,IN-PB,Public Sector Banks,Retail Loans,Non-priority,27.62
+2020,Punjab,North,IN-PB,Public Sector Banks,MSME,Priority,18.24
+2020,Punjab,North,IN-PB,Public Sector Banks,Housing,Priority,11.29
+2020,Punjab,North,IN-PB,Private Sector Banks,Agriculture,Priority,18.22
+2020,Punjab,North,IN-PB,Private Sector Banks,Manufacturing,Non-priority,23.55
+2020,Punjab,North,IN-PB,Private Sector Banks,Services,Non-priority,25.51
+2020,Punjab,North,IN-PB,Private Sector Banks,Retail Loans,Non-priority,20.39
+2020,Punjab,North,IN-PB,Private Sector Banks,MSME,Priority,12.66
+2020,Punjab,North,IN-PB,Private Sector Banks,Housing,Priority,8.19
+2020,Punjab,North,IN-PB,Regional Rural Banks,Agriculture,Priority,4.7
+2020,Punjab,North,IN-PB,Regional Rural Banks,Manufacturing,Non-priority,6.09
+2020,Punjab,North,IN-PB,Regional Rural Banks,Services,Non-priority,7.41
+2020,Punjab,North,IN-PB,Regional Rural Banks,Retail Loans,Non-priority,5.39
+2020,Punjab,North,IN-PB,Regional Rural Banks,MSME,Priority,3.5
+2020,Punjab,North,IN-PB,Regional Rural Banks,Housing,Priority,2.29
+2021,Punjab,North,IN-PB,Public Sector Banks,Agriculture,Priority,25.15
+2021,Punjab,North,IN-PB,Public Sector Banks,Manufacturing,Non-priority,34.21
+2021,Punjab,North,IN-PB,Public Sector Banks,Services,Non-priority,38.41
+2021,Punjab,North,IN-PB,Public Sector Banks,Retail Loans,Non-priority,30.88
+2021,Punjab,North,IN-PB,Public Sector Banks,MSME,Priority,18.97
+2021,Punjab,North,IN-PB,Public Sector Banks,Housing,Priority,13.0
+2021,Punjab,North,IN-PB,Private Sector Banks,Agriculture,Priority,19.72
+2021,Punjab,North,IN-PB,Private Sector Banks,Manufacturing,Non-priority,24.88
+2021,Punjab,North,IN-PB,Private Sector Banks,Services,Non-priority,31.1
+2021,Punjab,North,IN-PB,Private Sector Banks,Retail Loans,Non-priority,22.0
+2021,Punjab,North,IN-PB,Private Sector Banks,MSME,Priority,14.04
+2021,Punjab,North,IN-PB,Private Sector Banks,Housing,Priority,9.22
+2021,Punjab,North,IN-PB,Regional Rural Banks,Agriculture,Priority,4.94
+2021,Punjab,North,IN-PB,Regional Rural Banks,Manufacturing,Non-priority,6.73
+2021,Punjab,North,IN-PB,Regional Rural Banks,Services,Non-priority,8.18
+2021,Punjab,North,IN-PB,Regional Rural Banks,Retail Loans,Non-priority,6.22
+2021,Punjab,North,IN-PB,Regional Rural Banks,MSME,Priority,3.77
+2021,Punjab,North,IN-PB,Regional Rural Banks,Housing,Priority,2.72
+2022,Punjab,North,IN-PB,Public Sector Banks,Agriculture,Priority,32.39
+2022,Punjab,North,IN-PB,Public Sector Banks,Manufacturing,Non-priority,41.44
+2022,Punjab,North,IN-PB,Public Sector Banks,Services,Non-priority,53.26
+2022,Punjab,North,IN-PB,Public Sector Banks,Retail Loans,Non-priority,36.05
+2022,Punjab,North,IN-PB,Public Sector Banks,MSME,Priority,24.68
+2022,Punjab,North,IN-PB,Public Sector Banks,Housing,Priority,15.26
+2022,Punjab,North,IN-PB,Private Sector Banks,Agriculture,Priority,21.83
+2022,Punjab,North,IN-PB,Private Sector Banks,Manufacturing,Non-priority,28.04
+2022,Punjab,North,IN-PB,Private Sector Banks,Services,Non-priority,34.08
+2022,Punjab,North,IN-PB,Private Sector Banks,Retail Loans,Non-priority,24.34
+2022,Punjab,North,IN-PB,Private Sector Banks,MSME,Priority,16.76
+2022,Punjab,North,IN-PB,Private Sector Banks,Housing,Priority,10.34
+2022,Punjab,North,IN-PB,Regional Rural Banks,Agriculture,Priority,5.73
+2022,Punjab,North,IN-PB,Regional Rural Banks,Manufacturing,Non-priority,7.92
+2022,Punjab,North,IN-PB,Regional Rural Banks,Services,Non-priority,9.26
+2022,Punjab,North,IN-PB,Regional Rural Banks,Retail Loans,Non-priority,6.8
+2022,Punjab,North,IN-PB,Regional Rural Banks,MSME,Priority,4.81
+2022,Punjab,North,IN-PB,Regional Rural Banks,Housing,Priority,3.21
+2023,Punjab,North,IN-PB,Public Sector Banks,Agriculture,Priority,35.1
+2023,Punjab,North,IN-PB,Public Sector Banks,Manufacturing,Non-priority,45.3
+2023,Punjab,North,IN-PB,Public Sector Banks,Services,Non-priority,49.97
+2023,Punjab,North,IN-PB,Public Sector Banks,Retail Loans,Non-priority,38.27
+2023,Punjab,North,IN-PB,Public Sector Banks,MSME,Priority,24.47
+2023,Punjab,North,IN-PB,Public Sector Banks,Housing,Priority,16.81
+2023,Punjab,North,IN-PB,Private Sector Banks,Agriculture,Priority,23.27
+2023,Punjab,North,IN-PB,Private Sector Banks,Manufacturing,Non-priority,33.94
+2023,Punjab,North,IN-PB,Private Sector Banks,Services,Non-priority,40.5
+2023,Punjab,North,IN-PB,Private Sector Banks,Retail Loans,Non-priority,27.96
+2023,Punjab,North,IN-PB,Private Sector Banks,MSME,Priority,19.0
+2023,Punjab,North,IN-PB,Private Sector Banks,Housing,Priority,12.1
+2023,Punjab,North,IN-PB,Regional Rural Banks,Agriculture,Priority,6.21
+2023,Punjab,North,IN-PB,Regional Rural Banks,Manufacturing,Non-priority,8.89
+2023,Punjab,North,IN-PB,Regional Rural Banks,Services,Non-priority,9.66
+2023,Punjab,North,IN-PB,Regional Rural Banks,Retail Loans,Non-priority,7.46
+2023,Punjab,North,IN-PB,Regional Rural Banks,MSME,Priority,4.87
+2023,Punjab,North,IN-PB,Regional Rural Banks,Housing,Priority,3.46
+2024,Punjab,North,IN-PB,Public Sector Banks,Agriculture,Priority,37.45
+2024,Punjab,North,IN-PB,Public Sector Banks,Manufacturing,Non-priority,48.44
+2024,Punjab,North,IN-PB,Public Sector Banks,Services,Non-priority,58.28
+2024,Punjab,North,IN-PB,Public Sector Banks,Retail Loans,Non-priority,40.01
+2024,Punjab,North,IN-PB,Public Sector Banks,MSME,Priority,26.4
+2024,Punjab,North,IN-PB,Public Sector Banks,Housing,Priority,17.07
+2024,Punjab,North,IN-PB,Private Sector Banks,Agriculture,Priority,26.14
+2024,Punjab,North,IN-PB,Private Sector Banks,Manufacturing,Non-priority,34.28
+2024,Punjab,North,IN-PB,Private Sector Banks,Services,Non-priority,42.74
+2024,Punjab,North,IN-PB,Private Sector Banks,Retail Loans,Non-priority,30.73
+2024,Punjab,North,IN-PB,Private Sector Banks,MSME,Priority,20.75
+2024,Punjab,North,IN-PB,Private Sector Banks,Housing,Priority,14.53
+2024,Punjab,North,IN-PB,Regional Rural Banks,Agriculture,Priority,6.6
+2024,Punjab,North,IN-PB,Regional Rural Banks,Manufacturing,Non-priority,8.69
+2024,Punjab,North,IN-PB,Regional Rural Banks,Services,Non-priority,11.15
+2024,Punjab,North,IN-PB,Regional Rural Banks,Retail Loans,Non-priority,8.22
+2024,Punjab,North,IN-PB,Regional Rural Banks,MSME,Priority,5.37
+2024,Punjab,North,IN-PB,Regional Rural Banks,Housing,Priority,3.27
+2017,Haryana,North,IN-HR,Public Sector Banks,Agriculture,Priority,16.83
+2017,Haryana,North,IN-HR,Public Sector Banks,Manufacturing,Non-priority,22.41
+2017,Haryana,North,IN-HR,Public Sector Banks,Services,Non-priority,27.23
+2017,Haryana,North,IN-HR,Public Sector Banks,Retail Loans,Non-priority,20.02
+2017,Haryana,North,IN-HR,Public Sector Banks,MSME,Priority,12.64
+2017,Haryana,North,IN-HR,Public Sector Banks,Housing,Priority,9.25
+2017,Haryana,North,IN-HR,Private Sector Banks,Agriculture,Priority,12.29
+2017,Haryana,North,IN-HR,Private Sector Banks,Manufacturing,Non-priority,15.12
+2017,Haryana,North,IN-HR,Private Sector Banks,Services,Non-priority,18.51
+2017,Haryana,North,IN-HR,Private Sector Banks,Retail Loans,Non-priority,13.92
+2017,Haryana,North,IN-HR,Private Sector Banks,MSME,Priority,8.51
+2017,Haryana,North,IN-HR,Private Sector Banks,Housing,Priority,5.58
+2017,Haryana,North,IN-HR,Regional Rural Banks,Agriculture,Priority,3.69
+2017,Haryana,North,IN-HR,Regional Rural Banks,Manufacturing,Non-priority,4.57
+2017,Haryana,North,IN-HR,Regional Rural Banks,Services,Non-priority,5.63
+2017,Haryana,North,IN-HR,Regional Rural Banks,Retail Loans,Non-priority,4.06
+2017,Haryana,North,IN-HR,Regional Rural Banks,MSME,Priority,2.69
+2017,Haryana,North,IN-HR,Regional Rural Banks,Housing,Priority,1.72
+2018,Haryana,North,IN-HR,Public Sector Banks,Agriculture,Priority,19.93
+2018,Haryana,North,IN-HR,Public Sector Banks,Manufacturing,Non-priority,24.67
+2018,Haryana,North,IN-HR,Public Sector Banks,Services,Non-priority,28.2
+2018,Haryana,North,IN-HR,Public Sector Banks,Retail Loans,Non-priority,22.46
+2018,Haryana,North,IN-HR,Public Sector Banks,MSME,Priority,14.83
+2018,Haryana,North,IN-HR,Public Sector Banks,Housing,Priority,9.27
+2018,Haryana,North,IN-HR,Private Sector Banks,Agriculture,Priority,13.56
+2018,Haryana,North,IN-HR,Private Sector Banks,Manufacturing,Non-priority,18.36
+2018,Haryana,North,IN-HR,Private Sector Banks,Services,Non-priority,20.72
+2018,Haryana,North,IN-HR,Private Sector Banks,Retail Loans,Non-priority,14.21
+2018,Haryana,North,IN-HR,Private Sector Banks,MSME,Priority,10.32
+2018,Haryana,North,IN-HR,Private Sector Banks,Housing,Priority,6.43
+2018,Haryana,North,IN-HR,Regional Rural Banks,Agriculture,Priority,3.68
+2018,Haryana,North,IN-HR,Regional Rural Banks,Manufacturing,Non-priority,4.32
+2018,Haryana,North,IN-HR,Regional Rural Banks,Services,Non-priority,5.57
+2018,Haryana,North,IN-HR,Regional Rural Banks,Retail Loans,Non-priority,3.82
+2018,Haryana,North,IN-HR,Regional Rural Banks,MSME,Priority,2.56
+2018,Haryana,North,IN-HR,Regional Rural Banks,Housing,Priority,1.73
+2019,Haryana,North,IN-HR,Public Sector Banks,Agriculture,Priority,19.86
+2019,Haryana,North,IN-HR,Public Sector Banks,Manufacturing,Non-priority,26.27
+2019,Haryana,North,IN-HR,Public Sector Banks,Services,Non-priority,34.22
+2019,Haryana,North,IN-HR,Public Sector Banks,Retail Loans,Non-priority,23.59
+2019,Haryana,North,IN-HR,Public Sector Banks,MSME,Priority,15.92
+2019,Haryana,North,IN-HR,Public Sector Banks,Housing,Priority,10.83
+2019,Haryana,North,IN-HR,Private Sector Banks,Agriculture,Priority,16.54
+2019,Haryana,North,IN-HR,Private Sector Banks,Manufacturing,Non-priority,22.23
+2019,Haryana,North,IN-HR,Private Sector Banks,Services,Non-priority,26.31
+2019,Haryana,North,IN-HR,Private Sector Banks,Retail Loans,Non-priority,20.03
+2019,Haryana,North,IN-HR,Private Sector Banks,MSME,Priority,12.66
+2019,Haryana,North,IN-HR,Private Sector Banks,Housing,Priority,8.31
+2019,Haryana,North,IN-HR,Regional Rural Banks,Agriculture,Priority,4.17
+2019,Haryana,North,IN-HR,Regional Rural Banks,Manufacturing,Non-priority,5.39
+2019,Haryana,North,IN-HR,Regional Rural Banks,Services,Non-priority,5.85
+2019,Haryana,North,IN-HR,Regional Rural Banks,Retail Loans,Non-priority,4.76
+2019,Haryana,North,IN-HR,Regional Rural Banks,MSME,Priority,2.99
+2019,Haryana,North,IN-HR,Regional Rural Banks,Housing,Priority,2.05
+2020,Haryana,North,IN-HR,Public Sector Banks,Agriculture,Priority,26.77
+2020,Haryana,North,IN-HR,Public Sector Banks,Manufacturing,Non-priority,33.37
+2020,Haryana,North,IN-HR,Public Sector Banks,Services,Non-priority,42.75
+2020,Haryana,North,IN-HR,Public Sector Banks,Retail Loans,Non-priority,31.25
+2020,Haryana,North,IN-HR,Public Sector Banks,MSME,Priority,18.6
+2020,Haryana,North,IN-HR,Public Sector Banks,Housing,Priority,13.97
+2020,Haryana,North,IN-HR,Private Sector Banks,Agriculture,Priority,17.37
+2020,Haryana,North,IN-HR,Private Sector Banks,Manufacturing,Non-priority,24.24
+2020,Haryana,North,IN-HR,Private Sector Banks,Services,Non-priority,28.95
+2020,Haryana,North,IN-HR,Private Sector Banks,Retail Loans,Non-priority,19.17
+2020,Haryana,North,IN-HR,Private Sector Banks,MSME,Priority,13.47
+2020,Haryana,North,IN-HR,Private Sector Banks,Housing,Priority,9.21
+2020,Haryana,North,IN-HR,Regional Rural Banks,Agriculture,Priority,5.02
+2020,Haryana,North,IN-HR,Regional Rural Banks,Manufacturing,Non-priority,6.79
+2020,Haryana,North,IN-HR,Regional Rural Banks,Services,Non-priority,7.72
+2020,Haryana,North,IN-HR,Regional Rural Banks,Retail Loans,Non-priority,5.57
+2020,Haryana,North,IN-HR,Regional Rural Banks,MSME,Priority,3.53
+2020,Haryana,North,IN-HR,Regional Rural Banks,Housing,Priority,2.6
+2021,Haryana,North,IN-HR,Public Sector Banks,Agriculture,Priority,27.91
+2021,Haryana,North,IN-HR,Public Sector Banks,Manufacturing,Non-priority,34.7
+2021,Haryana,North,IN-HR,Public Sector Banks,Services,Non-priority,42.26
+2021,Haryana,North,IN-HR,Public Sector Banks,Retail Loans,Non-priority,30.48
+2021,Haryana,North,IN-HR,Public Sector Banks,MSME,Priority,21.11
+2021,Haryana,North,IN-HR,Public Sector Banks,Housing,Priority,13.09
+2021,Haryana,North,IN-HR,Private Sector Banks,Agriculture,Priority,20.56
+2021,Haryana,North,IN-HR,Private Sector Banks,Manufacturing,Non-priority,27.63
+2021,Haryana,North,IN-HR,Private Sector Banks,Services,Non-priority,32.71
+2021,Haryana,North,IN-HR,Private Sector Banks,Retail Loans,Non-priority,22.11
+2021,Haryana,North,IN-HR,Private Sector Banks,MSME,Priority,14.12
+2021,Haryana,North,IN-HR,Private Sector Banks,Housing,Priority,10.12
+2021,Haryana,North,IN-HR,Regional Rural Banks,Agriculture,Priority,5.77
+2021,Haryana,North,IN-HR,Regional Rural Banks,Manufacturing,Non-priority,7.66
+2021,Haryana,North,IN-HR,Regional Rural Banks,Services,Non-priority,8.5
+2021,Haryana,North,IN-HR,Regional Rural Banks,Retail Loans,Non-priority,6.6
+2021,Haryana,North,IN-HR,Regional Rural Banks,MSME,Priority,4.1
+2021,Haryana,North,IN-HR,Regional Rural Banks,Housing,Priority,2.62
+2022,Haryana,North,IN-HR,Public Sector Banks,Agriculture,Priority,30.53
+2022,Haryana,North,IN-HR,Public Sector Banks,Manufacturing,Non-priority,39.25
+2022,Haryana,North,IN-HR,Public Sector Banks,Services,Non-priority,47.92
+2022,Haryana,North,IN-HR,Public Sector Banks,Retail Loans,Non-priority,33.34
+2022,Haryana,North,IN-HR,Public Sector Banks,MSME,Priority,20.82
+2022,Haryana,North,IN-HR,Public Sector Banks,Housing,Priority,15.33
+2022,Haryana,North,IN-HR,Private Sector Banks,Agriculture,Priority,22.45
+2022,Haryana,North,IN-HR,Private Sector Banks,Manufacturing,Non-priority,30.87
+2022,Haryana,North,IN-HR,Private Sector Banks,Services,Non-priority,34.96
+2022,Haryana,North,IN-HR,Private Sector Banks,Retail Loans,Non-priority,25.74
+2022,Haryana,North,IN-HR,Private Sector Banks,MSME,Priority,17.97
+2022,Haryana,North,IN-HR,Private Sector Banks,Housing,Priority,11.1
+2022,Haryana,North,IN-HR,Regional Rural Banks,Agriculture,Priority,6.07
+2022,Haryana,North,IN-HR,Regional Rural Banks,Manufacturing,Non-priority,8.59
+2022,Haryana,North,IN-HR,Regional Rural Banks,Services,Non-priority,10.23
+2022,Haryana,North,IN-HR,Regional Rural Banks,Retail Loans,Non-priority,6.56
+2022,Haryana,North,IN-HR,Regional Rural Banks,MSME,Priority,4.7
+2022,Haryana,North,IN-HR,Regional Rural Banks,Housing,Priority,3.25
+2023,Haryana,North,IN-HR,Public Sector Banks,Agriculture,Priority,36.46
+2023,Haryana,North,IN-HR,Public Sector Banks,Manufacturing,Non-priority,43.11
+2023,Haryana,North,IN-HR,Public Sector Banks,Services,Non-priority,55.83
+2023,Haryana,North,IN-HR,Public Sector Banks,Retail Loans,Non-priority,37.84
+2023,Haryana,North,IN-HR,Public Sector Banks,MSME,Priority,27.64
+2023,Haryana,North,IN-HR,Public Sector Banks,Housing,Priority,16.54
+2023,Haryana,North,IN-HR,Private Sector Banks,Agriculture,Priority,25.22
+2023,Haryana,North,IN-HR,Private Sector Banks,Manufacturing,Non-priority,34.08
+2023,Haryana,North,IN-HR,Private Sector Banks,Services,Non-priority,38.57
+2023,Haryana,North,IN-HR,Private Sector Banks,Retail Loans,Non-priority,27.26
+2023,Haryana,North,IN-HR,Private Sector Banks,MSME,Priority,18.07
+2023,Haryana,North,IN-HR,Private Sector Banks,Housing,Priority,11.71
+2023,Haryana,North,IN-HR,Regional Rural Banks,Agriculture,Priority,6.08
+2023,Haryana,North,IN-HR,Regional Rural Banks,Manufacturing,Non-priority,8.33
+2023,Haryana,North,IN-HR,Regional Rural Banks,Services,Non-priority,10.27
+2023,Haryana,North,IN-HR,Regional Rural Banks,Retail Loans,Non-priority,7.36
+2023,Haryana,North,IN-HR,Regional Rural Banks,MSME,Priority,4.65
+2023,Haryana,North,IN-HR,Regional Rural Banks,Housing,Priority,3.04
+2024,Haryana,North,IN-HR,Public Sector Banks,Agriculture,Priority,38.6
+2024,Haryana,North,IN-HR,Public Sector Banks,Manufacturing,Non-priority,49.23
+2024,Haryana,North,IN-HR,Public Sector Banks,Services,Non-priority,59.24
+2024,Haryana,North,IN-HR,Public Sector Banks,Retail Loans,Non-priority,40.08
+2024,Haryana,North,IN-HR,Public Sector Banks,MSME,Priority,26.29
+2024,Haryana,North,IN-HR,Public Sector Banks,Housing,Priority,19.3
+2024,Haryana,North,IN-HR,Private Sector Banks,Agriculture,Priority,25.32
+2024,Haryana,North,IN-HR,Private Sector Banks,Manufacturing,Non-priority,33.6
+2024,Haryana,North,IN-HR,Private Sector Banks,Services,Non-priority,41.37
+2024,Haryana,North,IN-HR,Private Sector Banks,Retail Loans,Non-priority,31.38
+2024,Haryana,North,IN-HR,Private Sector Banks,MSME,Priority,20.35
+2024,Haryana,North,IN-HR,Private Sector Banks,Housing,Priority,14.12
+2024,Haryana,North,IN-HR,Regional Rural Banks,Agriculture,Priority,7.06
+2024,Haryana,North,IN-HR,Regional Rural Banks,Manufacturing,Non-priority,8.7
+2024,Haryana,North,IN-HR,Regional Rural Banks,Services,Non-priority,11.73
+2024,Haryana,North,IN-HR,Regional Rural Banks,Retail Loans,Non-priority,7.69
+2024,Haryana,North,IN-HR,Regional Rural Banks,MSME,Priority,5.61
+2024,Haryana,North,IN-HR,Regional Rural Banks,Housing,Priority,3.39
+2017,Odisha,East,IN-OR,Public Sector Banks,Agriculture,Priority,17.04
+2017,Odisha,East,IN-OR,Public Sector Banks,Manufacturing,Non-priority,21.57
+2017,Odisha,East,IN-OR,Public Sector Banks,Services,Non-priority,25.71
+2017,Odisha,East,IN-OR,Public Sector Banks,Retail Loans,Non-priority,17.43
+2017,Odisha,East,IN-OR,Public Sector Banks,MSME,Priority,11.65
+2017,Odisha,East,IN-OR,Public Sector Banks,Housing,Priority,7.72
+2017,Odisha,East,IN-OR,Private Sector Banks,Agriculture,Priority,12.07
+2017,Odisha,East,IN-OR,Private Sector Banks,Manufacturing,Non-priority,15.66
+2017,Odisha,East,IN-OR,Private Sector Banks,Services,Non-priority,18.8
+2017,Odisha,East,IN-OR,Private Sector Banks,Retail Loans,Non-priority,13.3
+2017,Odisha,East,IN-OR,Private Sector Banks,MSME,Priority,9.3
+2017,Odisha,East,IN-OR,Private Sector Banks,Housing,Priority,6.15
+2017,Odisha,East,IN-OR,Regional Rural Banks,Agriculture,Priority,3.07
+2017,Odisha,East,IN-OR,Regional Rural Banks,Manufacturing,Non-priority,3.76
+2017,Odisha,East,IN-OR,Regional Rural Banks,Services,Non-priority,4.95
+2017,Odisha,East,IN-OR,Regional Rural Banks,Retail Loans,Non-priority,3.33
+2017,Odisha,East,IN-OR,Regional Rural Banks,MSME,Priority,2.24
+2017,Odisha,East,IN-OR,Regional Rural Banks,Housing,Priority,1.51
+2018,Odisha,East,IN-OR,Public Sector Banks,Agriculture,Priority,18.63
+2018,Odisha,East,IN-OR,Public Sector Banks,Manufacturing,Non-priority,25.73
+2018,Odisha,East,IN-OR,Public Sector Banks,Services,Non-priority,28.71
+2018,Odisha,East,IN-OR,Public Sector Banks,Retail Loans,Non-priority,20.9
+2018,Odisha,East,IN-OR,Public Sector Banks,MSME,Priority,13.59
+2018,Odisha,East,IN-OR,Public Sector Banks,Housing,Priority,9.3
+2018,Odisha,East,IN-OR,Private Sector Banks,Agriculture,Priority,14.4
+2018,Odisha,East,IN-OR,Private Sector Banks,Manufacturing,Non-priority,17.98
+2018,Odisha,East,IN-OR,Private Sector Banks,Services,Non-priority,19.84
+2018,Odisha,East,IN-OR,Private Sector Banks,Retail Loans,Non-priority,14.8
+2018,Odisha,East,IN-OR,Private Sector Banks,MSME,Priority,10.12
+2018,Odisha,East,IN-OR,Private Sector Banks,Housing,Priority,7.12
+2018,Odisha,East,IN-OR,Regional Rural Banks,Agriculture,Priority,4.08
+2018,Odisha,East,IN-OR,Regional Rural Banks,Manufacturing,Non-priority,4.9
+2018,Odisha,East,IN-OR,Regional Rural Banks,Services,Non-priority,5.92
+2018,Odisha,East,IN-OR,Regional Rural Banks,Retail Loans,Non-priority,4.45
+2018,Odisha,East,IN-OR,Regional Rural Banks,MSME,Priority,2.82
+2018,Odisha,East,IN-OR,Regional Rural Banks,Housing,Priority,1.98
+2019,Odisha,East,IN-OR,Public Sector Banks,Agriculture,Priority,22.08
+2019,Odisha,East,IN-OR,Public Sector Banks,Manufacturing,Non-priority,27.11
+2019,Odisha,East,IN-OR,Public Sector Banks,Services,Non-priority,34.0
+2019,Odisha,East,IN-OR,Public Sector Banks,Retail Loans,Non-priority,24.22
+2019,Odisha,East,IN-OR,Public Sector Banks,MSME,Priority,15.88
+2019,Odisha,East,IN-OR,Public Sector Banks,Housing,Priority,10.5
+2019,Odisha,East,IN-OR,Private Sector Banks,Agriculture,Priority,17.46
+2019,Odisha,East,IN-OR,Private Sector Banks,Manufacturing,Non-priority,21.99
+2019,Odisha,East,IN-OR,Private Sector Banks,Services,Non-priority,25.7
+2019,Odisha,East,IN-OR,Private Sector Banks,Retail Loans,Non-priority,16.96
+2019,Odisha,East,IN-OR,Private Sector Banks,MSME,Priority,11.75
+2019,Odisha,East,IN-OR,Private Sector Banks,Housing,Priority,8.4
+2019,Odisha,East,IN-OR,Regional Rural Banks,Agriculture,Priority,4.76
+2019,Odisha,East,IN-OR,Regional Rural Banks,Manufacturing,Non-priority,5.58
+2019,Odisha,East,IN-OR,Regional Rural Banks,Services,Non-priority,7.23
+2019,Odisha,East,IN-OR,Regional Rural Banks,Retail Loans,Non-priority,5.22
+2019,Odisha,East,IN-OR,Regional Rural Banks,MSME,Priority,3.11
+2019,Odisha,East,IN-OR,Regional Rural Banks,Housing,Priority,2.17
+2020,Odisha,East,IN-OR,Public Sector Banks,Agriculture,Priority,24.57
+2020,Odisha,East,IN-OR,Public Sector Banks,Manufacturing,Non-priority,32.65
+2020,Odisha,East,IN-OR,Public Sector Banks,Services,Non-priority,38.55
+2020,Odisha,East,IN-OR,Public Sector Banks,Retail Loans,Non-priority,27.27
+2020,Odisha,East,IN-OR,Public Sector Banks,MSME,Priority,17.91
+2020,Odisha,East,IN-OR,Public Sector Banks,Housing,Priority,11.76
+2020,Odisha,East,IN-OR,Private Sector Banks,Agriculture,Priority,18.31
+2020,Odisha,East,IN-OR,Private Sector Banks,Manufacturing,Non-priority,23.61
+2020,Odisha,East,IN-OR,Private Sector Banks,Services,Non-priority,28.13
+2020,Odisha,East,IN-OR,Private Sector Banks,Retail Loans,Non-priority,19.41
+2020,Odisha,East,IN-OR,Private Sector Banks,MSME,Priority,12.15
+2020,Odisha,East,IN-OR,Private Sector Banks,Housing,Priority,8.29
+2020,Odisha,East,IN-OR,Regional Rural Banks,Agriculture,Priority,4.75
+2020,Odisha,East,IN-OR,Regional Rural Banks,Manufacturing,Non-priority,6.06
+2020,Odisha,East,IN-OR,Regional Rural Banks,Services,Non-priority,7.36
+2020,Odisha,East,IN-OR,Regional Rural Banks,Retail Loans,Non-priority,4.92
+2020,Odisha,East,IN-OR,Regional Rural Banks,MSME,Priority,3.38
+2020,Odisha,East,IN-OR,Regional Rural Banks,Housing,Priority,2.21
+2021,Odisha,East,IN-OR,Public Sector Banks,Agriculture,Priority,30.91
+2021,Odisha,East,IN-OR,Public Sector Banks,Manufacturing,Non-priority,36.29
+2021,Odisha,East,IN-OR,Public Sector Banks,Services,Non-priority,42.82
+2021,Odisha,East,IN-OR,Public Sector Banks,Retail Loans,Non-priority,33.04
+2021,Odisha,East,IN-OR,Public Sector Banks,MSME,Priority,22.46
+2021,Odisha,East,IN-OR,Public Sector Banks,Housing,Priority,14.89
+2021,Odisha,East,IN-OR,Private Sector Banks,Agriculture,Priority,20.06
+2021,Odisha,East,IN-OR,Private Sector Banks,Manufacturing,Non-priority,26.0
+2021,Odisha,East,IN-OR,Private Sector Banks,Services,Non-priority,31.89
+2021,Odisha,East,IN-OR,Private Sector Banks,Retail Loans,Non-priority,21.3
+2021,Odisha,East,IN-OR,Private Sector Banks,MSME,Priority,15.66
+2021,Odisha,East,IN-OR,Private Sector Banks,Housing,Priority,9.47
+2021,Odisha,East,IN-OR,Regional Rural Banks,Agriculture,Priority,5.52
+2021,Odisha,East,IN-OR,Regional Rural Banks,Manufacturing,Non-priority,7.09
+2021,Odisha,East,IN-OR,Regional Rural Banks,Services,Non-priority,8.73
+2021,Odisha,East,IN-OR,Regional Rural Banks,Retail Loans,Non-priority,5.94
+2021,Odisha,East,IN-OR,Regional Rural Banks,MSME,Priority,3.96
+2021,Odisha,East,IN-OR,Regional Rural Banks,Housing,Priority,2.85
+2022,Odisha,East,IN-OR,Public Sector Banks,Agriculture,Priority,35.03
+2022,Odisha,East,IN-OR,Public Sector Banks,Manufacturing,Non-priority,42.47
+2022,Odisha,East,IN-OR,Public Sector Banks,Services,Non-priority,48.45
+2022,Odisha,East,IN-OR,Public Sector Banks,Retail Loans,Non-priority,35.76
+2022,Odisha,East,IN-OR,Public Sector Banks,MSME,Priority,24.39
+2022,Odisha,East,IN-OR,Public Sector Banks,Housing,Priority,15.43
+2022,Odisha,East,IN-OR,Private Sector Banks,Agriculture,Priority,24.12
+2022,Odisha,East,IN-OR,Private Sector Banks,Manufacturing,Non-priority,33.02
+2022,Odisha,East,IN-OR,Private Sector Banks,Services,Non-priority,39.5
+2022,Odisha,East,IN-OR,Private Sector Banks,Retail Loans,Non-priority,26.49
+2022,Odisha,East,IN-OR,Private Sector Banks,MSME,Priority,18.09
+2022,Odisha,East,IN-OR,Private Sector Banks,Housing,Priority,12.75
+2022,Odisha,East,IN-OR,Regional Rural Banks,Agriculture,Priority,6.13
+2022,Odisha,East,IN-OR,Regional Rural Banks,Manufacturing,Non-priority,7.86
+2022,Odisha,East,IN-OR,Regional Rural Banks,Services,Non-priority,8.78
+2022,Odisha,East,IN-OR,Regional Rural Banks,Retail Loans,Non-priority,6.27
+2022,Odisha,East,IN-OR,Regional Rural Banks,MSME,Priority,4.37
+2022,Odisha,East,IN-OR,Regional Rural Banks,Housing,Priority,2.99
+2023,Odisha,East,IN-OR,Public Sector Banks,Agriculture,Priority,35.54
+2023,Odisha,East,IN-OR,Public Sector Banks,Manufacturing,Non-priority,43.67
+2023,Odisha,East,IN-OR,Public Sector Banks,Services,Non-priority,57.44
+2023,Odisha,East,IN-OR,Public Sector Banks,Retail Loans,Non-priority,40.83
+2023,Odisha,East,IN-OR,Public Sector Banks,MSME,Priority,26.92
+2023,Odisha,East,IN-OR,Public Sector Banks,Housing,Priority,16.97
+2023,Odisha,East,IN-OR,Private Sector Banks,Agriculture,Priority,26.62
+2023,Odisha,East,IN-OR,Private Sector Banks,Manufacturing,Non-priority,33.09
+2023,Odisha,East,IN-OR,Private Sector Banks,Services,Non-priority,38.58
+2023,Odisha,East,IN-OR,Private Sector Banks,Retail Loans,Non-priority,28.04
+2023,Odisha,East,IN-OR,Private Sector Banks,MSME,Priority,17.66
+2023,Odisha,East,IN-OR,Private Sector Banks,Housing,Priority,11.95
+2023,Odisha,East,IN-OR,Regional Rural Banks,Agriculture,Priority,6.38
+2023,Odisha,East,IN-OR,Regional Rural Banks,Manufacturing,Non-priority,9.03
+2023,Odisha,East,IN-OR,Regional Rural Banks,Services,Non-priority,10.46
+2023,Odisha,East,IN-OR,Regional Rural Banks,Retail Loans,Non-priority,7.53
+2023,Odisha,East,IN-OR,Regional Rural Banks,MSME,Priority,4.62
+2023,Odisha,East,IN-OR,Regional Rural Banks,Housing,Priority,3.17
+2024,Odisha,East,IN-OR,Public Sector Banks,Agriculture,Priority,41.36
+2024,Odisha,East,IN-OR,Public Sector Banks,Manufacturing,Non-priority,50.64
+2024,Odisha,East,IN-OR,Public Sector Banks,Services,Non-priority,60.29
+2024,Odisha,East,IN-OR,Public Sector Banks,Retail Loans,Non-priority,43.52
+2024,Odisha,East,IN-OR,Public Sector Banks,MSME,Priority,28.53
+2024,Odisha,East,IN-OR,Public Sector Banks,Housing,Priority,19.48
+2024,Odisha,East,IN-OR,Private Sector Banks,Agriculture,Priority,29.31
+2024,Odisha,East,IN-OR,Private Sector Banks,Manufacturing,Non-priority,38.98
+2024,Odisha,East,IN-OR,Private Sector Banks,Services,Non-priority,47.6
+2024,Odisha,East,IN-OR,Private Sector Banks,Retail Loans,Non-priority,35.28
+2024,Odisha,East,IN-OR,Private Sector Banks,MSME,Priority,22.06
+2024,Odisha,East,IN-OR,Private Sector Banks,Housing,Priority,15.17
+2024,Odisha,East,IN-OR,Regional Rural Banks,Agriculture,Priority,7.24
+2024,Odisha,East,IN-OR,Regional Rural Banks,Manufacturing,Non-priority,10.27
+2024,Odisha,East,IN-OR,Regional Rural Banks,Services,Non-priority,11.78
+2024,Odisha,East,IN-OR,Regional Rural Banks,Retail Loans,Non-priority,8.78
+2024,Odisha,East,IN-OR,Regional Rural Banks,MSME,Priority,5.39
+2024,Odisha,East,IN-OR,Regional Rural Banks,Housing,Priority,3.8
+2017,Assam,North East,IN-AS,Public Sector Banks,Agriculture,Priority,12.33
+2017,Assam,North East,IN-AS,Public Sector Banks,Manufacturing,Non-priority,15.82
+2017,Assam,North East,IN-AS,Public Sector Banks,Services,Non-priority,18.61
+2017,Assam,North East,IN-AS,Public Sector Banks,Retail Loans,Non-priority,13.4
+2017,Assam,North East,IN-AS,Public Sector Banks,MSME,Priority,8.71
+2017,Assam,North East,IN-AS,Public Sector Banks,Housing,Priority,5.85
+2017,Assam,North East,IN-AS,Private Sector Banks,Agriculture,Priority,9.61
+2017,Assam,North East,IN-AS,Private Sector Banks,Manufacturing,Non-priority,11.04
+2017,Assam,North East,IN-AS,Private Sector Banks,Services,Non-priority,13.43
+2017,Assam,North East,IN-AS,Private Sector Banks,Retail Loans,Non-priority,9.63
+2017,Assam,North East,IN-AS,Private Sector Banks,MSME,Priority,6.12
+2017,Assam,North East,IN-AS,Private Sector Banks,Housing,Priority,4.46
+2017,Assam,North East,IN-AS,Regional Rural Banks,Agriculture,Priority,2.12
+2017,Assam,North East,IN-AS,Regional Rural Banks,Manufacturing,Non-priority,2.78
+2017,Assam,North East,IN-AS,Regional Rural Banks,Services,Non-priority,3.42
+2017,Assam,North East,IN-AS,Regional Rural Banks,Retail Loans,Non-priority,2.5
+2017,Assam,North East,IN-AS,Regional Rural Banks,MSME,Priority,1.62
+2017,Assam,North East,IN-AS,Regional Rural Banks,Housing,Priority,1.06
+2018,Assam,North East,IN-AS,Public Sector Banks,Agriculture,Priority,13.73
+2018,Assam,North East,IN-AS,Public Sector Banks,Manufacturing,Non-priority,17.13
+2018,Assam,North East,IN-AS,Public Sector Banks,Services,Non-priority,20.5
+2018,Assam,North East,IN-AS,Public Sector Banks,Retail Loans,Non-priority,15.03
+2018,Assam,North East,IN-AS,Public Sector Banks,MSME,Priority,10.75
+2018,Assam,North East,IN-AS,Public Sector Banks,Housing,Priority,7.12
+2018,Assam,North East,IN-AS,Private Sector Banks,Agriculture,Priority,9.16
+2018,Assam,North East,IN-AS,Private Sector Banks,Manufacturing,Non-priority,11.98
+2018,Assam,North East,IN-AS,Private Sector Banks,Services,Non-priority,15.0
+2018,Assam,North East,IN-AS,Private Sector Banks,Retail Loans,Non-priority,10.22
+2018,Assam,North East,IN-AS,Private Sector Banks,MSME,Priority,7.24
+2018,Assam,North East,IN-AS,Private Sector Banks,Housing,Priority,4.55
+2018,Assam,North East,IN-AS,Regional Rural Banks,Agriculture,Priority,2.43
+2018,Assam,North East,IN-AS,Regional Rural Banks,Manufacturing,Non-priority,3.23
+2018,Assam,North East,IN-AS,Regional Rural Banks,Services,Non-priority,3.71
+2018,Assam,North East,IN-AS,Regional Rural Banks,Retail Loans,Non-priority,2.8
+2018,Assam,North East,IN-AS,Regional Rural Banks,MSME,Priority,1.66
+2018,Assam,North East,IN-AS,Regional Rural Banks,Housing,Priority,1.23
+2019,Assam,North East,IN-AS,Public Sector Banks,Agriculture,Priority,15.27
+2019,Assam,North East,IN-AS,Public Sector Banks,Manufacturing,Non-priority,18.63
+2019,Assam,North East,IN-AS,Public Sector Banks,Services,Non-priority,24.66
+2019,Assam,North East,IN-AS,Public Sector Banks,Retail Loans,Non-priority,16.21
+2019,Assam,North East,IN-AS,Public Sector Banks,MSME,Priority,10.88
+2019,Assam,North East,IN-AS,Public Sector Banks,Housing,Priority,7.45
+2019,Assam,North East,IN-AS,Private Sector Banks,Agriculture,Priority,11.3
+2019,Assam,North East,IN-AS,Private Sector Banks,Manufacturing,Non-priority,15.01
+2019,Assam,North East,IN-AS,Private Sector Banks,Services,Non-priority,18.04
+2019,Assam,North East,IN-AS,Private Sector Banks,Retail Loans,Non-priority,12.54
+2019,Assam,North East,IN-AS,Private Sector Banks,MSME,Priority,8.51
+2019,Assam,North East,IN-AS,Private Sector Banks,Housing,Priority,5.34
+2019,Assam,North East,IN-AS,Regional Rural Banks,Agriculture,Priority,2.83
+2019,Assam,North East,IN-AS,Regional Rural Banks,Manufacturing,Non-priority,3.31
+2019,Assam,North East,IN-AS,Regional Rural Banks,Services,Non-priority,4.27
+2019,Assam,North East,IN-AS,Regional Rural Banks,Retail Loans,Non-priority,2.97
+2019,Assam,North East,IN-AS,Regional Rural Banks,MSME,Priority,2.05
+2019,Assam,North East,IN-AS,Regional Rural Banks,Housing,Priority,1.25
+2020,Assam,North East,IN-AS,Public Sector Banks,Agriculture,Priority,18.36
+2020,Assam,North East,IN-AS,Public Sector Banks,Manufacturing,Non-priority,21.51
+2020,Assam,North East,IN-AS,Public Sector Banks,Services,Non-priority,24.51
+2020,Assam,North East,IN-AS,Public Sector Banks,Retail Loans,Non-priority,18.08
+2020,Assam,North East,IN-AS,Public Sector Banks,MSME,Priority,12.32
+2020,Assam,North East,IN-AS,Public Sector Banks,Housing,Priority,7.81
+2020,Assam,North East,IN-AS,Private Sector Banks,Agriculture,Priority,12.9
+2020,Assam,North East,IN-AS,Private Sector Banks,Manufacturing,Non-priority,16.17
+2020,Assam,North East,IN-AS,Private Sector Banks,Services,Non-priority,18.37
+2020,Assam,North East,IN-AS,Private Sector Banks,Retail Loans,Non-priority,14.05
+2020,Assam,North East,IN-AS,Private Sector Banks,MSME,Priority,8.94
+2020,Assam,North East,IN-AS,Private Sector Banks,Housing,Priority,5.78
+2020,Assam,North East,IN-AS,Regional Rural Banks,Agriculture,Priority,3.38
+2020,Assam,North East,IN-AS,Regional Rural Banks,Manufacturing,Non-priority,3.98
+2020,Assam,North East,IN-AS,Regional Rural Banks,Services,Non-priority,4.75
+2020,Assam,North East,IN-AS,Regional Rural Banks,Retail Loans,Non-priority,3.63
+2020,Assam,North East,IN-AS,Regional Rural Banks,MSME,Priority,2.38
+2020,Assam,North East,IN-AS,Regional Rural Banks,Housing,Priority,1.53
+2021,Assam,North East,IN-AS,Public Sector Banks,Agriculture,Priority,21.83
+2021,Assam,North East,IN-AS,Public Sector Banks,Manufacturing,Non-priority,25.68
+2021,Assam,North East,IN-AS,Public Sector Banks,Services,Non-priority,29.99
+2021,Assam,North East,IN-AS,Public Sector Banks,Retail Loans,Non-priority,23.89
+2021,Assam,North East,IN-AS,Public Sector Banks,MSME,Priority,15.83
+2021,Assam,North East,IN-AS,Public Sector Banks,Housing,Priority,9.86
+2021,Assam,North East,IN-AS,Private Sector Banks,Agriculture,Priority,14.3
+2021,Assam,North East,IN-AS,Private Sector Banks,Manufacturing,Non-priority,17.7
+2021,Assam,North East,IN-AS,Private Sector Banks,Services,Non-priority,20.01
+2021,Assam,North East,IN-AS,Private Sector Banks,Retail Loans,Non-priority,14.84
+2021,Assam,North East,IN-AS,Private Sector Banks,MSME,Priority,10.24
+2021,Assam,North East,IN-AS,Private Sector Banks,Housing,Priority,6.28
+2021,Assam,North East,IN-AS,Regional Rural Banks,Agriculture,Priority,3.45
+2021,Assam,North East,IN-AS,Regional Rural Banks,Manufacturing,Non-priority,4.91
+2021,Assam,North East,IN-AS,Regional Rural Banks,Services,Non-priority,5.63
+2021,Assam,North East,IN-AS,Regional Rural Banks,Retail Loans,Non-priority,4.07
+2021,Assam,North East,IN-AS,Regional Rural Banks,MSME,Priority,2.49
+2021,Assam,North East,IN-AS,Regional Rural Banks,Housing,Priority,1.81
+2022,Assam,North East,IN-AS,Public Sector Banks,Agriculture,Priority,20.79
+2022,Assam,North East,IN-AS,Public Sector Banks,Manufacturing,Non-priority,25.11
+2022,Assam,North East,IN-AS,Public Sector Banks,Services,Non-priority,32.23
+2022,Assam,North East,IN-AS,Public Sector Banks,Retail Loans,Non-priority,23.12
+2022,Assam,North East,IN-AS,Public Sector Banks,MSME,Priority,14.72
+2022,Assam,North East,IN-AS,Public Sector Banks,Housing,Priority,10.25
+2022,Assam,North East,IN-AS,Private Sector Banks,Agriculture,Priority,14.66
+2022,Assam,North East,IN-AS,Private Sector Banks,Manufacturing,Non-priority,20.22
+2022,Assam,North East,IN-AS,Private Sector Banks,Services,Non-priority,22.0
+2022,Assam,North East,IN-AS,Private Sector Banks,Retail Loans,Non-priority,17.24
+2022,Assam,North East,IN-AS,Private Sector Banks,MSME,Priority,10.59
+2022,Assam,North East,IN-AS,Private Sector Banks,Housing,Priority,7.04
+2022,Assam,North East,IN-AS,Regional Rural Banks,Agriculture,Priority,3.7
+2022,Assam,North East,IN-AS,Regional Rural Banks,Manufacturing,Non-priority,4.83
+2022,Assam,North East,IN-AS,Regional Rural Banks,Services,Non-priority,5.53
+2022,Assam,North East,IN-AS,Regional Rural Banks,Retail Loans,Non-priority,4.27
+2022,Assam,North East,IN-AS,Regional Rural Banks,MSME,Priority,2.69
+2022,Assam,North East,IN-AS,Regional Rural Banks,Housing,Priority,1.73
+2023,Assam,North East,IN-AS,Public Sector Banks,Agriculture,Priority,22.63
+2023,Assam,North East,IN-AS,Public Sector Banks,Manufacturing,Non-priority,27.28
+2023,Assam,North East,IN-AS,Public Sector Banks,Services,Non-priority,35.67
+2023,Assam,North East,IN-AS,Public Sector Banks,Retail Loans,Non-priority,26.59
+2023,Assam,North East,IN-AS,Public Sector Banks,MSME,Priority,17.51
+2023,Assam,North East,IN-AS,Public Sector Banks,Housing,Priority,11.39
+2023,Assam,North East,IN-AS,Private Sector Banks,Agriculture,Priority,16.63
+2023,Assam,North East,IN-AS,Private Sector Banks,Manufacturing,Non-priority,19.31
+2023,Assam,North East,IN-AS,Private Sector Banks,Services,Non-priority,23.6
+2023,Assam,North East,IN-AS,Private Sector Banks,Retail Loans,Non-priority,17.03
+2023,Assam,North East,IN-AS,Private Sector Banks,MSME,Priority,12.46
+2023,Assam,North East,IN-AS,Private Sector Banks,Housing,Priority,7.58
+2023,Assam,North East,IN-AS,Regional Rural Banks,Agriculture,Priority,4.12
+2023,Assam,North East,IN-AS,Regional Rural Banks,Manufacturing,Non-priority,5.37
+2023,Assam,North East,IN-AS,Regional Rural Banks,Services,Non-priority,6.87
+2023,Assam,North East,IN-AS,Regional Rural Banks,Retail Loans,Non-priority,4.67
+2023,Assam,North East,IN-AS,Regional Rural Banks,MSME,Priority,3.28
+2023,Assam,North East,IN-AS,Regional Rural Banks,Housing,Priority,2.0
+2024,Assam,North East,IN-AS,Public Sector Banks,Agriculture,Priority,26.67
+2024,Assam,North East,IN-AS,Public Sector Banks,Manufacturing,Non-priority,31.49
+2024,Assam,North East,IN-AS,Public Sector Banks,Services,Non-priority,38.67
+2024,Assam,North East,IN-AS,Public Sector Banks,Retail Loans,Non-priority,28.31
+2024,Assam,North East,IN-AS,Public Sector Banks,MSME,Priority,19.25
+2024,Assam,North East,IN-AS,Public Sector Banks,Housing,Priority,13.2
+2024,Assam,North East,IN-AS,Private Sector Banks,Agriculture,Priority,19.28
+2024,Assam,North East,IN-AS,Private Sector Banks,Manufacturing,Non-priority,26.07
+2024,Assam,North East,IN-AS,Private Sector Banks,Services,Non-priority,28.6
+2024,Assam,North East,IN-AS,Private Sector Banks,Retail Loans,Non-priority,21.03
+2024,Assam,North East,IN-AS,Private Sector Banks,MSME,Priority,14.82
+2024,Assam,North East,IN-AS,Private Sector Banks,Housing,Priority,9.77
+2024,Assam,North East,IN-AS,Regional Rural Banks,Agriculture,Priority,5.53
+2024,Assam,North East,IN-AS,Regional Rural Banks,Manufacturing,Non-priority,6.41
+2024,Assam,North East,IN-AS,Regional Rural Banks,Services,Non-priority,8.61
+2024,Assam,North East,IN-AS,Regional Rural Banks,Retail Loans,Non-priority,5.64
+2024,Assam,North East,IN-AS,Regional Rural Banks,MSME,Priority,3.87
+2024,Assam,North East,IN-AS,Regional Rural Banks,Housing,Priority,2.63
