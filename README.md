@@ -104,19 +104,19 @@ This is a transparent analytical benchmark, not a regulatory credit prescription
 ![Overview dashboard](assets/images/Dashboard.png)
 
 ### State Analysis
-![State analysis](assets/images/State-Analysis.png)
+![State analysis](assets/images/State Analysis.png)
 
 ### Sector Analysis
-![Sector analysis](assets/images/Sector-Analysis.png)
+![Sector analysis](assets/images/Sector Analysis.png)
 
 ### Forecast
 ![Forecast](assets/images/Forecast.png)
 
 ### Credit Gap Analysis
-![Credit gap analysis](assets/images/Credit-Gap.png)
+![Credit gap analysis](assets/images/Credit Gap.png)
 
 ### Executive Insights
-![Executive insights](assets/images/Executive-Insights.png)
+![Executive insights](assets/images/Executive Insights.png)
 
 ## Testing
 
