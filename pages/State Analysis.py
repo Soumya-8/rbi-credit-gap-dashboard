@@ -54,6 +54,9 @@ with c4:
     )
 
 table = latest.sort_values("credit_crore", ascending=False)
+table = latest.sort_values("credit_crore", ascending=False)
+table = table.reset_index(drop=True)
+table.index = table.index + 1
 st.dataframe(table, use_container_width=True)
 st.download_button("Export state analysis", to_csv_download(table), "state_analysis.csv", "text/csv")
 

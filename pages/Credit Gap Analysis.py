@@ -82,5 +82,7 @@ display = gap[
         "opportunity_index",
     ]
 ]
+display = display.reset_index(drop=True)
+display.index = display.index + 1
 st.dataframe(display, use_container_width=True)
 st.download_button("Export credit gap table", to_csv_download(display), "credit_gap_analysis.csv", "text/csv")
