@@ -4,6 +4,8 @@ A production-style Streamlit analytics project for exploring Indian banking cred
 
 The bundled datasets are deterministic, representative RBI-style sample files so the project runs immediately. The data pipeline is modular, so public RBI CSV/XLSX extracts can replace the sample files under `data/raw/` with the same schema.
 
+**Note on data:** All figures in this dashboard are synthetically generated for demonstration purposes and do not represent actual RBI, state, or bank-level data. The generation logic follows realistic ranges and relationships (state population, deposit-credit ratios, sector allocation) so the analytics and visualizations behave as they would on real data. To use real figures, replace the CSV files in `data/raw/` with actual RBI extracts using the same column schema.
+
 ## Features
 
 - Multipage Streamlit dashboard with overview, sector analysis, state analysis, credit gap analysis, forecasting, and executive insights.
